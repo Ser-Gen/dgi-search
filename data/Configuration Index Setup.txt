@@ -1,0 +1,6275 @@
+eXoID	Setup
+DOS00001	Parameters added to boot command
+DOS00002	No setup found
+DOS00003	No setup found
+DOS00004	No setup found
+DOS00005	No setup found
+DOS00006	No setup found
+DOS00007	No setup found
+DOS00008	Options during startup
+DOS00009	No setup found
+DOS00010	No setup found
+DOS00011	No setup found
+DOS00012	No setup found
+DOS00013	No setup found
+DOS00014	No setup found
+DOS00015	No setup found
+DOS00016	No setup found
+DOS00017	No setup found
+DOS00018	No setup found
+DOS00019	Embedded in batchfile
+DOS00020	No setup found
+DOS00021	No setup found
+DOS00022	No setup found
+DOS00023	No setup found
+DOS00024	No setup found
+DOS00025	No setup found
+DOS00026	Options during startup
+DOS00027	No setup found
+DOS00028	No setup found
+DOS00029	No setup found
+DOS00030	No setup found
+DOS00031	No setup found
+DOS00032	No setup found
+DOS00033	No setup found
+DOS00034	Options during startup
+DOS00035	No setup found
+DOS00036	No setup found
+DOS00037	No setup found
+DOS00038	No setup found
+DOS00039	No setup found
+DOS00040	No setup found
+DOS00041	No setup found
+DOS00042	No setup found
+DOS00044	No setup found
+DOS00045	No setup found
+DOS00046	No setup found
+DOS00047	Options during startup
+DOS00048	No setup found
+DOS00049	No setup found
+DOS00050	No setup found
+DOS00051	No setup found
+DOS00052	No setup found
+DOS00053	Options during startup
+DOS00054	No setup found
+DOS00055	No setup found
+DOS00056	No setup found
+DOS00057	No setup found
+DOS00058	No setup found
+DOS00059	No setup found
+DOS00060	No setup found
+DOS00061	No setup found
+DOS00063	No setup found
+DOS00064	No setup found
+DOS00065	No setup found
+DOS00066	No setup found
+DOS00067	No setup found
+DOS00068	No setup found
+DOS00069	No setup found
+DOS00070	No setup found
+DOS00071	No setup found
+DOS00072	No setup found
+DOS00073	No setup found
+DOS00074	No setup found
+DOS00075	No setup found
+DOS00076	No setup found
+DOS00077	No setup found
+DOS00078	No setup found
+DOS00079	No setup found
+DOS00080	No setup found
+DOS00081	No setup found
+DOS00082	No setup found
+DOS00083	No setup found
+DOS00084	No setup found
+DOS00085	No setup found
+DOS00086	No setup found
+DOS00087	No setup found
+DOS00088	No setup found
+DOS00089	No setup found
+DOS00090	No setup found
+DOS00091	No setup found
+DOS00092	No setup found
+DOS00093	No setup found
+DOS00094	No setup found
+DOS00095	No setup found
+DOS00096	No setup found
+DOS00097	No setup found
+DOS00098	No setup found
+DOS00099	No setup found
+DOS00100	No setup found
+DOS00101	No setup found
+DOS00102	No setup found
+DOS00103	No setup found
+DOS00104	No setup found
+DOS00105	No setup found
+DOS00106	No setup found
+DOS00107	No setup found
+DOS00108	No setup found
+DOS00109	No setup found
+DOS00110	No setup found
+DOS00111	No setup found
+DOS00112	No setup found
+DOS00114	No setup found
+DOS00115	No setup found
+DOS00116	No setup found
+DOS00117	No setup found
+DOS00118	SETUP.EXE
+DOS00119	No setup found
+DOS00120	No setup found
+DOS00121	No setup found
+DOS00122	No setup found
+DOS00124	No setup found
+DOS00125	No setup found
+DOS00126	No setup found
+DOS00127	No setup found
+DOS00128	No setup found
+DOS00129	No setup found
+DOS00130	No setup found
+DOS00131	No setup found
+DOS00132	No setup found
+DOS00133	No setup found
+DOS00134	No setup found
+DOS00135	No setup found
+DOS00136	No setup found
+DOS00137	No setup found
+DOS00138	No setup found
+DOS00139	No setup found
+DOS00140	C-CONFIG.EXE
+DOS00141	No setup found
+DOS00142	No setup found
+DOS00143	No setup found
+DOS00144	No setup found
+DOS00145	No setup found
+DOS00146	No setup found
+DOS00147	No setup found
+DOS00148	No setup found
+DOS00149	No setup found
+DOS00150	No setup found
+DOS00151	No setup found
+DOS00152	No setup found
+DOS00153	Options during startup
+DOS00154	No setup found
+DOS00155	No setup found
+DOS00156	No setup found
+DOS00157	No setup found
+DOS00158	No setup found
+DOS00159	No setup found
+DOS00160	No setup found
+DOS00161	No setup found
+DOS00162	No setup found
+DOS00163	No setup found
+DOS00164	No setup found
+DOS00165	No setup found
+DOS00166	Options during startup
+DOS00167	No setup found
+DOS00168	No setup found
+DOS00169	No setup found
+DOS00170	No setup found
+DOS00171	No setup found
+DOS00172	No setup found
+DOS00173	No setup found
+DOS00174	No setup found
+DOS00175	No setup found
+DOS00176	No setup found
+DOS00177	No setup found
+DOS00178	No setup found
+DOS00179	No setup found
+DOS00180	No setup found
+DOS00181	No setup found
+DOS00182	No setup found
+DOS00183	No setup found
+DOS00184	Options during startup
+DOS00185	No setup found
+DOS00186	No setup found
+DOS00187	Options during startup
+DOS00188	No setup found
+DOS00189	No setup found
+DOS00190	Optional executeables
+DOS00191	No setup found
+DOS00192	No setup found
+DOS00193	No setup found
+DOS00194	No setup found
+DOS00195	No setup found
+DOS00196	No setup found
+DOS00197	No setup found
+DOS00198	No setup found
+DOS00199	No setup found
+DOS00200	No setup found
+DOS00201	No setup found
+DOS00202	No setup found
+DOS00204	No setup found
+DOS00205	No setup found
+DOS00206	No setup found
+DOS00207	No setup found
+DOS00208	No setup found
+DOS00210	No setup found
+DOS00211	No setup found
+DOS00212	No setup found
+DOS00213	Options during startup
+DOS00214	No setup found
+DOS00215	Options during startup
+DOS00216	No setup found
+DOS00217	SETTINGS.EXE
+DOS00218	No setup found
+DOS00219	No setup found
+DOS00220	No setup found
+DOS00221	Options during startup
+DOS00222	No setup found
+DOS00223	No setup found
+DOS00224	No setup found
+DOS00226	No setup found
+DOS00227	No setup found
+DOS00228	No setup found
+DOS00229	No setup found
+DOS00230	No setup found
+DOS00231	No setup found
+DOS00232	No setup found
+DOS00233	No setup found
+DOS00234	No setup found
+DOS00235	No setup found
+DOS00236	No setup found
+DOS00237	No setup found
+DOS00238	No setup found
+DOS00239	No setup found
+DOS00240	No setup found
+DOS00241	No setup found
+DOS00242	No setup found
+DOS00243	No setup found
+DOS00244	Options during startup
+DOS00245	No setup found
+DOS00246	No setup found
+DOS00247	No setup found
+DOS00248	No setup found
+DOS00249	No setup found
+DOS00250	No setup found
+DOS00251	SETUP.EXE
+DOS00252	No setup found
+DOS00253	setup.exe
+DOS00254	SETUP.EXE
+DOS00255	No setup found
+DOS00256	INSTALL.EXE
+DOS00257	No setup found
+DOS00258	No setup found
+DOS00259	No setup found
+DOS00260	No setup found
+DOS00261	No setup found
+DOS00262	No setup found
+DOS00263	No setup found
+DOS00264	Options during startup
+DOS00265	No setup found
+DOS00266	No setup found
+DOS00267	No setup found
+DOS00268	No setup found
+DOS00269	No setup found
+DOS00270	SETUP.BAT
+DOS00271	No setup found
+DOS00272	No setup found
+DOS00273	SNDSETUP.EXE
+DOS00275	No setup found
+DOS00276	No setup found
+DOS00277	No setup found
+DOS00278	No setup found
+DOS00280	SETD.EXE
+DOS00281	No setup found
+DOS00282	No setup found
+DOS00283	WPSETUP.EXE
+DOS00284	No setup found
+DOS00285	SETSOUND.BAT
+DOS00286	No setup found
+DOS00287	No setup found
+DOS00292	No setup found
+DOS00299	No setup found
+DOS00300	No setup found
+DOS00301	No setup found
+DOS00302	No setup found
+DOS00303	Options during startup
+DOS00305	No setup found
+DOS00307	SETUP.EXE
+DOS00308	No setup found
+DOS00309	No setup found
+DOS00310	PKCONFIG.EXE
+DOS00312	No setup found
+DOS00313	No setup found
+DOS00314	INSTALL.EXE
+DOS00315	SETUP.BAT
+DOS00316	No setup found
+DOS00317	No setup found
+DOS00318	Options during startup
+DOS00319	Options during startup
+DOS00320	No setup found
+DOS00321	No setup found
+DOS00322	No setup found
+DOS00323	No setup found
+DOS00324	No setup found
+DOS00325	No setup found
+DOS00326	No setup found
+DOS00327	No setup found
+DOS00328	No setup found
+DOS00329	No setup found
+DOS00330	D:\INSTALL.EXE
+DOS00331	No setup found
+DOS00332	Parameters added to boot command
+DOS00334	No setup found
+DOS00337	No setup found
+DOS00338	No setup found
+DOS00342	SETSND.EXE
+DOS00343	No setup found
+DOS00344	Parameters added to boot command
+DOS00345	Parameters added to boot command
+DOS00346	No setup found
+DOS00347	INSTALL.EXE
+DOS00348	No setup found
+DOS00349	No setup found
+DOS00350	Options during startup
+DOS00352	SETUP.EXE
+DOS00354	No setup found
+DOS00355	SETSVGA.EXE
+DOS00356	No setup found
+DOS00357	No setup found
+DOS00360	No setup found
+DOS00361	No setup found
+DOS00362	No setup found
+DOS00364	SETUP.EXE
+DOS00365	Options during startup
+DOS00366	No setup found
+DOS00368	SETUP.EXE
+DOS00369	No setup found
+DOS00370	No setup found
+DOS00371	No setup found
+DOS00372	No setup found
+DOS00373	No setup found
+DOS00374	No setup found
+DOS00375	No setup found
+DOS00376	No setup found
+DOS00377	Options during startup
+DOS00378	No setup found
+DOS00379	No setup found
+DOS00380	SETUP.EXE
+DOS00381	No setup found
+DOS00382	No setup found
+DOS00383	No setup found
+DOS00384	Options during startup
+DOS00385	No setup found
+DOS00386	No setup found
+DOS00387	No setup found
+DOS00388	No setup found
+DOS00389	No setup found
+DOS00390	No setup found
+DOS00391	No setup found
+DOS00392	No setup found
+DOS00393	No setup found
+DOS00394	No setup found
+DOS00395	No setup found
+DOS00396	No setup found
+DOS00397	Options during startup
+DOS00398	No setup found
+DOS00401	SETUP.EXE
+DOS00402	SETUP.EXE
+DOS00403	No setup found
+DOS00404	No setup found
+DOS00409	No setup found
+DOS00410	No setup found
+DOS00411	No setup found
+DOS00412	No setup found
+DOS00413	INSTALL.EXE
+DOS00414	No setup found
+DOS00415	No setup found
+DOS00416	No setup found
+DOS00417	No setup found
+DOS00418	No setup found
+DOS00419	No setup found
+DOS00420	No setup found
+DOS00421	No setup found
+DOS00422	No setup found
+DOS00423	No setup found
+DOS00424	No setup found
+DOS00425	No setup found
+DOS00426	No setup found
+DOS00427	No setup found
+DOS00428	No setup found
+DOS00429	No setup found
+DOS00430	No setup found
+DOS00431	No setup found
+DOS00432	No setup found
+DOS00433	No setup found
+DOS00434	No setup found
+DOS00435	No setup found
+DOS00437	No setup found
+DOS00438	No setup found
+DOS00439	Options during startup
+DOS00440	No setup found
+DOS00441	No setup found
+DOS00442	No setup found
+DOS00443	No setup found
+DOS00446	No setup found
+DOS00447	No setup found
+DOS00448	No setup found
+DOS00449	No setup found
+DOS00450	No setup found
+DOS00451	No setup found
+DOS00452	No setup found
+DOS00453	No setup found
+DOS00454	SETUP.EXE
+DOS00455	SETUP.EXE
+DOS00456	No setup found
+DOS00457	SETUP.EXE
+DOS00458	INSTALL.EXE
+DOS00459	D:\SETUP.BAT
+DOS00460	No setup found
+DOS00461	SETUP.EXE
+DOS00463	INSTALL.EXE
+DOS00467	Optional executeables
+DOS00468	Options during startup
+DOS00470	No setup found
+DOS00472	No setup found
+DOS00473	Options during startup
+DOS00474	No setup found
+DOS00475	No setup found
+DOS00476	No setup found
+DOS00477	CONFIG.EXE
+DOS00478	INSTALL.EXE
+DOS00479	SETUP.EXE
+DOS00480	No setup found
+DOS00481	No setup found
+DOS00482	SETUP.BAT
+DOS00483	SETSOUND.EXE
+DOS00484	No setup found
+DOS00485	SETUP.EXE
+DOS00486	No setup found
+DOS00489	No setup found
+DOS00490	No setup found
+DOS00491	No setup found
+DOS00492	No setup found
+DOS00494	SOUNDSET.EXE
+DOS00495	No setup found
+DOS00496	No setup found
+DOS00497	Options during startup
+DOS00498	SETUP.EXE
+DOS00500	SETUP.EXE
+DOS00501	No setup found
+DOS00502	No setup found
+DOS00503	No setup found
+DOS00504	INSTALL.EXE
+DOS00519	SETSOUND.BAT
+DOS00520	No setup found
+DOS00521	Options during startup
+DOS00522	Options during startup
+DOS00523	SETUP.EXE
+DOS00524	No setup found
+DOS00525	No setup found
+DOS00526	No setup found
+DOS00527	No setup found
+DOS00528	SETUP.EXE
+DOS00529	No setup found
+DOS00530	No setup found
+DOS00532	No setup found
+DOS00533	Options during startup
+DOS00534	Options during startup
+DOS00536	No setup found
+DOS00538	No setup found
+DOS00539	No setup found
+DOS00540	Options during startup
+DOS00541	No setup found
+DOS00542	No setup found
+DOS00543	INSTALL.EXE
+DOS00544	SETUP.EXE
+DOS00547	Options during startup
+DOS00548	INSTALL.EXE
+DOS00549	No setup found
+DOS00550	No setup found
+DOS00551	In-Game Menu
+DOS00554	No setup found
+DOS00555	No setup found
+DOS00556	No setup found
+DOS00557	SOUND.EXE
+DOS00558	No setup found
+DOS00559	No setup found
+DOS00560	SOUND.BAT
+DOS00561	No setup found
+DOS00562	No setup found
+DOS00563	No setup found
+DOS00564	No setup found
+DOS00565	No setup found
+DOS00566	SETSOUND.EXE
+DOS00567	SETSOUND.EXE
+DOS00568	No setup found
+DOS00569	INSTALL.EXE
+DOS00571	Options during startup
+DOS00572	No setup found
+DOS00573	INSTALL.EXE
+DOS00574	SETUP.EXE
+DOS00576	No setup found
+DOS00581	INSTALL.EXE
+DOS00582	INSTALL.EXE
+DOS00583	INSTALL.EXE
+DOS00585	No setup found
+DOS00586	No setup found
+DOS00587	SETSOUND.EXE
+DOS00588	No setup found
+DOS00589	SOUND.BAT
+DOS00590	Options during startup
+DOS00591	setup.exe
+DOS00592	Options during startup
+DOS00593	No setup found
+DOS00594	No setup found
+DOS00595	No setup found
+DOS00596	No setup found
+DOS00597	Options during startup
+DOS00598	Options during startup
+DOS00599	No setup found
+DOS00600	No setup found
+DOS00601	No setup found
+DOS00602	SETUP.BAT
+DOS00603	Options during startup
+DOS00604	No setup found
+DOS00605	Embedded in batchfile
+DOS00610	No setup found
+DOS00613	SETSOUND.EXE
+DOS00614	No setup found
+DOS00615	config.com
+DOS00616	No setup found
+DOS00617	SOUND.EXE
+DOS00618	No setup found
+DOS00619	INSTALL.EXE
+DOS00621	No setup found
+DOS00622	SETUP.EXE
+DOS00623	No setup found
+DOS00624	No setup found
+DOS00625	No setup found
+DOS00630	Options during startup
+DOS00631	No setup found
+DOS00635	MENU.EXE
+DOS00636	SETUP.EXE
+DOS00637	SETUP.EXE
+DOS00639	No setup found
+DOS00640	SETUP.EXE
+DOS00641	Options during startup
+DOS00642	SETUP.EXE
+DOS00643	No setup found
+DOS00644	sndsetup.exe
+DOS00645	No setup found
+DOS00646	Optional executeables
+DOS00648	No setup found
+DOS00649	SETSOUND.EXE
+DOS00650	SETUP.EXE
+DOS00651	No setup found
+DOS00652	In-Game Menu
+DOS00654	No setup found
+DOS00655	No setup found
+DOS00656	No setup found
+DOS00658	Options during startup
+DOS00659	No setup found
+DOS00660	Options during startup
+DOS00666	Options during startup
+DOS00667	No setup found
+DOS00668	Options during startup
+DOS00669	Options during startup
+DOS00672	INSTALL.EXE
+DOS00673	No setup found
+DOS00674	No setup found
+DOS00675	No setup found
+DOS00676	No setup found
+DOS00677	No setup found
+DOS00678	SETUP.EXE
+DOS00679	No setup found
+DOS00680	SETUP.EXE
+DOS00681	No setup found
+DOS00682	No setup found
+DOS00683	INSTALL.BAT
+DOS00689	No setup found
+DOS00690	Options during startup
+DOS00692	No setup found
+DOS00694	INSTALL.BAT
+DOS00696	INSTALL.BAT
+DOS00698	No setup found
+DOS00699	No setup found
+DOS00700	SETUP.BAT
+DOS00701	No setup found
+DOS00702	INSTALL.EXE
+DOS00703	Optional executeables
+DOS00706	No setup found
+DOS00708	No setup found
+DOS00709	No setup found
+DOS00710	INSTALL.EXE
+DOS00711	No setup found
+DOS00713	No setup found
+DOS00714	No setup found
+DOS00715	No setup found
+DOS00716	SETSOUND.EXE
+DOS00717	No setup found
+DOS00718	No setup found
+DOS00722	No setup found
+DOS00724	No setup found
+DOS00726	Options during startup
+DOS00727	No setup found
+DOS00728	Options during startup
+DOS00729	No setup found
+DOS00730	SETUP.EXE
+DOS00732	Options during startup
+DOS00733	No setup found
+DOS00734	No setup found
+DOS00735	No setup found
+DOS00736	INSTALL.EXE
+DOS00737	INSTALL.EXE
+DOS00739	No setup found
+DOS00740	No setup found
+DOS00741	AUD_EDIT.EXE
+DOS00742	No setup found
+DOS00743	INSTALL.EXE
+DOS00744	No setup found
+DOS00745	No setup found
+DOS00746	No setup found
+DOS00747	DISK.BAT
+DOS00750	Options during startup
+DOS00751	INSTALL.BAT
+DOS00754	Options during startup
+DOS00755	Options during startup
+DOS00757	No setup found
+DOS00758	No setup found
+DOS00759	Options during startup
+DOS00760	Parameters added to boot command
+DOS00761	SETUP.EXE
+DOS00763	install.exe
+DOS00764	No setup found
+DOS00765	No setup found
+DOS00766	Parameters added to boot command
+DOS00767	INSTALL.EXE
+DOS00768	Options during startup
+DOS00769	No setup found
+DOS00770	Options during startup
+DOS00771	No setup found
+DOS00772	No setup found
+DOS00774	No setup found
+DOS00775	No setup found
+DOS00776	No setup found
+DOS00777	setd.exe
+DOS00778	No setup found
+DOS00780	No setup found
+DOS00781	No setup found
+DOS00782	Options during startup
+DOS00783	No setup found
+DOS00784	No setup found
+DOS00785	No setup found
+DOS00786	No setup found
+DOS00787	No setup found
+DOS00788	No setup found
+DOS00789	No setup found
+DOS00790	No setup found
+DOS00792	INSTALL.EXE
+DOS00793	No setup found
+DOS00794	SETUP.EXE
+DOS00795	Options during startup
+DOS00796	No setup found
+DOS00797	Options during startup
+DOS00798	SETSOUND.EXE
+DOS00799	No setup found
+DOS00800	SETUPAQ.EXE
+DOS00801	SETUP.BAT
+DOS00802	No setup found
+DOS00803	No setup found
+DOS00804	No setup found
+DOS00805	No setup found
+DOS00806	SETUP.EXE
+DOS00807	No setup found
+DOS00808	No setup found
+DOS00809	No setup found
+DOS00810	No setup found
+DOS00811	No setup found
+DOS00812	SETUP.EXE
+DOS00813	SETUP.EXE
+DOS00814	No setup found
+DOS00815	No setup found
+DOS00816	Options during startup
+DOS00818	SNDSETUP.EXE
+DOS00819	Options during startup
+DOS00820	No setup found
+DOS00821	SETUP.EXE
+DOS00822	No setup found
+DOS00823	Options during startup
+DOS00824	No setup found
+DOS00826	No setup found
+DOS00827	No setup found
+DOS00829	No setup found
+DOS00830	Options during startup
+DOS00831	No setup found
+DOS00832	INSTALL.EXE
+DOS00833	INSTALL.EXE
+DOS00834	SETUP.EXE
+DOS00835	No setup found
+DOS00836	No setup found
+DOS00837	No setup found
+DOS00838	CONFIG.EXE
+DOS00839	No setup found
+DOS00840	No setup found
+DOS00842	No setup found
+DOS00843	No setup found
+DOS00844	No setup found
+DOS00845	No setup found
+DOS00846	Options during startup
+DOS00847	Options during startup
+DOS00848	SETUP.EXE
+DOS00849	No setup found
+DOS00850	No setup found
+DOS00851	No setup found
+DOS00852	No setup found
+DOS00853	No setup found
+DOS00854	No setup found
+DOS00855	SOUNDSET.EXE
+DOS00856	No setup found
+DOS00857	SOUND.EXE
+DOS00858	No setup found
+DOS00859	No setup found
+DOS00862	No setup found
+DOS00863	SETUP.EXE
+DOS00864	No setup found
+DOS00865	Options during startup
+DOS00866	No setup found
+DOS00867	SETSOUND.EXE
+DOS00868	No setup found
+DOS00869	No setup found
+DOS00870	INSTALL.EXE
+DOS00871	No setup found
+DOS00872	No setup found
+DOS00875	No setup found
+DOS00877	INSTALL.EXE
+DOS00878	Options during startup
+DOS00880	No setup found
+DOS00881	No setup found
+DOS00882	No setup found
+DOS00883	No setup found
+DOS00884	No setup found
+DOS00885	Options during startup
+DOS00886	No setup found
+DOS00887	In-Game Menu
+DOS00888	Options during startup
+DOS00890	INSTALL.BAT
+DOS00892	No setup found
+DOS00893	No setup found
+DOS00894	Parameters added to boot command
+DOS00897	No setup found
+DOS00898	INSTALL.EXE
+DOS00900	No setup found
+DOS00901	No setup found
+DOS00902	No setup found
+DOS00903	No setup found
+DOS00904	No setup found
+DOS00905	No setup found
+DOS00906	No setup found
+DOS00907	SETUP.EXE
+DOS00908	Options during startup
+DOS00912	No setup found
+DOS00913	No setup found
+DOS00914	SETUP.BAT
+DOS00916	SETSOUND.EXE
+DOS00917	No setup found
+DOS00918	No setup found
+DOS00919	No setup found
+DOS00920	No setup found
+DOS00921	No setup found
+DOS00922	No setup found
+DOS00923	No setup found
+DOS00925	No setup found
+DOS00926	Options during startup
+DOS00927	Parameters added to boot command
+DOS00928	SETUP.EXE
+DOS00929	INSTALL.EXE
+DOS00930	Options during startup
+DOS00931	No setup found
+DOS00932	No setup found
+DOS00933	Options during startup
+DOS00934	No setup found
+DOS00935	No setup found
+DOS00936	No setup found
+DOS00937	No setup found
+DOS00939	No setup found
+DOS00940	Options during startup
+DOS00941	No setup found
+DOS00942	Options during startup
+DOS00943	SETUP.EXE
+DOS00944	No setup found
+DOS00945	SETUP.EXE
+DOS00947	No setup found
+DOS00948	Options during startup
+DOS00949	No setup found
+DOS00950	CONFIG.EXE
+DOS00952	SETUP.EXE
+DOS00954	Options during startup
+DOS00955	No setup found
+DOS00956	No setup found
+DOS00957	No setup found
+DOS00958	SETSOUND.EXE
+DOS00959	SETSOUND.BAT
+DOS00960	INSTALL.EXE
+DOS00961	Options during startup
+DOS00962	No setup found
+DOS00963	No setup found
+DOS00964	SETUP.EXE
+DOS00965	INSTALL.BAT
+DOS00966	BCSETUP.EXE
+DOS00967	No setup found
+DOS00968	SETUP.EXE
+DOS00970	SETUP.EXE
+DOS00971	No setup found
+DOS00972	Options during startup
+DOS00973	SETUP.EXE
+DOS00974	No setup found
+DOS00975	No setup found
+DOS00976	INSTALL.EXE
+DOS00977	Options during startup
+DOS00978	INSTALL.EXE
+DOS00979	INSTALL.EXE
+DOS00984	No setup found
+DOS00985	No setup found
+DOS00986	Options during startup
+DOS00987	SETUP.EXE
+DOS00988	No setup found
+DOS00989	Embedded in batchfile
+DOS00990	No setup found
+DOS00991	Options during startup
+DOS00992	SETSOUND.EXE
+DOS00993	No setup found
+DOS00994	No setup found
+DOS00995	Options during startup
+DOS00996	SETUP.EXE
+DOS00997	SETUP.BAT
+DOS00998	SETUP.EXE
+DOS00999	No setup found
+DOS01001	SETUP.EXE
+DOS01002	No setup found
+DOS01004	INSTALL.EXE
+DOS01005	install.exe
+DOS01006	Options during startup
+DOS01007	SETUP.EXE
+DOS01008	SETUP.EXE
+DOS01009	No setup found
+DOS01010	No setup found
+DOS01018	Options during startup
+DOS01019	No setup found
+DOS01020	INSTALL.EXE
+DOS01021	No setup found
+DOS01022	No setup found
+DOS01023	CONFIG.EXE
+DOS01024	No setup found
+DOS01025	No setup found
+DOS01026	SETUP.EXE
+DOS01027	No setup found
+DOS01029	No setup found
+DOS01030	No setup found
+DOS01032	No setup found
+DOS01033	No setup found
+DOS01034	No setup found
+DOS01036	No setup found
+DOS01041	No setup found
+DOS01043	BBCONFIG.COM
+DOS01046	INSTALL.EXE
+DOS01047	No setup found
+DOS01048	setup.exe
+DOS01049	SETSOUND.EXE
+DOS01050	No setup found
+DOS01052	No setup found
+DOS01053	No setup found
+DOS01054	setup.exe
+DOS01055	Options during startup
+DOS01056	BTCONFIG.COM
+DOS01057	No setup found
+DOS01058	INSTALL.EXE
+DOS01060	Options during startup
+DOS01061	No setup found
+DOS01062	No setup found
+DOS01063	INSTALL.EXE
+DOS01064	INSTALL.EXE
+DOS01067	No setup found
+DOS01068	No setup found
+DOS01070	No setup found
+DOS01071	No setup found
+DOS01072	No setup found
+DOS01073	No setup found
+DOS01074	Options during startup
+DOS01075	CONFIG.BAT
+DOS01076	Options during startup
+DOS01077	SETUP.EXE
+DOS01079	Options during startup
+DOS01080	Options during startup
+DOS01081	No setup found
+DOS01082	SETBLAST.EXE
+DOS01083	SETUP.EXE
+DOS01084	SETUP.EXE
+DOS01085	SETUP.EXE
+DOS01086	Options during startup
+DOS01087	SETUP.BAT
+DOS01088	SETUP.EXE
+DOS01089	No setup found
+DOS01090	No setup found
+DOS01091	No setup found
+DOS01093	No setup found
+DOS01094	No setup found
+DOS01095	Options during startup
+DOS01096	No setup found
+DOS01097	No setup found
+DOS01098	No setup found
+DOS01099	No setup found
+DOS01100	SETUP.EXE
+DOS01101	No setup found
+DOS01102	SNDSETUP.BAT
+DOS01103	No setup found
+DOS01104	SETUP.EXE
+DOS01105	SETUP.EXE
+DOS01107	SETD.EXE
+DOS01108	No setup found
+DOS01109	Options during startup
+DOS01111	Options during startup
+DOS01112	No setup found
+DOS01113	No setup found
+DOS01115	D:\BLUE\INSTALL.EXE
+DOS01116	SETSOUND.EXE
+DOS01117	No setup found
+DOS01118	No setup found
+DOS01119	No setup found
+DOS01120	SETUP.BAT
+DOS01121	No setup found
+DOS01122	TATOU.COM
+DOS01123	Options during startup
+DOS01124	No setup found
+DOS01125	No setup found
+DOS01126	No setup found
+DOS01127	No setup found
+DOS01128	No setup found
+DOS01129	INSTALL.BAT
+DOS01131	Install.bat
+DOS01132	Embedded in batchfile
+DOS01133	No setup found
+DOS01134	No setup found
+DOS01135	No setup found
+DOS01136	No setup found
+DOS01137	No setup found
+DOS01138	No setup found
+DOS01140	No setup found
+DOS01141	No setup found
+DOS01142	No setup found
+DOS01145	No setup found
+DOS01146	Options during startup
+DOS01147	No setup found
+DOS01148	SETUP.EXE
+DOS01149	Options during startup
+DOS01151	Options during startup
+DOS01153	SETUP.EXE
+DOS01155	No setup found
+DOS01156	Options during startup
+DOS01157	No setup found
+DOS01158	No setup found
+DOS01159	No setup found
+DOS01161	Options during startup
+DOS01162	No setup found
+DOS01163	No setup found
+DOS01165	SETUP.EXE
+DOS01166	No setup found
+DOS01167	Options during startup
+DOS01169	No setup found
+DOS01170	INSTALL.EXE
+DOS01171	No setup found
+DOS01172	No setup found
+DOS01173	No setup found
+DOS01174	No setup found
+DOS01175	SETUP.EXE
+DOS01177	No setup found
+DOS01179	No setup found
+DOS01180	No setup found
+DOS01181	No setup found
+DOS01182	BRCONFIG.EXE
+DOS01183	No setup found
+DOS01184	No setup found
+DOS01185	No setup found
+DOS01186	No setup found
+DOS01187	No setup found
+DOS01188	No setup found
+DOS01189	No setup found
+DOS01190	INSTALL.EXE
+DOS01191	No setup found
+DOS01192	SETUP.EXE
+DOS01193	No setup found
+DOS01194	Options during startup
+DOS01195	No setup found
+DOS01196	SETSOUND.EXE
+DOS01197	joy.bat
+DOS01198	Options during startup
+DOS01199	No setup found
+DOS01200	Options during startup
+DOS01201	No setup found
+DOS01202	No setup found
+DOS01203	No setup found
+DOS01204	No setup found
+DOS01205	No setup found
+DOS01206	Options during startup
+DOS01209	No setup found
+DOS01211	Options during startup
+DOS01212	SETUP.EXE
+DOS01213	Options during startup
+DOS01214	No setup found
+DOS01215	SETSOUND.BAT
+DOS01216	No setup found
+DOS01217	No setup found
+DOS01218	No setup found
+DOS01219	No setup found
+DOS01220	No setup found
+DOS01221	No setup found
+DOS01222	BAM2CFG.BAT
+DOS01223	No setup found
+DOS01224	SETUP.EXE
+DOS01225	No setup found
+DOS01226	No setup found
+DOS01227	SETUP.COM
+DOS01228	SETUP.EXE
+DOS01229	No setup found
+DOS01230	INSTALL.EXE
+DOS01231	SETSOUND.EXE
+DOS01232	No setup found
+DOS01233	Options during startup
+DOS01235	Optional executeables
+DOS01236	Options during startup
+DOS01237	No setup found
+DOS01238	INSTALL.EXE
+DOS01239	No setup found
+DOS01240	No setup found
+DOS01241	No setup found
+DOS01242	No setup found
+DOS01244	D:\INSTALL.EXE
+DOS01245	INSTALL.EXE
+DOS01246	SETSOUND.BAT
+DOS01247	SETSOUND.BAT
+DOS01248	Options during startup
+DOS01250	SETSOUND.BAT
+DOS01251	No setup found
+DOS01252	Options during startup
+DOS01253	Options during startup
+DOS01255	INSTALL.EXE
+DOS01256	No setup found
+DOS01258	Options during startup
+DOS01259	No setup found
+DOS01260	No setup found
+DOS01261	No setup found
+DOS01262	INSTALL.BAT
+DOS01263	Options during startup
+DOS01264	No setup found
+DOS01265	No setup found
+DOS01266	SETUP.EXE
+DOS01267	Options during startup
+DOS01268	No setup found
+DOS01269	No setup found
+DOS01271	No setup found
+DOS01272	JOGAR.BAT
+DOS01273	No setup found
+DOS01274	No setup found
+DOS01275	Options during startup
+DOS01276	No setup found
+DOS01277	No setup found
+DOS01278	No setup found
+DOS01279	Options during startup
+DOS01280	Options during startup
+DOS01281	INSTALL.EXE
+DOS01282	No setup found
+DOS01283	No setup found
+DOS01284	SETUP.EXE
+DOS01285	No setup found
+DOS01286	SETUP.EXE
+DOS01287	MNU.EXE
+DOS01288	No setup found
+DOS01289	Options during startup
+DOS01290	Options during startup
+DOS01291	No setup found
+DOS01292	No setup found
+DOS01293	No setup found
+DOS01294	No setup found
+DOS01295	No setup found
+DOS01297	No setup found
+DOS01298	Options during startup
+DOS01299	No setup found
+DOS01300	No setup found
+DOS01301	Options during startup
+DOS01302	No setup found
+DOS01303	No setup found
+DOS01304	SETUP.EXE
+DOS01307	No setup found
+DOS01308	DSETUP32.EXE
+DOS01312	No setup found
+DOS01313	INSTALL.COM
+DOS01314	No setup found
+DOS01315	No setup found
+DOS01316	Parameters added to boot command
+DOS01317	No setup found
+DOS01318	No setup found
+DOS01319	Options during startup
+DOS01321	SETUP.EXE
+DOS01323	loader.exe
+DOS01324	No setup found
+DOS01325	No setup found
+DOS01326	No setup found
+DOS01327	No setup found
+DOS01328	No setup found
+DOS01329	Options during startup
+DOS01330	Options during startup
+DOS01331	No setup found
+DOS01332	No setup found
+DOS01333	SETSOUND.EXE
+DOS01335	SETSOUND.EXE
+DOS01336	No setup found
+DOS01337	SETSOUND.EXE
+DOS01338	Options during startup
+DOS01339	No setup found
+DOS01340	No setup found
+DOS01341	No setup found
+DOS01342	SETUP.EXE
+DOS01343	No setup found
+DOS01344	No setup found
+DOS01345	No setup found
+DOS01346	No setup found
+DOS01347	No setup found
+DOS01348	No setup found
+DOS01349	No setup found
+DOS01350	No setup found
+DOS01351	No setup found
+DOS01352	No setup found
+DOS01353	No setup found
+DOS01354	No setup found
+DOS01355	No setup found
+DOS01356	No setup found
+DOS01357	SETUP.EXE
+DOS01358	Options during startup
+DOS01359	No setup found
+DOS01360	No setup found
+DOS01361	No setup found
+DOS01362	INSTALL.EXE
+DOS01363	No setup found
+DOS01364	SETUP.EXE
+DOS01365	setup.exe
+DOS01366	setup.exe
+DOS01367	Options during startup
+DOS01369	No setup found
+DOS01370	No setup found
+DOS01371	No setup found
+DOS01372	No setup found
+DOS01373	No setup found
+DOS01374	Options during startup
+DOS01375	No setup found
+DOS01376	Options during startup
+DOS01377	No setup found
+DOS01378	Options during startup
+DOS01379	Options during startup
+DOS01380	SETSOUND.EXE
+DOS01381	SETUP.EXE
+DOS01384	Options during startup
+DOS01385	No setup found
+DOS01386	No setup found
+DOS01387	No setup found
+DOS01388	No setup found
+DOS01389	SETSOUND.EXE
+DOS01390	Options during startup
+DOS01391	Optional executeables
+DOS01392	Options during startup
+DOS01393	No setup found
+DOS01394	SOUND.BAT
+DOS01396	No setup found
+DOS01397	SETUPSND.BAT
+DOS01398	No setup found
+DOS01399	Options during startup
+DOS01401	INSTALL.EXE
+DOS01407	No setup found
+DOS01408	Options during startup
+DOS01409	SETUP.EXE
+DOS01410	SETUP.EXE
+DOS01411	No setup found
+DOS01412	No setup found
+DOS01413	Optional executeables
+DOS01414	No setup found
+DOS01415	No setup found
+DOS01416	SETUP.EXE
+DOS01417	No setup found
+DOS01418	SETUP.BAT
+DOS01419	Options during startup
+DOS01420	INSTALL.EXE
+DOS01421	CECONFIG.EXE
+DOS01422	install.exe
+DOS01423	SETUP.EXE
+DOS01425	UVCONFIG.EXE
+DOS01426	install.exe
+DOS01427	SETUP.EXE
+DOS01428	No setup found
+DOS01430	Options during startup
+DOS01431	No setup found
+DOS01432	No setup found
+DOS01434	Options during startup
+DOS01435	GAMESET.EXE
+DOS01436	SETUP.EXE
+DOS01437	SOUNDSET.EXE
+DOS01441	No setup found
+DOS01444	Optional executeables
+DOS01445	No setup found
+DOS01446	No setup found
+DOS01448	No setup found
+DOS01450	No setup found
+DOS01451	SETUP.EXE
+DOS01453	SETUP.EXE
+DOS01463	No setup found
+DOS01464	No setup found
+DOS01465	No setup found
+DOS01466	No setup found
+DOS01467	No setup found
+DOS01468	No setup found
+DOS01469	No setup found
+DOS01473	No setup found
+DOS01474	INSTALL.EXE
+DOS01476	INSTALL.EXE
+DOS01477	No setup found
+DOS01485	Options during startup
+DOS01486	Options during startup
+DOS01487	No setup found
+DOS01488	Options during startup
+DOS01489	Optional executeables
+DOS01491	Options during startup
+DOS01492	No setup found
+DOS01493	No setup found
+DOS01494	INSTALL.EXE
+DOS01495	No setup found
+DOS01496	No setup found
+DOS01497	No setup found
+DOS01498	No setup found
+DOS01499	No setup found
+DOS01500	No setup found
+DOS01501	No setup found
+DOS01503	Optional executeables
+DOS01504	CONFIG.BAT
+DOS01506	No setup found
+DOS01507	SETUP.EXE
+DOS01508	Options during startup
+DOS01509	SETUP.EXE
+DOS01510	SETUP.EXE
+DOS01511	INSTALL.EXE
+DOS01512	INSTALL.exe
+DOS01513	No setup found
+DOS01514	SETSOUND.BAT
+DOS01515	Options during startup
+DOS01516	CONTRAFX.COM
+DOS01517	No setup found
+DOS01518	No setup found
+DOS01520	Options during startup
+DOS01521	SETSND.EXE
+DOS01522	No setup found
+DOS01523	No setup found
+DOS01524	No setup found
+DOS01525	No setup found
+DOS01526	INSTALL.EXE
+DOS01527	SETUP.EXE
+DOS01528	INSTALL.EXE
+DOS01529	No setup found
+DOS01530	Options during startup
+DOS01531	No setup found
+DOS01532	Options during startup
+DOS01533	No setup found
+DOS01534	Options during startup
+DOS01535	Options during startup
+DOS01536	No setup found
+DOS01537	SETUP.EXE
+DOS01538	Options during startup
+DOS01539	No setup found
+DOS01540	No setup found
+DOS01541	No setup found
+DOS01543	No setup found
+DOS01544	SETUP.EXE
+DOS01546	SETUP.EXE
+DOS01547	No setup found
+DOS01548	No setup found
+DOS01549	No setup found
+DOS01550	INSTALL.EXE
+DOS01551	Options during startup
+DOS01552	SETUP.EXE
+DOS01554	No setup found
+DOS01555	INSTALL.EXE
+DOS01556	No setup found
+DOS01557	No setup found
+DOS01558	Options during startup
+DOS01559	Options during startup
+DOS01560	Options during startup
+DOS01561	No setup found
+DOS01562	No setup found
+DOS01563	No setup found
+DOS01564	No setup found
+DOS01565	No setup found
+DOS01567	Options during startup
+DOS01568	CONFIG.EXE
+DOS01569	Options during startup
+DOS01570	SETUP.EXE
+DOS01571	INSTALL.EXE
+DOS01572	No setup found
+DOS01574	INSTALL.EXE
+DOS01575	INSTALL.EXE
+DOS01576	Options during startup
+DOS01577	No setup found
+DOS01578	SETUP.EXE
+DOS01579	No setup found
+DOS01580	No setup found
+DOS01581	SETUP.EXE
+DOS01582	No setup found
+DOS01583	Options during startup
+DOS01584	No setup found
+DOS01585	No setup found
+DOS01586	SETUP.EXE
+DOS01587	No setup found
+DOS01588	No setup found
+DOS01589	No setup found
+DOS01590	No setup found
+DOS01591	No setup found
+DOS01593	No setup found
+DOS01594	No setup found
+DOS01595	Options during startup
+DOS01596	No setup found
+DOS01598	No setup found
+DOS01599	Options during startup
+DOS01600	No setup found
+DOS01601	No setup found
+DOS01602	No setup found
+DOS01604	INSTALL.EXE
+DOS01605	SETUP.EXE
+DOS01606	SETUP.EXE
+DOS01607	No setup found
+DOS01608	INSTALL.EXE
+DOS01609	INSTALL.EXE
+DOS01610	No setup found
+DOS01611	SETUP.EXE
+DOS01612	GPCONFIG.EXE
+DOS01613	No setup found
+DOS01614	SSETUP.EXE
+DOS01615	No setup found
+DOS01616	SETUP.EXE
+DOS01617	No setup found
+DOS01618	UVCONFIG.EXE
+DOS01619	SETUP.COM
+DOS01620	DGCONFIG.EXE
+DOS01621	Options during startup
+DOS01622	INSTALL.BAT
+DOS01623	No setup found
+DOS01624	No setup found
+DOS01625	No setup found
+DOS01627	SETUP.EXE
+DOS01628	No setup found
+DOS01629	No setup found
+DOS01630	No setup found
+DOS01631	No setup found
+DOS01632	CONFIG.EXE
+DOS01634	No setup found
+DOS01635	No setup found
+DOS01636	Optional executeables
+DOS01637	No setup found
+DOS01638	No setup found
+DOS01639	No setup found
+DOS01640	No setup found
+DOS01641	No setup found
+DOS01642	setsound.bat
+DOS01643	No setup found
+DOS01645	INSTALL.EXE
+DOS01646	SOUND.EXE
+DOS01647	SETSOUND.BAT
+DOS01648	SETUP.EXE
+DOS01650	INSTALL.EXE
+DOS01651	No setup found
+DOS01652	Options during startup
+DOS01653	INSTALL.COM
+DOS01654	SOUND.BAT
+DOS01655	SOUND.BAT
+DOS01657	No setup found
+DOS01658	No setup found
+DOS01659	No setup found
+DOS01661	INSTALL.BAT
+DOS01662	INSTALL.EXE
+DOS01664	No setup found
+DOS01668	No setup found
+DOS01670	No setup found
+DOS01671	No setup found
+DOS01672	No setup found
+DOS01673	No setup found
+DOS01674	INSTALL.EXE
+DOS01675	No setup found
+DOS01676	install.com
+DOS01677	SVGATEST.BAT
+DOS01678	SVGATEST.BAT
+DOS01679	No setup found
+DOS01680	INSTALL.EXE
+DOS01681	INSTALL.EXE
+DOS01682	SETUP.EXE
+DOS01683	Options during startup
+DOS01685	Options during startup
+DOS01686	SETUP.BAT
+DOS01687	SETUP.EXE
+DOS01688	SETUP.EXE
+DOS01689	OPTIONS.EXE
+DOS01690	No setup found
+DOS01691	No setup found
+DOS01693	Options during startup
+DOS01695	Options during startup
+DOS01696	INSTALL.EXE
+DOS01697	No setup found
+DOS01700	SETUP.EXE
+DOS01701	Options during startup
+DOS01702	No setup found
+DOS01703	No setup found
+DOS01704	No setup found
+DOS01705	No setup found
+DOS01706	No setup found
+DOS01707	No setup found
+DOS01709	No setup found
+DOS01710	No setup found
+DOS01711	OPTIONS.EXE
+DOS01712	Options during startup
+DOS01713	No setup found
+DOS01714	No setup found
+DOS01716	No setup found
+DOS01718	No setup found
+DOS01719	No setup found
+DOS01721	SETSOUND.BAT
+DOS01722	Optional executeables
+DOS01723	No setup found
+DOS01724	Options during startup
+DOS01726	SETUP.EXE
+DOS01727	No setup found
+DOS01728	No setup found
+DOS01729	No setup found
+DOS01730	No setup found
+DOS01731	No setup found
+DOS01732	No setup found
+DOS01733	SETUP.EXE
+DOS01740	setup.exe
+DOS01741	SETUP.EXE
+DOS01742	SETUP.EXE
+DOS01743	SETUP.EXE
+DOS01748	SETUP.EXE
+DOS01751	No setup found
+DOS01752	No setup found
+DOS01754	No setup found
+DOS01755	Options during startup
+DOS01756	No setup found
+DOS01757	No setup found
+DOS01758	No setup found
+DOS01759	No setup found
+DOS01760	INSTALL.EXE
+DOS01761	No setup found
+DOS01762	SETUP.EXE
+DOS01763	No setup found
+DOS01765	SOUND.BAT
+DOS01766	SETUP.EXE
+DOS01767	Options during startup
+DOS01768	GIOSET.EXE
+DOS01770	No setup found
+DOS01771	No setup found
+DOS01772	Options during startup
+DOS01773	No setup found
+DOS01774	Options during startup
+DOS01775	SETUP.EXE
+DOS01778	No setup found
+DOS01779	Options during startup
+DOS01786	SETUPDIG.EXE
+DOS01787	No setup found
+DOS01788	No setup found
+DOS01789	No setup found
+DOS01790	No setup found
+DOS01791	SETUP.BAT
+DOS01793	No setup found
+DOS01794	No setup found
+DOS01795	SETUP.BAT
+DOS01796	CFG_DP.exe
+DOS01797	No setup found
+DOS01798	SETSOUND.EXE
+DOS01799	DWCONFIG.COM
+DOS01800	Options during startup
+DOS01801	DCONFIG.EXE
+DOS01802	SETUP.EXE
+DOS01803	CONFIG.EXE
+DOS01804	No setup found
+DOS01806	Options during startup
+DOS01807	CONFIG.BAT
+DOS01808	SETUP.EXE
+DOS01810	SETSND.EXE
+DOS01811	Options during startup
+DOS01812	Options during startup
+DOS01813	Options during startup
+DOS01814	No setup found
+DOS01815	No setup found
+DOS01816	Options during startup
+DOS01817	Options during startup
+DOS01819	No setup found
+DOS01822	No setup found
+DOS01824	No setup found
+DOS01825	INSTALL.EXE
+DOS01826	Options during startup
+DOS01827	No setup found
+DOS01829	No setup found
+DOS01830	No setup found
+DOS01831	No setup found
+DOS01832	SETUP.EXE
+DOS01833	SETUP.EXE
+DOS01834	SETUP.EXE
+DOS01835	No setup found
+DOS01837	No setup found
+DOS01838	No setup found
+DOS01839	No setup found
+DOS01840	No setup found
+DOS01841	Options during startup
+DOS01842	Options during startup
+DOS01843	Options during startup
+DOS01844	Options during startup
+DOS01846	No setup found
+DOS01847	HMISETUP.EXE
+DOS01849	No setup found
+DOS01850	No setup found
+DOS01852	INSTALL.EXE
+DOS01853	No setup found
+DOS01854	No setup found
+DOS01855	SETUP.BAT
+DOS01856	INSTALL.EXE
+DOS01857	No setup found
+DOS01858	Options during startup
+DOS01859	Options during startup
+DOS01860	Options during startup
+DOS01861	Options during startup
+DOS01862	Options during startup
+DOS01863	INSTALL.EXE
+DOS01865	INSTALL.EXE
+DOS01866	No setup found
+DOS01868	Options during startup
+DOS01869	No setup found
+DOS01870	Options during startup
+DOS01871	No setup found
+DOS01872	CONFIG.EXE
+DOS01873	No setup found
+DOS01874	No setup found
+DOS01875	SETUP.EXE
+DOS01876	No setup found
+DOS01877	Options during startup
+DOS01878	No setup found
+DOS01879	No setup found
+DOS01880	No setup found
+DOS01881	No setup found
+DOS01882	No setup found
+DOS01884	Options during startup
+DOS01885	No setup found
+DOS01886	No setup found
+DOS01887	INSTALL.BAT
+DOS01888	SETSOUND.EXE
+DOS01889	No setup found
+DOS01890	No setup found
+DOS01891	SETUP.EXE
+DOS01892	No setup found
+DOS01893	No setup found
+DOS01894	No setup found
+DOS01895	Options during startup
+DOS01896	No setup found
+DOS01897	No setup found
+DOS01898	No setup found
+DOS01899	No setup found
+DOS01900	No setup found
+DOS01901	Options during startup
+DOS01902	JOY2.EXE
+DOS01903	No setup found
+DOS01904	Options during startup
+DOS01906	SETUP.EXE
+DOS01907	SETUP.EXE
+DOS01908	SETUP.EXE
+DOS01909	SETUP.EXE
+DOS01910	SETUP.EXE
+DOS01912	SETUP.EXE
+DOS01913	SETUP.EXE
+DOS01916	No setup found
+DOS01917	No setup found
+DOS01918	No setup found
+DOS01919	No setup found
+DOS01922	SETUP.EXE
+DOS01923	INSTALL.EXE
+DOS01924	SETUP.EXE
+DOS01925	No setup found
+DOS01927	SOUND.EXE
+DOS01928	No setup found
+DOS01931	Options during startup
+DOS01932	SETUP.EXE
+DOS01933	No setup found
+DOS01935	SETUP.EXE
+DOS01936	Options during startup
+DOS01937	SETUP.EXE
+DOS01938	No setup found
+DOS01939	No setup found
+DOS01945	INSTALL.COM
+DOS01946	INSTALL.EXE
+DOS01947	No setup found
+DOS01950	D!.EXE
+DOS01952	D!.EXE
+DOS01954	D!.EXE
+DOS01957	SETUP.EXE
+DOS01958	No setup found
+DOS01959	No setup found
+DOS01960	No setup found
+DOS01961	install.exe
+DOS01962	INSTALL.EXE
+DOS01963	SETUP.BAT
+DOS01964	No setup found
+DOS01965	No setup found
+DOS01966	SETUP.EXE
+DOS01968	SETUP.EXE
+DOS01970	CONFIG.BAT
+DOS01972	No setup found
+DOS01973	No setup found
+DOS01974	No setup found
+DOS01975	No setup found
+DOS01976	No setup found
+DOS01977	No setup found
+DOS01979	Options during startup
+DOS01981	D:\INSTALL.EXE
+DOS01982	SETUP.EXE
+DOS01983	No setup found
+DOS01984	No setup found
+DOS01985	No setup found
+DOS01986	No setup found
+DOS01988	Options during startup
+DOS01989	Options during startup
+DOS01992	SETUP.EXE
+DOS01994	EPSETUP.EXE
+DOS01995	Options during startup
+DOS01996	No setup found
+DOS01997	No setup found
+DOS01998	Options during startup
+DOS01999	RECONFIG.EXE
+DOS02000	No setup found
+DOS02001	No setup found
+DOS02002	Options during startup
+DOS02003	No setup found
+DOS02005	SETUP.EXE
+DOS02006	setup.exe
+DOS02008	SETUP.EXE
+DOS02010	No setup found
+DOS02011	No setup found
+DOS02012	No setup found
+DOS02013	No setup found
+DOS02014	No setup found
+DOS02015	No setup found
+DOS02018	No setup found
+DOS02019	Options during startup
+DOS02020	No setup found
+DOS02023	No setup found
+DOS02024	No setup found
+DOS02025	No setup found
+DOS02027	Options during startup
+DOS02028	No setup found
+DOS02029	No setup found
+DOS02030	No setup found
+DOS02031	SETSOUND.EXE
+DOS02032	setup.exe
+DOS02033	No setup found
+DOS02034	No setup found
+DOS02035	SETSOUND.EXE
+DOS02036	Parameters added to boot command
+DOS02037	SETUP.EXE
+DOS02038	No setup found
+DOS02039	No setup found
+DOS02040	Options during startup
+DOS02043	SETUP.EXE
+DOS02044	SETSOUND.EXE
+DOS02045	Options during startup
+DOS02048	No setup found
+DOS02049	Options during startup
+DOS02050	No setup found
+DOS02052	No setup found
+DOS02053	INSTALL.BAT
+DOS02054	No setup found
+DOS02055	No setup found
+DOS02057	No setup found
+DOS02058	No setup found
+DOS02059	No setup found
+DOS02060	No setup found
+DOS02061	No setup found
+DOS02064	INSTALL.EXE
+DOS02065	CONFIG.EXE
+DOS02066	No setup found
+DOS02067	SETUP.EXE
+DOS02068	No setup found
+DOS02069	SNDSETUP.EXE
+DOS02070	No setup found
+DOS02071	Options during startup
+DOS02072	SOUND.EXE
+DOS02073	SETUP.EXE
+DOS02075	No setup found
+DOS02076	No setup found
+DOS02077	Options during startup
+DOS02078	INSTALL.EXE
+DOS02080	Options during startup
+DOS02081	SETUP.EXE
+DOS02083	No setup found
+DOS02084	Options during startup
+DOS02085	SETSOUND.EXE
+DOS02086	SETSOUND.EXE
+DOS02087	SETUP.EXE
+DOS02088	No setup found
+DOS02089	No setup found
+DOS02090	SETUP.EXE
+DOS02091	Parameters added to boot command
+DOS02092	Options during startup
+DOS02093	No setup found
+DOS02094	F2B95INS.BAT
+DOS02095	Optional executeables
+DOS02096	No setup found
+DOS02097	No setup found
+DOS02099	Options during startup
+DOS02105	SOUND.EXE
+DOS02107	SOUND.BAT
+DOS02110	No setup found
+DOS02111	No setup found
+DOS02112	LOADER.EXE
+DOS02113	SOUNDSET.BAT
+DOS02114	Options during startup
+DOS02115	Options during startup
+DOS02116	No setup found
+DOS02117	No setup found
+DOS02118	SETUP.EXE
+DOS02119	No setup found
+DOS02120	No setup found
+DOS02121	No setup found
+DOS02122	No setup found
+DOS02123	No setup found
+DOS02124	No setup found
+DOS02125	Options during startup
+DOS02126	No setup found
+DOS02127	No setup found
+DOS02128	No setup found
+DOS02129	SETUP.EXE
+DOS02130	No setup found
+DOS02131	config.exe
+DOS02132	SETUP.BAT
+DOS02133	Options during startup
+DOS02135	SETSOUND.EXE
+DOS02136	SETUP.EXE
+DOS02137	No setup found
+DOS02138	INSTALL.EXE
+DOS02139	No setup found
+DOS02141	Options during startup
+DOS02142	Optional executeables
+DOS02143	Options during startup
+DOS02144	No setup found
+DOS02145	No setup found
+DOS02146	Options during startup
+DOS02147	Options during startup
+DOS02148	No setup found
+DOS02149	No setup found
+DOS02150	No setup found
+DOS02152	Options during startup
+DOS02153	INSTALL.EXE
+DOS02154	No setup found
+DOS02155	Options during startup
+DOS02156	No setup found
+DOS02161	No setup found
+DOS02162	SETSOUND.EXE
+DOS02164	Options during startup
+DOS02165	CONFIG.EXE
+DOS02166	SETSOUND.EXE
+DOS02167	No setup found
+DOS02168	No setup found
+DOS02170	No setup found
+DOS02171	No setup found
+DOS02173	No setup found
+DOS02175	Options during startup
+DOS02176	No setup found
+DOS02177	SETUP.EXE
+DOS02178	set_iuc.exe
+DOS02179	INSTALL.EXE
+DOS02180	SETUP.EXE
+DOS02181	No setup found
+DOS02182	No setup found
+DOS02183	No setup found
+DOS02184	No setup found
+DOS02185	No setup found
+DOS02186	No setup found
+DOS02187	A:\INSTALL.EXE
+DOS02188	Options during startup
+DOS02190	SETUP.EXE
+DOS02191	Options during startup
+DOS02192	No setup found
+DOS02193	No setup found
+DOS02196	SETUP.EXE
+DOS02197	SETUP.EXE
+DOS02198	No setup found
+DOS02199	SETUP.EXE
+DOS02200	No setup found
+DOS02201	No setup found
+DOS02202	Options during startup
+DOS02203	No setup found
+DOS02204	INSTALL.EXE
+DOS02205	No setup found
+DOS02206	INSTALL.EXE
+DOS02207	Options during startup
+DOS02208	No setup found
+DOS02209	SETUP.EXE
+DOS02210	SETUP.EXE
+DOS02211	SETUP.EXE
+DOS02213	No setup found
+DOS02214	No setup found
+DOS02215	Options during startup
+DOS02216	No setup found
+DOS02218	INSTALL.EXE
+DOS02219	Options during startup
+DOS02220	No setup found
+DOS02221	Options during startup
+DOS02223	No setup found
+DOS02224	SETUP.EXE
+DOS02225	SETUP.EXE
+DOS02226	No setup found
+DOS02227	SETSOUND.BAT
+DOS02228	No setup found
+DOS02230	No setup found
+DOS02231	INSTALL.EXE
+DOS02232	No setup found
+DOS02233	No setup found
+DOS02234	No setup found
+DOS02236	No setup found
+DOS02237	Options during startup
+DOS02240	INSTALL.EXE
+DOS02241	INSTALL.EXE
+DOS02242	No setup found
+DOS02244	No setup found
+DOS02245	SETUP.EXE
+DOS02246	Options during startup
+DOS02247	D:\ENGLISH\SETUP.EXE
+DOS02248	INSTALL.EXE
+DOS02250	INSTALL.EXE
+DOS02251	No setup found
+DOS02252	No setup found
+DOS02253	No setup found
+DOS02254	SETUP.EXE
+DOS02255	No setup found
+DOS02256	No setup found
+DOS02258	INSTALL.EXE
+DOS02259	SETUP.BAT
+DOS02260	SETUP.BAT
+DOS02261	No setup found
+DOS02262	install.exe
+DOS02263	Options during startup
+DOS02264	SETUP.EXE
+DOS02265	SETUP.EXE
+DOS02266	No setup found
+DOS02267	No setup found
+DOS02268	No setup found
+DOS02271	Options during startup
+DOS02272	Options during startup
+DOS02274	No setup found
+DOS02275	No setup found
+DOS02276	No setup found
+DOS02277	No setup found
+DOS02278	No setup found
+DOS02282	No setup found
+DOS02283	setup.bat
+DOS02284	INSTALL.EXE
+DOS02285	No setup found
+DOS02286	No setup found
+DOS02287	SETUP.EXE
+DOS02288	No setup found
+DOS02289	Options during startup
+DOS02293	No setup found
+DOS02294	No setup found
+DOS02295	INSTALL.EXE
+DOS02296	No setup found
+DOS02297	Options during startup
+DOS02298	No setup found
+DOS02299	No setup found
+DOS02300	SETUP.BAT
+DOS02301	FFFSETUP.EXE
+DOS02302	No setup found
+DOS02303	INSTALL.EXE
+DOS02304	No setup found
+DOS02305	Parameters added to boot command
+DOS02306	No setup found
+DOS02307	No setup found
+DOS02308	No setup found
+DOS02309	No setup found
+DOS02310	Options during startup
+DOS02312	Options during startup
+DOS02313	SETUP.EXE
+DOS02315	SETUP.EXE
+DOS02316	install.bat
+DOS02317	INSTALL.EXE
+DOS02318	install.exe
+DOS02319	SOUNDSET.EXE
+DOS02320	ssetup.exe
+DOS02322	No setup found
+DOS02323	No setup found
+DOS02324	Options during startup
+DOS02325	No setup found
+DOS02327	No setup found
+DOS02329	No setup found
+DOS02331	Options during startup
+DOS02335	No setup found
+DOS02337	Options during startup
+DOS02338	SETUP.EXE
+DOS02339	INSTALL.EXE
+DOS02340	No setup found
+DOS02341	SETUP.EXE
+DOS02343	INSTALL.EXE
+DOS02345	No setup found
+DOS02346	Options during startup
+DOS02350	Parameters added to boot command
+DOS02351	Options during startup
+DOS02352	No setup found
+DOS02356	Parameters added to boot command
+DOS02359	No setup found
+DOS02360	No setup found
+DOS02361	No setup found
+DOS02362	Parameters added to boot command
+DOS02363	No setup found
+DOS02364	No setup found
+DOS02365	SETUP.EXE
+DOS02366	No setup found
+DOS02367	No setup found
+DOS02368	SOUND.EXE
+DOS02369	No setup found
+DOS02370	SOUND.EXE
+DOS02371	INSTALL.EXE
+DOS02372	Options during startup
+DOS02373	No setup found
+DOS02374	No setup found
+DOS02375	No setup found
+DOS02376	No setup found
+DOS02378	No setup found
+DOS02379	Options during startup
+DOS02381	No setup found
+DOS02382	In-Game Menu
+DOS02384	Options during startup
+DOS02385	No setup found
+DOS02386	No setup found
+DOS02388	INSTALL.EXE
+DOS02389	SETSOUND.EXE
+DOS02390	INST.EXE
+DOS02391	No setup found
+DOS02392	Options during startup
+DOS02393	No setup found
+DOS02394	No setup found
+DOS02395	No setup found
+DOS02396	No setup found
+DOS02397	No setup found
+DOS02398	SETUP.EXE
+DOS02399	install.bat
+DOS02400	No setup found
+DOS02401	Options during startup
+DOS02402	Options during startup
+DOS02403	No setup found
+DOS02405	No setup found
+DOS02406	SETUP.EXE
+DOS02407	Options during startup
+DOS02408	No setup found
+DOS02409	No setup found
+DOS02410	SETUP.EXE
+DOS02411	INSTALL.EXE
+DOS02412	SETUP.EXE
+DOS02413	No setup found
+DOS02414	No setup found
+DOS02415	Options during startup
+DOS02416	No setup found
+DOS02417	No setup found
+DOS02418	SETUP.EXE
+DOS02419	SETUP.EXE
+DOS02420	SETUP.EXE
+DOS02421	No setup found
+DOS02422	Options during startup
+DOS02423	SETBLAST.EXE
+DOS02424	INSTALL.EXE
+DOS02425	No setup found
+DOS02428	Options during startup
+DOS02429	Options during startup
+DOS02431	Options during startup
+DOS02437	No setup found
+DOS02438	Options during startup
+DOS02439	No setup found
+DOS02441	SETUP.EXE
+DOS02442	No setup found
+DOS02443	No setup found
+DOS02444	Options during startup
+DOS02445	No setup found
+DOS02446	Options during startup
+DOS02447	No setup found
+DOS02448	SETUP.BAT
+DOS02450	No setup found
+DOS02451	INSTALL.EXE
+DOS02452	Optional executeables
+DOS02453	Options during startup
+DOS02454	Options during startup
+DOS02455	Options during startup
+DOS02456	SETUP.EXE
+DOS02457	No setup found
+DOS02458	setup.exe
+DOS02459	No setup found
+DOS02460	No setup found
+DOS02461	Options during startup
+DOS02465	No setup found
+DOS02466	No setup found
+DOS02467	No setup found
+DOS02469	No setup found
+DOS02470	No setup found
+DOS02471	No setup found
+DOS02472	No setup found
+DOS02474	No setup found
+DOS02475	No setup found
+DOS02478	SOUND.EXE
+DOS02481	SOUND.BAT
+DOS02482	SOUND.BAT
+DOS02483	SOUND.BAT
+DOS02484	Options during startup
+DOS02485	No setup found
+DOS02486	No setup found
+DOS02488	No setup found
+DOS02489	No setup found
+DOS02491	INSTALL.EXE
+DOS02492	Options during startup
+DOS02493	No setup found
+DOS02494	No setup found
+DOS02495	SETUP.EXE
+DOS02496	No setup found
+DOS02497	No setup found
+DOS02498	Options during startup
+DOS02499	No setup found
+DOS02500	setup.exe
+DOS02501	No setup found
+DOS02503	No setup found
+DOS02505	SETUP.EXE
+DOS02507	SETSOUND.EXE
+DOS02508	Options during startup
+DOS02510	SETUP.BAT
+DOS02511	No setup found
+DOS02512	No setup found
+DOS02513	SETUP.EXE
+DOS02514	No setup found
+DOS02515	No setup found
+DOS02516	No setup found
+DOS02517	No setup found
+DOS02520	No setup found
+DOS02521	No setup found
+DOS02522	Options during startup
+DOS02523	No setup found
+DOS02524	No setup found
+DOS02525	No setup found
+DOS02526	In-Game Menu
+DOS02529	Options during startup
+DOS02530	Options during startup
+DOS02531	No setup found
+DOS02532	Options during startup
+DOS02533	Options during startup
+DOS02534	No setup found
+DOS02535	No setup found
+DOS02537	No setup found
+DOS02547	H2SETUP.EXE
+DOS02550	No setup found
+DOS02551	No setup found
+DOS02554	SETSOUND.BAT
+DOS02555	No setup found
+DOS02557	No setup found
+DOS02559	No setup found
+DOS02561	SETUP.EXE
+DOS02562	INSTALL.COM
+DOS02563	No setup found
+DOS02564	No setup found
+DOS02565	SETUP.BAT
+DOS02566	SETUP.BAT
+DOS02567	Options during startup
+DOS02568	Options during startup
+DOS02569	Options during startup
+DOS02570	SETUP.EXE
+DOS02571	INSTALL.EXE
+DOS02572	SETUP.EXE
+DOS02574	No setup found
+DOS02575	No setup found
+DOS02576	SETUP.EXE
+DOS02577	No setup found
+DOS02578	No setup found
+DOS02579	SETUP.EXE
+DOS02581	No setup found
+DOS02582	setup.exe
+DOS02583	SETUP.EXE
+DOS02584	No setup found
+DOS02585	SETUP.EXE
+DOS02587	INSTALL.EXE
+DOS02590	INSTALL.EXE
+DOS02592	SETUP.EXE
+DOS02593	SETUP.EXE
+DOS02595	No setup found
+DOS02596	No setup found
+DOS02597	SETUP.EXE
+DOS02598	No setup found
+DOS02599	D:\SETUP.EXE
+DOS02600	No setup found
+DOS02601	No setup found
+DOS02602	No setup found
+DOS02603	No setup found
+DOS02606	SETUP.EXE
+DOS02607	No setup found
+DOS02608	No setup found
+DOS02609	Options during startup
+DOS02611	Options during startup
+DOS02612	Options during startup
+DOS02613	No setup found
+DOS02614	SETSOUND.EXE
+DOS02615	No setup found
+DOS02616	SETUP.EXE
+DOS02617	No setup found
+DOS02618	No setup found
+DOS02619	No setup found
+DOS02622	No setup found
+DOS02623	No setup found
+DOS02624	SETUP.EXE
+DOS02625	No setup found
+DOS02626	No setup found
+DOS02627	Optional executeables
+DOS02628	Optional executeables
+DOS02630	Options during startup
+DOS02631	No setup found
+DOS02632	No setup found
+DOS02634	No setup found
+DOS02635	HACONFIG.EXE
+DOS02636	HA2SETUP.EXE
+DOS02637	No setup found
+DOS02638	No setup found
+DOS02639	SNDCON.EXE
+DOS02640	No setup found
+DOS02641	No setup found
+DOS02642	SETUP.EXE
+DOS02643	HKCONFIG.EXE
+DOS02644	No setup found
+DOS02646	Optional executeables
+DOS02647	No setup found
+DOS02648	No setup found
+DOS02649	T2SET.EXE
+DOS02650	No setup found
+DOS02652	No setup found
+DOS02653	Options during startup
+DOS02654	No setup found
+DOS02655	No setup found
+DOS02656	No setup found
+DOS02657	Optional executeables
+DOS02658	No setup found
+DOS02659	No setup found
+DOS02660	install.exe
+DOS02661	INSTALL.EXE
+DOS02662	INSTALL.EXE
+DOS02663	INSTALL.EXE
+DOS02664	SETUP.EXE
+DOS02665	SNDSETUP.EXE
+DOS02666	No setup found
+DOS02667	No setup found
+DOS02668	No setup found
+DOS02669	No setup found
+DOS02670	Options during startup
+DOS02675	No setup found
+DOS02677	No setup found
+DOS02678	Options during startup
+DOS02679	Options during startup
+DOS02680	CONFIG.BAT
+DOS02681	No setup found
+DOS02683	SETUP.EXE
+DOS02684	Options during startup
+DOS02685	No setup found
+DOS02686	No setup found
+DOS02687	No setup found
+DOS02688	SETUP.EXE
+DOS02689	Options during startup
+DOS02690	No setup found
+DOS02692	No setup found
+DOS02693	Optional executeables
+DOS02694	No setup found
+DOS02695	No setup found
+DOS02696	INSTALL.EXE
+DOS02697	Options during startup
+DOS02698	No setup found
+DOS02699	Options during startup
+DOS02701	No setup found
+DOS02702	CONFIG.EXE
+DOS02703	No setup found
+DOS02704	No setup found
+DOS02705	No setup found
+DOS02706	Options during startup
+DOS02707	INSTALL.EXE
+DOS02709	Optional executeables
+DOS02710	No setup found
+DOS02711	SETUP.EXE
+DOS02713	SETUP.EXE
+DOS02714	SETSOUND.EXE
+DOS02715	INSTALL.EXE
+DOS02716	INSTALL.COM
+DOS02717	No setup found
+DOS02718	No setup found
+DOS02719	Config File
+DOS02720	No setup found
+DOS02722	Options during startup
+DOS02723	No setup found
+DOS02724	No setup found
+DOS02725	No setup found
+DOS02726	No setup found
+DOS02728	No setup found
+DOS02729	SETUP.EXE
+DOS02730	SOUND.EXE
+DOS02731	No setup found
+DOS02732	SETD.BAT
+DOS02733	No setup found
+DOS02734	No setup found
+DOS02735	No setup found
+DOS02736	No setup found
+DOS02738	Options during startup
+DOS02739	INSTALL.EXE
+DOS02740	No setup found
+DOS02741	INSTALL.EXE
+DOS02742	Options during startup
+DOS02743	INSTALL.EXE
+DOS02744	No setup found
+DOS02746	No setup found
+DOS02747	No setup found
+DOS02749	No setup found
+DOS02750	INSTALL.EXE
+DOS02751	No setup found
+DOS02752	No setup found
+DOS02753	No setup found
+DOS02754	SETUP.EXE
+DOS02755	No setup found
+DOS02756	Options during startup
+DOS02757	No setup found
+DOS02759	SETUP.BAT
+DOS02760	D:\INSTALL.EXE
+DOS02762	SETSOUND.BAT
+DOS02763	No setup found
+DOS02764	Optional executeables
+DOS02765	No setup found
+DOS02766	INSTALL.EXE
+DOS02767	No setup found
+DOS02768	No setup found
+DOS02769	No setup found
+DOS02770	No setup found
+DOS02771	INSTALL.EXE
+DOS02773	No setup found
+DOS02774	No setup found
+DOS02776	No setup found
+DOS02777	Options during startup
+DOS02778	Options during startup
+DOS02779	No setup found
+DOS02780	CONFIG.EXE
+DOS02781	D:\INSTALL.EXE
+DOS02782	SETUP.EXE
+DOS02783	No setup found
+DOS02784	No setup found
+DOS02785	No setup found
+DOS02786	D:\INSTALL.EXE
+DOS02787	SETUP.EXE
+DOS02788	No setup found
+DOS02789	No setup found
+DOS02791	Options during startup
+DOS02792	SETUP.EXE
+DOS02793	Options during startup
+DOS02794	Options during startup
+DOS02795	No setup found
+DOS02796	Options during startup
+DOS02797	Options during startup
+DOS02798	Options during startup
+DOS02799	Options during startup
+DOS02800	SETSOUND.BAT
+DOS02803	No setup found
+DOS02804	SETUP.EXE
+DOS02805	SETSOUND.EXE
+DOS02807	INSTALL.EXE
+DOS02808	SETUP.EXE
+DOS02809	Options during startup
+DOS02810	SETSOUND.BAT
+DOS02811	Options during startup
+DOS02815	Options during startup
+DOS02816	No setup found
+DOS02817	SETUP.BAT
+DOS02818	No setup found
+DOS02819	Options during startup
+DOS02822	SETSOUND.BAT
+DOS02823	No setup found
+DOS02824	No setup found
+DOS02825	No setup found
+DOS02827	Options during startup
+DOS02828	INSTALL.EXE
+DOS02829	No setup found
+DOS02830	No setup found
+DOS02831	Options during startup
+DOS02833	INSTALL.EXE
+DOS02834	SETUP.BAT
+DOS02835	SETUP.EXE
+DOS02836	SETUP.EXE
+DOS02837	INSTALL.EXE
+DOS02838	No setup found
+DOS02839	SETUP.EXE
+DOS02840	No setup found
+DOS02842	Options during startup
+DOS02843	Options during startup
+DOS02844	Options during startup
+DOS02846	Options during startup
+DOS02847	No setup found
+DOS02848	INSTALL.EXE
+DOS02849	SETUP.EXE
+DOS02850	Options during startup
+DOS02851	SETUP.EXE
+DOS02852	No setup found
+DOS02853	SETUP.BAT
+DOS02855	Config File
+DOS02856	Options during startup
+DOS02857	INSTALL.EXE
+DOS02858	Options during startup
+DOS02860	No setup found
+DOS02861	No setup found
+DOS02862	No setup found
+DOS02863	No setup found
+DOS02864	INSTALL.EXE
+DOS02865	No setup found
+DOS02866	Optional executeables
+DOS02872	No setup found
+DOS02873	SETUP.EXE
+DOS02874	No setup found
+DOS02876	SETSOUND.EXE
+DOS02877	SETSOUND.EXE
+DOS02878	Options during startup
+DOS02879	Options during startup
+DOS02880	No setup found
+DOS02881	install.exe
+DOS02882	No setup found
+DOS02883	No setup found
+DOS02884	No setup found
+DOS02885	No setup found
+DOS02892	SETSOUND.EXE
+DOS02893	No setup found
+DOS02894	No setup found
+DOS02895	JAN_SETU.BAT
+DOS02897	SETUP.EXE
+DOS02898	SETUP.EXE
+DOS02899	No setup found
+DOS02901	INSTALL.EXE
+DOS02904	No setup found
+DOS02905	Options during startup
+DOS02906	No setup found
+DOS02907	No setup found
+DOS02908	No setup found
+DOS02909	SETUP.EXE
+DOS02910	No setup found
+DOS02911	No setup found
+DOS02912	CONFIG.EXE
+DOS02914	MENU.EXE
+DOS02915	No setup found
+DOS02916	No setup found
+DOS02917	Options during startup
+DOS02918	Options during startup
+DOS02919	Options during startup
+DOS02921	No setup found
+DOS02923	Options during startup
+DOS02924	No setup found
+DOS02925	No setup found
+DOS02927	No setup found
+DOS02929	Options during startup
+DOS02930	Options during startup
+DOS02931	No setup found
+DOS02932	INSTALL.COM
+DOS02933	No setup found
+DOS02934	No setup found
+DOS02935	No setup found
+DOS02936	No setup found
+DOS02937	No setup found
+DOS02938	SETSOUND.EXE
+DOS02941	D:\INSTALL.EXE
+DOS02942	SETSOUND.BAT
+DOS02943	No setup found
+DOS02944	No setup found
+DOS02945	No setup found
+DOS02946	No setup found
+DOS02947	CONFIG.BAT
+DOS02948	No setup found
+DOS02949	SETUP.EXE
+DOS02951	Options during startup
+DOS02952	No setup found
+DOS02953	SETUP.EXE
+DOS02954	SETUP.EXE
+DOS02955	Options during startup
+DOS02956	SETSOUND.EXE
+DOS02957	SETSOUND.EXE
+DOS02958	No setup found
+DOS02959	Options during startup
+DOS02960	Options during startup
+DOS02961	INSTALL.EXE
+DOS02962	No setup found
+DOS02963	No setup found
+DOS02964	SETSOUND.BAT
+DOS02965	No setup found
+DOS02966	No setup found
+DOS02967	JPFIX.COM
+DOS02968	SETUP.EXE
+DOS02969	AUD_EDIT.EXE
+DOS02970	No setup found
+DOS02971	No setup found
+DOS02972	No setup found
+DOS02974	No setup found
+DOS02975	No setup found
+DOS02976	No setup found
+DOS02977	No setup found
+DOS02978	No setup found
+DOS02979	install.exe
+DOS02980	SETUP.EXE
+DOS02981	Parameters added to boot command
+DOS02982	No setup found
+DOS02983	SETUP.EXE
+DOS02984	No setup found
+DOS02985	No setup found
+DOS02986	No setup found
+DOS02987	No setup found
+DOS02988	Options during startup
+DOS02989	No setup found
+DOS02990	SETUP.EXE
+DOS02991	SETUP.EXE
+DOS02992	No setup found
+DOS02993	No setup found
+DOS02994	No setup found
+DOS02995	No setup found
+DOS02996	No setup found
+DOS02997	No setup found
+DOS02998	No setup found
+DOS02999	No setup found
+DOS03000	INSTALL.EXE
+DOS03001	No setup found
+DOS03002	No setup found
+DOS03003	SETUP.EXE
+DOS03004	No setup found
+DOS03005	Options during startup
+DOS03006	No setup found
+DOS03007	INSTALL.EXE
+DOS03008	No setup found
+DOS03010	No setup found
+DOS03011	No setup found
+DOS03012	INSTALL.EXE
+DOS03013	INSTALL.EXE
+DOS03014	INSTALL.EXE
+DOS03015	INSTALL.EXE
+DOS03016	No setup found
+DOS03017	No setup found
+DOS03018	No setup found
+DOS03019	Options during startup
+DOS03020	Options during startup
+DOS03022	No setup found
+DOS03023	Optional executeables
+DOS03024	No setup found
+DOS03025	Options during startup
+DOS03026	No setup found
+DOS03027	Options during startup
+DOS03028	Options during startup
+DOS03029	INSTALL.EXE
+DOS03030	No setup found
+DOS03032	Options during startup
+DOS03033	No setup found
+DOS03034	KOPSETUP.EXE
+DOS03035	No setup found
+DOS03036	No setup found
+DOS03038	Optional executeables
+DOS03039	No setup found
+DOS03041	Options during startup
+DOS03042	Options during startup
+DOS03043	No setup found
+DOS03044	No setup found
+DOS03045	No setup found
+DOS03046	Options during startup
+DOS03047	No setup found
+DOS03048	Options during startup
+DOS03051	SETUP.BAT
+DOS03052	No setup found
+DOS03053	No setup found
+DOS03055	Options during startup
+DOS03056	Options during startup
+DOS03057	No setup found
+DOS03062	No setup found
+DOS03063	Options during startup
+DOS03064	No setup found
+DOS03065	No setup found
+DOS03066	No setup found
+DOS03067	No setup found
+DOS03068	No setup found
+DOS03069	Options during startup
+DOS03070	No setup found
+DOS03072	No setup found
+DOS03074	SETUP.EXE
+DOS03075	SETUP.EXE
+DOS03076	No setup found
+DOS03078	No setup found
+DOS03079	No setup found
+DOS03080	No setup found
+DOS03081	No setup found
+DOS03082	Options during startup
+DOS03083	Options during startup
+DOS03084	Options during startup
+DOS03085	No setup found
+DOS03087	SETSOUND.EXE
+DOS03088	D:\INSTALL.EXE
+DOS03089	Options during startup
+DOS03091	No setup found
+DOS03092	No setup found
+DOS03093	Options during startup
+DOS03094	No setup found
+DOS03095	No setup found
+DOS03096	No setup found
+DOS03097	Options during startup
+DOS03098	Options during startup
+DOS03099	SETUP.EXE
+DOS03100	No setup found
+DOS03101	No setup found
+DOS03103	Options during startup
+DOS03104	No setup found
+DOS03105	INSTALL.EXE
+DOS03106	No setup found
+DOS03107	setup.exe
+DOS03108	INSTALL.EXE
+DOS03110	Options during startup
+DOS03111	MYRSETUP.EXE
+DOS03112	No setup found
+DOS03113	No setup found
+DOS03114	No setup found
+DOS03115	No setup found
+DOS03116	No setup found
+DOS03118	No setup found
+DOS03119	No setup found
+DOS03120	No setup found
+DOS03121	Options during startup
+DOS03122	INSTALL.EXE
+DOS03123	INSTALL.EXE
+DOS03124	INSTALL.EXE
+DOS03126	INSTALL.EXE
+DOS03127	INSTALL.EXE
+DOS03128	No setup found
+DOS03129	INSTALL.EXE
+DOS03136	INSTALL.EXE
+DOS03137	INSTALL.EXE
+DOS03138	SETUP.EXE
+DOS03139	INSTALL.EXE
+DOS03141	No setup found
+DOS03142	No setup found
+DOS03143	setup.exe
+DOS03144	No setup found
+DOS03146	No setup found
+DOS03147	Parameters added to boot command
+DOS03149	No setup found
+DOS03151	No setup found
+DOS03154	No setup found
+DOS03155	JTUNER.EXE
+DOS03156	No setup found
+DOS03157	No setup found
+DOS03158	No setup found
+DOS03159	No setup found
+DOS03160	No setup found
+DOS03161	Options during startup
+DOS03163	Options during startup
+DOS03164	INSTALL.EXE
+DOS03165	Options during startup
+DOS03166	Options during startup
+DOS03167	Options during startup
+DOS03168	No setup found
+DOS03190	No setup found
+DOS03192	SETBLAST.EXE
+DOS03193	No setup found
+DOS03194	Options during startup
+DOS03195	No setup found
+DOS03196	INSTALL.EXE
+DOS03197	SETUP.EXE
+DOS03198	No setup found
+DOS03200	SETSOUND.EXE
+DOS03201	No setup found
+DOS03202	No setup found
+DOS03203	LLSETUP.EXE
+DOS03204	No setup found
+DOS03205	No setup found
+DOS03206	Options during startup
+DOS03207	SETUP.EXE
+DOS03208	INSTALL.EXE
+DOS03209	No setup found
+DOS03210	Options during startup
+DOS03212	SETUP.COM
+DOS03213	Options during startup
+DOS03214	Options during startup
+DOS03215	No setup found
+DOS03216	Options during startup
+DOS03217	Parameters added to boot command
+DOS03218	Options during startup
+DOS03219	No setup found
+DOS03220	SETUP.EXE
+DOS03221	No setup found
+DOS03222	No setup found
+DOS03223	SETSOUND.EXE
+DOS03224	SETUP.EXE
+DOS03227	No setup found
+DOS03228	Optional executeables
+DOS03230	No setup found
+DOS03232	No setup found
+DOS03233	Options during startup
+DOS03235	No setup found
+DOS03236	Options during startup
+DOS03237	No setup found
+DOS03238	No setup found
+DOS03240	SETUP.EXE
+DOS03241	SETSOUND.EXE
+DOS03242	INSTALL.EXE
+DOS03243	SETUP.EXE
+DOS03244	Options during startup
+DOS03248	No setup found
+DOS03249	SETUP.EXE
+DOS03250	In-Game Menu
+DOS03251	No setup found
+DOS03252	No setup found
+DOS03261	INSTALL.EXE
+DOS03262	No setup found
+DOS03263	INSTALL.EXE
+DOS03265	No setup found
+DOS03266	No setup found
+DOS03267	No setup found
+DOS03268	No setup found
+DOS03269	No setup found
+DOS03272	No setup found
+DOS03273	setup.exe
+DOS03274	No setup found
+DOS03275	Options during startup
+DOS03277	INSTALL.EXE
+DOS03278	Options during startup
+DOS03279	No setup found
+DOS03280	SETSOUND.EXE
+DOS03281	No setup found
+DOS03282	No setup found
+DOS03283	SETUP.EXE
+DOS03284	No setup found
+DOS03285	No setup found
+DOS03286	No setup found
+DOS03287	No setup found
+DOS03288	setup.exe
+DOS03289	No setup found
+DOS03291	SNDSETUP.BAT
+DOS03293	SNDSETUP.BAT
+DOS03294	No setup found
+DOS03295	No setup found
+DOS03297	No setup found
+DOS03298	Options during startup
+DOS03299	SETUP.EXE
+DOS03300	MC2INST.EXE
+DOS03301	No setup found
+DOS03302	Options during startup
+DOS03303	No setup found
+DOS03304	No setup found
+DOS03306	No setup found
+DOS03307	Options during startup
+DOS03308	Options during startup
+DOS03309	No setup found
+DOS03310	setup.exe
+DOS03312	INSTALL.EXE
+DOS03313	No setup found
+DOS03314	No setup found
+DOS03316	No setup found
+DOS03317	No setup found
+DOS03318	SOUNDSET.EXE
+DOS03319	No setup found
+DOS03320	No setup found
+DOS03321	No setup found
+DOS03322	SETUP.EXE
+DOS03323	No setup found
+DOS03324	No setup found
+DOS03325	No setup found
+DOS03326	No setup found
+DOS03327	No setup found
+DOS03328	No setup found
+DOS03329	No setup found
+DOS03330	No setup found
+DOS03331	No setup found
+DOS03332	SETUP.EXE
+DOS03333	SETUP.EXE
+DOS03334	In-Game Menu
+DOS03335	No setup found
+DOS03336	No setup found
+DOS03337	No setup found
+DOS03338	No setup found
+DOS03339	No setup found
+DOS03340	Config File
+DOS03341	No setup found
+DOS03342	No setup found
+DOS03343	No setup found
+DOS03344	SETSOUND.BAT
+DOS03345	No setup found
+DOS03347	SETUP.EXE
+DOS03348	No setup found
+DOS03349	No setup found
+DOS03350	No setup found
+DOS03351	No setup found
+DOS03352	No setup found
+DOS03353	No setup found
+DOS03354	No setup found
+DOS03355	Options during startup
+DOS03356	SOUND.BAT
+DOS03357	No setup found
+DOS03358	Options during startup
+DOS03359	SETUP.BAT
+DOS03360	SETUP.EXE
+DOS03361	No setup found
+DOS03363	No setup found
+DOS03364	No setup found
+DOS03365	Options during startup
+DOS03368	INSTALL.EXE
+DOS03369	PDCONFIG.EXE
+DOS03370	No setup found
+DOS03371	INSTALL.EXE
+DOS03372	SETSOUND.BAT
+DOS03378	Options during startup
+DOS03379	No setup found
+DOS03380	SETUP.EXE
+DOS03381	No setup found
+DOS03382	No setup found
+DOS03383	No setup found
+DOS03384	Options during startup
+DOS03385	SOUND.BAT
+DOS03386	SETUP.EXE
+DOS03387	SETUP.EXE
+DOS03389	install.com
+DOS03390	No setup found
+DOS03392	SETUP.EXE
+DOS03393	No setup found
+DOS03394	No setup found
+DOS03395	Options during startup
+DOS03396	SETUP.EXE
+DOS03397	INSTALL.EXE
+DOS03398	INSTALL.EXE
+DOS03399	Options during startup
+DOS03400	Options during startup
+DOS03401	No setup found
+DOS03402	No setup found
+DOS03403	No setup found
+DOS03404	No setup found
+DOS03405	SETUP.EXE
+DOS03406	Options during startup
+DOS03407	Parameters added to boot command
+DOS03408	No setup found
+DOS03409	SETUP.EXE
+DOS03410	SETUP.EXE
+DOS03411	No setup found
+DOS03413	setup.exe
+DOS03414	SETUP.EXE
+DOS03415	No setup found
+DOS03416	No setup found
+DOS03417	No setup found
+DOS03418	No setup found
+DOS03419	SETUP.BAT
+DOS03420	SETSOUND.EXE
+DOS03421	No setup found
+DOS03422	No setup found
+DOS03423	No setup found
+DOS03424	No setup found
+DOS03425	No setup found
+DOS03426	SETUP.EXE
+DOS03427	INSTALL.EXE
+DOS03428	SETSOUND.EXE
+DOS03429	No setup found
+DOS03430	Optional executeables
+DOS03433	No setup found
+DOS03434	No setup found
+DOS03435	No setup found
+DOS03436	D:\INSTALL.EXE
+DOS03438	No setup found
+DOS03439	Options during startup
+DOS03440	No setup found
+DOS03441	No setup found
+DOS03443	SETUP.EXE
+DOS03445	No setup found
+DOS03447	No setup found
+DOS03448	No setup found
+DOS03449	No setup found
+DOS03450	No setup found
+DOS03451	No setup found
+DOS03452	Options during startup
+DOS03453	No setup found
+DOS03454	Options during startup
+DOS03455	Options during startup
+DOS03456	No setup found
+DOS03458	No setup found
+DOS03460	Optional executeables
+DOS03463	SETSOUND.BAT
+DOS03464	SETUP.EXE
+DOS03465	No setup found
+DOS03466	No setup found
+DOS03468	SETUP.EXE
+DOS03471	No setup found
+DOS03472	No setup found
+DOS03474	Options during startup
+DOS03475	Options during startup
+DOS03476	Options during startup
+DOS03477	SOUND.BAT
+DOS03478	INSTALL.EXE
+DOS03488	No setup found
+DOS03489	No setup found
+DOS03490	D:\INSTALL.EXE
+DOS03491	SETUP.EXE
+DOS03494	Options during startup
+DOS03496	SETUP.EXE
+DOS03498	No setup found
+DOS03503	No setup found
+DOS03505	Options during startup
+DOS03506	SOUND.BAT
+DOS03507	Options during startup
+DOS03508	SETSOUND.EXE
+DOS03509	No setup found
+DOS03510	No setup found
+DOS03511	No setup found
+DOS03513	INSTALL.EXE
+DOS03514	Options during startup
+DOS03515	No setup found
+DOS03516	SOUNDSET.EXE
+DOS03517	INSTALL.BAT
+DOS03520	No setup found
+DOS03521	Options during startup
+DOS03523	install.exe
+DOS03524	CONFIG.BAT
+DOS03525	Options during startup
+DOS03526	INSTALL.EXE
+DOS03527	INSTALL.EXE
+DOS03528	No setup found
+DOS03529	Options during startup
+DOS03530	No setup found
+DOS03531	Options during startup
+DOS03532	No setup found
+DOS03533	No setup found
+DOS03534	SETUP.EXE
+DOS03536	No setup found
+DOS03542	Options during startup
+DOS03543	Options during startup
+DOS03544	SETUP.COM
+DOS03548	SETUP.EXE
+DOS03552	No setup found
+DOS03553	No setup found
+DOS03554	Options during startup
+DOS03555	No setup found
+DOS03556	JOYSTICK.EXE
+DOS03557	No setup found
+DOS03558	No setup found
+DOS03559	INSTALL.EXE
+DOS03560	INSTALL.EXE
+DOS03561	No setup found
+DOS03563	INSTALL.EXE
+DOS03566	INSTALL.EXE
+DOS03567	No setup found
+DOS03568	SETUP.EXE
+DOS03570	No setup found
+DOS03571	SETUP.BAT
+DOS03572	Options during startup
+DOS03573	No setup found
+DOS03574	SETSOUND.EXE
+DOS03575	MITESCFG.EXE
+DOS03576	No setup found
+DOS03577	No setup found
+DOS03578	No setup found
+DOS03579	No setup found
+DOS03580	Options during startup
+DOS03582	No setup found
+DOS03583	SETUP.EXE
+DOS03584	Options during startup
+DOS03586	No setup found
+DOS03588	No setup found
+DOS03590	No setup found
+DOS03591	No setup found
+DOS03592	INSTALL.EXE
+DOS03593	SETUP.BAT
+DOS03594	No setup found
+DOS03596	No setup found
+DOS03597	install.exe
+DOS03598	No setup found
+DOS03599	INSTALL.EXE
+DOS03600	SETUP.EXE
+DOS03601	No setup found
+DOS03602	SETUP.EXE
+DOS03603	No setup found
+DOS03604	No setup found
+DOS03605	Parameters added to boot command
+DOS03609	No setup found
+DOS03610	SETUP.EXE
+DOS03611	No setup found
+DOS03612	Options during startup
+DOS03613	No setup found
+DOS03614	MSETUP.EXE
+DOS03615	Optional executeables
+DOS03616	No setup found
+DOS03617	No setup found
+DOS03618	Options during startup
+DOS03619	No setup found
+DOS03620	Options during startup
+DOS03621	No setup found
+DOS03622	Options during startup
+DOS03623	No setup found
+DOS03624	Options during startup
+DOS03626	Options during startup
+DOS03627	Options during startup
+DOS03628	No setup found
+DOS03629	Options during startup
+DOS03630	Options during startup
+DOS03632	No setup found
+DOS03633	Options during startup
+DOS03634	Optional executeables
+DOS03635	SETUP.BAT
+DOS03636	SETSOUND.EXE
+DOS03637	SETSOUND.EXE
+DOS03638	Embedded in batchfile
+DOS03639	SETSOUND.EXE
+DOS03640	Options during startup
+DOS03641	No setup found
+DOS03642	No setup found
+DOS03643	Options during startup
+DOS03644	No setup found
+DOS03645	No setup found
+DOS03646	SETUP.EXE
+DOS03648	No setup found
+DOS03649	SOUND.EXE
+DOS03650	No setup found
+DOS03651	No setup found
+DOS03653	No setup found
+DOS03654	No setup found
+DOS03655	No setup found
+DOS03656	No setup found
+DOS03658	No setup found
+DOS03660	No setup found
+DOS03662	No setup found
+DOS03663	No setup found
+DOS03664	Optional executeables
+DOS03665	No setup found
+DOS03666	No setup found
+DOS03667	Options during startup
+DOS03668	Options during startup
+DOS03669	SETUP.EXE
+DOS03670	No setup found
+DOS03671	D:\INSTALL.EXE
+DOS03672	No setup found
+DOS03674	No setup found
+DOS03675	No setup found
+DOS03676	No setup found
+DOS03677	No setup found
+DOS03678	Options during startup
+DOS03679	No setup found
+DOS03682	No setup found
+DOS03683	No setup found
+DOS03684	No setup found
+DOS03685	No setup found
+DOS03686	Options during startup
+DOS03687	No setup found
+DOS03688	INSTALL.BAT
+DOS03689	No setup found
+DOS03690	No setup found
+DOS03691	SETUP.EXE
+DOS03692	SETUP.EXE
+DOS03694	SNDSETUP.EXE
+DOS03695	Options during startup
+DOS03696	Options during startup
+DOS03697	Options during startup
+DOS03698	SVGATEST.BAT
+DOS03699	Options during startup
+DOS03700	No setup found
+DOS03701	No setup found
+DOS03703	SETUP.EXE
+DOS03704	No setup found
+DOS03705	SETUP.EXE
+DOS03706	No setup found
+DOS03707	No setup found
+DOS03709	JCU.EXE
+DOS03710	D:\INSTALL.EXE
+DOS03711	SETSOUND.EXE
+DOS03712	SETSOUND.EXE
+DOS03713	No setup found
+DOS03714	SETSOUND.BAT
+DOS03715	No setup found
+DOS03717	Options during startup
+DOS03720	No setup found
+DOS03721	SOUND.EXE
+DOS03722	SETUP.EXE
+DOS03723	No setup found
+DOS03724	Options during startup
+DOS03725	No setup found
+DOS03726	Options during startup
+DOS03728	No setup found
+DOS03729	SETD.EXE
+DOS03730	No setup found
+DOS03732	No setup found
+DOS03733	Options during startup
+DOS03735	SETSOUND.BAT
+DOS03736	SETSOUND.BAT
+DOS03737	SETUP.EXE
+DOS03738	D:\INSTALL.EXE
+DOS03739	SETUP.EXE
+DOS03740	DOSSETUP.EXE
+DOS03742	No setup found
+DOS03743	Options during startup
+DOS03744	Options during startup
+DOS03745	Options during startup
+DOS03746	No setup found
+DOS03747	Options during startup
+DOS03748	Options during startup
+DOS03749	Options during startup
+DOS03750	No setup found
+DOS03751	D:\SETUP.EXE
+DOS03752	SETSOUND.EXE
+DOS03754	No setup found
+DOS03755	No setup found
+DOS03756	Options during startup
+DOS03757	Options during startup
+DOS03758	NJCONFIG.EXE
+DOS03759	joy.bat
+DOS03760	No setup found
+DOS03761	No setup found
+DOS03762	No setup found
+DOS03764	Options during startup
+DOS03765	No setup found
+DOS03766	No setup found
+DOS03767	INSTALL.EXE
+DOS03768	Options during startup
+DOS03769	NOGSETUP.EXE
+DOS03770	No setup found
+DOS03771	No setup found
+DOS03772	No setup found
+DOS03773	INSTALL.EXE
+DOS03774	No setup found
+DOS03775	Options during startup
+DOS03776	No setup found
+DOS03777	INSTALL.COM
+DOS03778	SETUP.EXE
+DOS03779	No setup found
+DOS03780	No setup found
+DOS03781	No setup found
+DOS03782	No setup found
+DOS03786	No setup found
+DOS03788	No setup found
+DOS03789	INSTALL.EXE
+DOS03790	Options during startup
+DOS03791	No setup found
+DOS03792	SOUND.EXE
+DOS03793	Options during startup
+DOS03794	Options during startup
+DOS03795	Options during startup
+DOS03796	SETUP.EXE
+DOS03797	SETSOUND.EXE
+DOS03799	SETUP.EXE
+DOS03800	Options during startup
+DOS03801	No setup found
+DOS03802	No setup found
+DOS03803	Options during startup
+DOS03804	No setup found
+DOS03805	INSTALL.EXE
+DOS03807	SETUP.EXE
+DOS03808	No setup found
+DOS03809	No setup found
+DOS03810	Options during startup
+DOS03811	No setup found
+DOS03812	SETUP.BAT
+DOS03813	No setup found
+DOS03814	No setup found
+DOS03815	No setup found
+DOS03816	No setup found
+DOS03817	OMNICRON.EXE
+DOS03818	No setup found
+DOS03819	No setup found
+DOS03820	INSTALL.EXE
+DOS03822	Options during startup
+DOS03823	No setup found
+DOS03824	No setup found
+DOS03825	SETUP.EXE
+DOS03826	SETUP.EXE
+DOS03827	No setup found
+DOS03828	No setup found
+DOS03829	No setup found
+DOS03831	SETUP.EXE
+DOS03832	SETUP.EXE
+DOS03833	SETUP.EXE
+DOS03834	No setup found
+DOS03835	No setup found
+DOS03836	SETUP.BAT
+DOS03837	No setup found
+DOS03838	SETUP.EXE
+DOS03839	No setup found
+DOS03840	SETUP.EXE
+DOS03841	No setup found
+DOS03842	Options during startup
+DOS03843	Options during startup
+DOS03844	No setup found
+DOS03845	No setup found
+DOS03846	No setup found
+DOS03848	No setup found
+DOS03849	No setup found
+DOS03850	Options during startup
+DOS03851	SETUP.EXE
+DOS03852	SETSOUND.EXE
+DOS03853	SETUP.EXE
+DOS03854	SETUP.EXE
+DOS03855	No setup found
+DOS03856	SETD.EXE
+DOS03858	No setup found
+DOS03860	No setup found
+DOS03861	No setup found
+DOS03863	No setup found
+DOS03864	SETUP.EXE
+DOS03866	Setup.exe
+DOS03868	Options during startup
+DOS03869	INSTALL.EXE
+DOS03870	SETUP.EXE
+DOS03871	Parameters added to boot command
+DOS03873	INSTALL.COM
+DOS03874	No setup found
+DOS03876	Options during startup
+DOS03877	Options during startup
+DOS03879	No setup found
+DOS03882	Options during startup
+DOS03883	No setup found
+DOS03884	INSTALL.EXE
+DOS03886	SETUP.COM
+DOS03888	No setup found
+DOS03889	Options during startup
+DOS03890	Options during startup
+DOS03891	No setup found
+DOS03892	Options during startup
+DOS03893	INSTALL.EXE
+DOS03896	No setup found
+DOS03897	No setup found
+DOS03900	No setup found
+DOS03901	BALLCFG.EXE
+DOS03902	SETUP.EXE
+DOS03903	No setup found
+DOS03904	No setup found
+DOS03905	Options during startup
+DOS03906	No setup found
+DOS03907	SOUND.BAT
+DOS03909	Options during startup
+DOS03910	SETUP.EXE
+DOS03911	Options during startup
+DOS03912	No setup found
+DOS03913	No setup found
+DOS03914	SETUP.EXE
+DOS03915	Options during startup
+DOS03916	Options during startup
+DOS03917	No setup found
+DOS03918	No setup found
+DOS03919	No setup found
+DOS03920	No setup found
+DOS03921	No setup found
+DOS03922	No setup found
+DOS03923	No setup found
+DOS03924	No setup found
+DOS03925	No setup found
+DOS03926	SETUP.EXE
+DOS03927	No setup found
+DOS03928	Options during startup
+DOS03929	No setup found
+DOS03932	SETUP.EXE
+DOS03933	No setup found
+DOS03934	No setup found
+DOS03935	No setup found
+DOS03936	No setup found
+DOS03938	SETUP.EXE
+DOS03939	No setup found
+DOS03940	No setup found
+DOS03942	config.bat
+DOS03943	Options during startup
+DOS03944	CONFIG.EXE
+DOS03945	No setup found
+DOS03946	Options during startup
+DOS03947	No setup found
+DOS03948	No setup found
+DOS03949	No setup found
+DOS03952	install.exe
+DOS03953	SETUP.EXE
+DOS03954	INSTALL.EXE
+DOS03957	PGSETUP.EXE
+DOS03960	No setup found
+DOS03964	No setup found
+DOS03965	No setup found
+DOS03966	No setup found
+DOS03968	Parameters added to boot command
+DOS03969	No setup found
+DOS03970	SETSOUND.EXE
+DOS03971	No setup found
+DOS03972	No setup found
+DOS03975	No setup found
+DOS03976	No setup found
+DOS03978	No setup found
+DOS03980	No setup found
+DOS03981	No setup found
+DOS03982	INST.EXE
+DOS03984	No setup found
+DOS03985	No setup found
+DOS03986	No setup found
+DOS03988	No setup found
+DOS03989	No setup found
+DOS03990	No setup found
+DOS03991	Options during startup
+DOS03992	INSTALL.BAT
+DOS03993	No setup found
+DOS03994	No setup found
+DOS03995	No setup found
+DOS03997	SETUP.EXE
+DOS03998	No setup found
+DOS04000	SETSOUND.COM
+DOS04001	SETSOUND.EXE
+DOS04003	SETSOUND.EXE
+DOS04004	SETSOUND.EXE
+DOS04007	Embedded in batchfile
+DOS04010	Options during startup
+DOS04011	SETSOUND.EXE
+DOS04012	SETUP.EXE
+DOS04013	No setup found
+DOS04014	SETSND.EXE
+DOS04016	No setup found
+DOS04017	No setup found
+DOS04018	SETUP.EXE
+DOS04019	No setup found
+DOS04021	INSTALL.EXE
+DOS04022	No setup found
+DOS04023	No setup found
+DOS04024	No setup found
+DOS04025	Options during startup
+DOS04026	No setup found
+DOS04027	No setup found
+DOS04028	INSTALL.EXE
+DOS04029	No setup found
+DOS04030	config.exe
+DOS04031	No setup found
+DOS04032	No setup found
+DOS04033	Install.exe
+DOS04034	SETUP.EXE
+DOS04035	No setup found
+DOS04036	SETUP.EXE
+DOS04038	No setup found
+DOS04039	SETUP.EXE
+DOS04041	Optional executeables
+DOS04046	No setup found
+DOS04047	No setup found
+DOS04048	No setup found
+DOS04049	SBCONFIG.EXE
+DOS04050	No setup found
+DOS04055	No setup found
+DOS04056	SNDSETUP.EXE
+DOS04057	No setup found
+DOS04058	INSTALL.BAT
+DOS04059	INSTALL.BAT
+DOS04061	No setup found
+DOS04062	INSTALL.BAT
+DOS04064	No setup found
+DOS04065	No setup found
+DOS04066	Options during startup
+DOS04067	No setup found
+DOS04068	No setup found
+DOS04069	No setup found
+DOS04070	No setup found
+DOS04071	No setup found
+DOS04072	Parameters added to boot command
+DOS04073	No setup found
+DOS04076	No setup found
+DOS04077	No setup found
+DOS04078	Options during startup
+DOS04079	No setup found
+DOS04080	No setup found
+DOS04082	SETUP.BAT
+DOS04084	No setup found
+DOS04087	SETUP.BAT
+DOS04089	CONFIG.EXE
+DOS04090	Options during startup
+DOS04091	No setup found
+DOS04092	Options during startup
+DOS04093	No setup found
+DOS04094	install.exe
+DOS04095	install.exe
+DOS04096	INSTALL.EXE
+DOS04097	INSTALL.EXE
+DOS04099	FBSETUP.EXE
+DOS04100	No setup found
+DOS04101	No setup found
+DOS04102	No setup found
+DOS04103	No setup found
+DOS04104	SETSOUND.EXE
+DOS04105	INSTALL.BAT
+DOS04106	No setup found
+DOS04107	No setup found
+DOS04108	SETUP.EXE
+DOS04112	No setup found
+DOS04114	SETSOUND.EXE
+DOS04117	No setup found
+DOS04118	Options during startup
+DOS04119	SETSOUND.BAT
+DOS04120	No setup found
+DOS04121	Options during startup
+DOS04122	SETUP.EXE
+DOS04123	No setup found
+DOS04124	No setup found
+DOS04125	INSTALL.EXE
+DOS04127	INSTALL.EXE
+DOS04128	No setup found
+DOS04129	Options during startup
+DOS04130	Options during startup
+DOS04131	INSTALL.EXE
+DOS04132	INSTALL.EXE
+DOS04133	SETUP.EXE
+DOS04136	Config File
+DOS04137	SETUP.EXE
+DOS04138	No setup found
+DOS04140	No setup found
+DOS04142	SETSOUND.EXE
+DOS04143	No setup found
+DOS04144	No setup found
+DOS04145	SOUND.BAT
+DOS04147	No setup found
+DOS04149	Options during startup
+DOS04151	No setup found
+DOS04152	Options during startup
+DOS04153	SETD.EXE
+DOS04154	CONFIG.EXE
+DOS04155	Options during startup
+DOS04156	SETUPCD.EXE
+DOS04157	SETUPCD.EXE
+DOS04158	SETUPCD.EXE
+DOS04159	D:\SETUPCD.EXE
+DOS04161	No setup found
+DOS04162	CONFIG.BAT
+DOS04163	No setup found
+DOS04164	No setup found
+DOS04165	No setup found
+DOS04166	No setup found
+DOS04167	No setup found
+DOS04168	Config File
+DOS04170	SETSOUND.EXE
+DOS04171	No setup found
+DOS04174	No setup found
+DOS04175	No setup found
+DOS04176	Optional executeables
+DOS04177	QSETUP.EXE
+DOS04178	Options during startup
+DOS04179	No setup found
+DOS04181	No setup found
+DOS04182	No setup found
+DOS04184	SETUP.EXE
+DOS04185	No setup found
+DOS04186	INSTALL.COM
+DOS04187	No setup found
+DOS04188	No setup found
+DOS04189	Options during startup
+DOS04190	SETSOUND.BAT
+DOS04191	No setup found
+DOS04193	setup.bat
+DOS04196	INSTALL.EXE
+DOS04197	INSTALL.EXE
+DOS04198	INSTALL.EXE
+DOS04199	INSTALL.BAT
+DOS04201	Options during startup
+DOS04203	No setup found
+DOS04204	Options during startup
+DOS04205	Options during startup
+DOS04206	No setup found
+DOS04207	No setup found
+DOS04209	No setup found
+DOS04210	No setup found
+DOS04211	No setup found
+DOS04212	SETSOUND.EXE
+DOS04213	No setup found
+DOS04214	No setup found
+DOS04215	INSTALL.EXE
+DOS04216	SETUP.EXE
+DOS04217	No setup found
+DOS04219	Options during startup
+DOS04220	No setup found
+DOS04221	No setup found
+DOS04222	setup.exe
+DOS04223	Options during startup
+DOS04224	SETUP.EXE
+DOS04225	SETUP.EXE
+DOS04226	INSTALL.EXE
+DOS04227	No setup found
+DOS04229	Options during startup
+DOS04230	No setup found
+DOS04231	Options during startup
+DOS04234	Options during startup
+DOS04235	SETUP.EXE
+DOS04236	Options during startup
+DOS04237	No setup found
+DOS04238	SOUND.BAT
+DOS04239	SOUND.BAT
+DOS04240	SETUP.EXE
+DOS04241	D:\INSTALL.BAT
+DOS04242	D:\RAYMAN\SETUP.BAT
+DOS04245	SOUND.BAT
+DOS04247	Parameters added to boot command
+DOS04248	SETUP.EXE
+DOS04249	INSTALL.EXE
+DOS04251	No setup found
+DOS04253	No setup found
+DOS04254	SETUP.EXE
+DOS04255	SETUP.EXE
+DOS04256	No setup found
+DOS04257	INSTALL.BAT
+DOS04260	INSTALL.BAT
+DOS04261	SETSOUND.EXE
+DOS04262	INSTALL.EXE
+DOS04263	No setup found
+DOS04264	CONFIG.EXE
+DOS04266	SETUP.EXE
+DOS04270	SETUP.EXE
+DOS04271	SETUP.EXE
+DOS04272	Options during startup
+DOS04274	No setup found
+DOS04275	SETUP.EXE
+DOS04276	INSTALL.EXE
+DOS04277	No setup found
+DOS04278	No setup found
+DOS04279	Options during startup
+DOS04280	SOUND.EXE
+DOS04281	Parameters added to boot command
+DOS04282	No setup found
+DOS04283	Options during startup
+DOS04284	No setup found
+DOS04285	No setup found
+DOS04286	No setup found
+DOS04287	No setup found
+DOS04288	INSTALL.EXE
+DOS04289	No setup found
+DOS04290	No setup found
+DOS04291	install.exe
+DOS04292	Options during startup
+DOS04293	In-Game Menu
+DOS04294	INSTALL.EXE
+DOS04295	No setup found
+DOS04296	No setup found
+DOS04297	Options during startup
+DOS04298	INSTALL.EXE
+DOS04299	No setup found
+DOS04301	SOUND.BAT
+DOS04302	No setup found
+DOS04304	install.exe
+DOS04305	No setup found
+DOS04306	Options during startup
+DOS04307	Options during startup
+DOS04308	Options during startup
+DOS04309	SETUP.BAT
+DOS04310	Options during startup
+DOS04311	SETUP.EXE
+DOS04312	No setup found
+DOS04313	D:\SETUP.BAT
+DOS04314	SETUP.EXE
+DOS04315	SETUP.EXE
+DOS04316	No setup found
+DOS04318	SETUP.BAT
+DOS04319	No setup found
+DOS04320	Options during startup
+DOS04322	No setup found
+DOS04323	SETUP.EXE
+DOS04325	install.exe
+DOS04326	INSTALL.EXE
+DOS04327	SOUND.BAT
+DOS04328	INSTALL.EXE
+DOS04330	No setup found
+DOS04331	No setup found
+DOS04332	SETSOUND.EXE
+DOS04333	No setup found
+DOS04334	No setup found
+DOS04335	No setup found
+DOS04338	No setup found
+DOS04339	No setup found
+DOS04340	No setup found
+DOS04341	No setup found
+DOS04342	No setup found
+DOS04343	SETUP.EXE
+DOS04344	No setup found
+DOS04346	No setup found
+DOS04347	SETUP.EXE
+DOS04348	SETUP.EXE
+DOS04349	No setup found
+DOS04350	Options during startup
+DOS04351	Options during startup
+DOS04352	No setup found
+DOS04353	No setup found
+DOS04354	Options during startup
+DOS04355	No setup found
+DOS04356	No setup found
+DOS04357	No setup found
+DOS04358	Options during startup
+DOS04359	No setup found
+DOS04360	No setup found
+DOS04361	No setup found
+DOS04362	No setup found
+DOS04363	SETUP.EXE
+DOS04365	Options during startup
+DOS04366	No setup found
+DOS04367	SETUP.BAT
+DOS04368	SETUP.EXE
+DOS04369	No setup found
+DOS04370	Options during startup
+DOS04371	No setup found
+DOS04372	No setup found
+DOS04374	No setup found
+DOS04375	No setup found
+DOS04376	Options during startup
+DOS04377	No setup found
+DOS04378	No setup found
+DOS04379	CONFIG.EXE
+DOS04380	ROESETUP.EXE
+DOS04381	R2SETUP.EXE
+DOS04382	No setup found
+DOS04384	No setup found
+DOS04385	VIDSETUP.EXE
+DOS04386	Options during startup
+DOS04387	SETUP.EXE
+DOS04388	Options during startup
+DOS04389	Options during startup
+DOS04390	No setup found
+DOS04391	No setup found
+DOS04394	D:\SETUP.BAT
+DOS04395	No setup found
+DOS04396	No setup found
+DOS04398	INSTALL.EXE
+DOS04400	INSTALL.EXE
+DOS04401	No setup found
+DOS04402	SETUP.EXE
+DOS04403	SETSOUND.EXE
+DOS04404	No setup found
+DOS04405	Options during startup
+DOS04407	Options during startup
+DOS04408	No setup found
+DOS04409	No setup found
+DOS04410	No setup found
+DOS04411	No setup found
+DOS04413	No setup found
+DOS04414	Options during startup
+DOS04415	INSTALL.COM
+DOS04416	No setup found
+DOS04417	Options during startup
+DOS04418	No setup found
+DOS04422	No setup found
+DOS04427	No setup found
+DOS04428	No setup found
+DOS04430	Options during startup
+DOS04431	SETSOUND.EXE
+DOS04432	SETUP.EXE
+DOS04433	No setup found
+DOS04436	INSTALL.EXE
+DOS04438	D:\SETUP.EXE
+DOS04439	SETUP.EXE
+DOS04440	SETUP.BAT
+DOS04441	No setup found
+DOS04442	No setup found
+DOS04443	No setup found
+DOS04444	Options during startup
+DOS04445	No setup found
+DOS04446	No setup found
+DOS04447	INSTALL.COM
+DOS04448	SETUP.BAT
+DOS04450	Options during startup
+DOS04451	No setup found
+DOS04453	No setup found
+DOS04454	No setup found
+DOS04455	No setup found
+DOS04456	No setup found
+DOS04457	Options during startup
+DOS04458	No setup found
+DOS04460	No setup found
+DOS04461	No setup found
+DOS04462	No setup found
+DOS04463	No setup found
+DOS04464	INSTALL.EXE
+DOS04467	No setup found
+DOS04468	No setup found
+DOS04470	No setup found
+DOS04471	SETUP.EXE
+DOS04472	No setup found
+DOS04475	install.exe
+DOS04476	INSTALL.EXE
+DOS04477	INSTALL.EXE
+DOS04478	INSTALL.EXE
+DOS04479	INSTALL.EXE
+DOS04480	No setup found
+DOS04481	No setup found
+DOS04482	Options during startup
+DOS04483	INSTALL.EXE
+DOS04484	No setup found
+DOS04485	No setup found
+DOS04486	Options during startup
+DOS04487	Options during startup
+DOS04488	No setup found
+DOS04489	SETUP.EXE
+DOS04492	No setup found
+DOS04493	No setup found
+DOS04494	No setup found
+DOS04495	No setup found
+DOS04496	Options during startup
+DOS04497	No setup found
+DOS04498	No setup found
+DOS04500	No setup found
+DOS04501	SETUP.EXE
+DOS04502	No setup found
+DOS04503	No setup found
+DOS04504	Options during startup
+DOS04505	No setup found
+DOS04506	No setup found
+DOS04507	SNDSETUP.EXE
+DOS04508	SOUNDSET.EXE
+DOS04509	No setup found
+DOS04510	Parameters added to boot command
+DOS04511	SETUP.EXE
+DOS04512	SETUP.EXE
+DOS04513	No setup found
+DOS04514	INSTALL.EXE
+DOS04515	SETSOUND.EXE
+DOS04516	No setup found
+DOS04517	No setup found
+DOS04518	Options during startup
+DOS04519	SOUNDSET.EXE
+DOS04520	No setup found
+DOS04522	SETUP.EXE
+DOS04523	Options during startup
+DOS04524	No setup found
+DOS04525	No setup found
+DOS04527	No setup found
+DOS04528	No setup found
+DOS04529	No setup found
+DOS04530	No setup found
+DOS04531	Options during startup
+DOS04532	No setup found
+DOS04533	No setup found
+DOS04534	Options during startup
+DOS04539	INSTALL.EXE
+DOS04540	Options during startup
+DOS04541	Options during startup
+DOS04542	INSTALL.EXE
+DOS04544	D:\INSTALL.BAT
+DOS04546	No setup found
+DOS04548	SETSOUND.EXE
+DOS04550	SETSOUND.EXE
+DOS04553	Options during startup
+DOS04554	Options during startup
+DOS04555	MENU.EXE
+DOS04556	INSTALL.EXE
+DOS04557	SETUP.EXE
+DOS04559	D:\SIGNOS\SETUP.EXE
+DOS04560	INSTALL.EXE
+DOS04561	SETTINGS.EXE
+DOS04563	INSTALL.EXE
+DOS04569	SCSETUP.EXE
+DOS04575	No setup found
+DOS04576	INSTALL.EXE
+DOS04577	INSTALL.EXE
+DOS04578	SETSOUND.EXE
+DOS04579	No setup found
+DOS04580	SETUP.EXE
+DOS04582	SETUP.EXE
+DOS04583	CONFIG.BAT
+DOS04584	SETUP.EXE
+DOS04585	No setup found
+DOS04588	Options during startup
+DOS04589	No setup found
+DOS04590	Options during startup
+DOS04591	No setup found
+DOS04592	Options during startup
+DOS04593	Options during startup
+DOS04594	Parameters added to boot command
+DOS04597	Options during startup
+DOS04599	Options during startup
+DOS04600	SETUP.EXE
+DOS04601	SETUP.EXE
+DOS04602	Parameters added to boot command
+DOS04603	Options during startup
+DOS04604	Options during startup
+DOS04605	Options during startup
+DOS04606	No setup found
+DOS04607	No setup found
+DOS04608	No setup found
+DOS04609	No setup found
+DOS04610	No setup found
+DOS04611	No setup found
+DOS04613	No setup found
+DOS04614	No setup found
+DOS04615	INSTALL.EXE
+DOS04616	No setup found
+DOS04617	D:\OCEAN.CD\SLEEP\SETUP.EXE
+DOS04618	No setup found
+DOS04619	Options during startup
+DOS04620	INSTALL.EXE
+DOS04621	No setup found
+DOS04623	No setup found
+DOS04624	INSTALL.EXE
+DOS04625	No setup found
+DOS04626	Options during startup
+DOS04627	No setup found
+DOS04628	No setup found
+DOS04629	No setup found
+DOS04630	No setup found
+DOS04631	No setup found
+DOS04632	No setup found
+DOS04633	INSTALL.EXE
+DOS04634	Options during startup
+DOS04635	No setup found
+DOS04636	No setup found
+DOS04637	INSTALL.EXE
+DOS04638	No setup found
+DOS04639	No setup found
+DOS04640	SETUP.EXE
+DOS04641	No setup found
+DOS04642	No setup found
+DOS04646	No setup found
+DOS04647	No setup found
+DOS04655	Options during startup
+DOS04656	No setup found
+DOS04657	No setup found
+DOS04659	D:\INSTALL.EXE
+DOS04660	Options during startup
+DOS04661	No setup found
+DOS04662	SOLSETUP.EXE
+DOS04664	No setup found
+DOS04665	Options during startup
+DOS04666	No setup found
+DOS04667	No setup found
+DOS04668	No setup found
+DOS04669	Options during startup
+DOS04670	Options during startup
+DOS04671	Options during startup
+DOS04672	No setup found
+DOS04673	Options during startup
+DOS04674	No setup found
+DOS04675	INSTALL.EXE
+DOS04676	No setup found
+DOS04678	Options during startup
+DOS04679	SETUP.BAT
+DOS04680	No setup found
+DOS04681	Options during startup
+DOS04682	Options during startup
+DOS04683	Options during startup
+DOS04684	SETUP.EXE
+DOS04686	No setup found
+DOS04687	Options during startup
+DOS04688	Options during startup
+DOS04689	No setup found
+DOS04690	No setup found
+DOS04691	D:\INSTALL.EXE
+DOS04692	SETUP.EXE
+DOS04693	Options during startup
+DOS04694	No setup found
+DOS04695	No setup found
+DOS04696	INSTALL.EXE
+DOS04698	SETSOUND.BAT
+DOS04700	INSTALL.EXE
+DOS04703	No setup found
+DOS04704	No setup found
+DOS04705	INSTALL.EXE
+DOS04706	No setup found
+DOS04709	No setup found
+DOS04710	INSTALL.EXE
+DOS04711	INSTALL.EXE
+DOS04712	INSTALL.EXE
+DOS04715	INSTALL.EXE
+DOS04716	No setup found
+DOS04717	No setup found
+DOS04718	No setup found
+DOS04719	No setup found
+DOS04720	Options during startup
+DOS04721	Options during startup
+DOS04722	Options during startup
+DOS04723	JOY.BAT
+DOS04724	No setup found
+DOS04725	INSTALL.EXE
+DOS04726	Options during startup
+DOS04727	Options during startup
+DOS04731	Options during startup
+DOS04734	No setup found
+DOS04736	No setup found
+DOS04737	SETUP.EXE
+DOS04738	Optional executeables
+DOS04739	SETUP.COM
+DOS04740	INSTALL.EXE
+DOS04741	SETUP.EXE
+DOS04742	SETUP.EXE
+DOS04743	SETUP.EXE
+DOS04745	No setup found
+DOS04746	No setup found
+DOS04747	Parameters added to boot command
+DOS04748	Parameters added to boot command
+DOS04749	install.exe
+DOS04751	No setup found
+DOS04752	No setup found
+DOS04753	SETSOUND.BAT
+DOS04754	No setup found
+DOS04755	install.exe
+DOS04756	No setup found
+DOS04757	No setup found
+DOS04758	No setup found
+DOS04759	Options during startup
+DOS04760	Options during startup
+DOS04761	INSTALL.EXE
+DOS04762	Options during startup
+DOS04763	INSTALL.EXE
+DOS04764	Options during startup
+DOS04765	No setup found
+DOS04766	No setup found
+DOS04767	No setup found
+DOS04768	INSTALL.EXE
+DOS04769	No setup found
+DOS04770	No setup found
+DOS04773	No setup found
+DOS04780	SETUP.EXE
+DOS04781	No setup found
+DOS04782	SETSOUND.EXE
+DOS04783	SPYSETUP.EXE
+DOS04784	No setup found
+DOS04785	No setup found
+DOS04786	No setup found
+DOS04787	No setup found
+DOS04788	Options during startup
+DOS04790	Options during startup
+DOS04791	No setup found
+DOS04793	SETUP.BAT
+DOS04794	Options during startup
+DOS04795	No setup found
+DOS04796	INSTALL.EXE
+DOS04797	Options during startup
+DOS04799	No setup found
+DOS04800	No setup found
+DOS04801	No setup found
+DOS04802	SETSOUND.BAT
+DOS04803	No setup found
+DOS04804	SETSOUND.EXE
+DOS04806	No setup found
+DOS04807	SETUP.EXE
+DOS04809	No setup found
+DOS04810	No setup found
+DOS04811	Options during startup
+DOS04812	Options during startup
+DOS04813	No setup found
+DOS04814	Options during startup
+DOS04815	Options during startup
+DOS04816	Options during startup
+DOS04817	SOUND.EXE
+DOS04818	Options during startup
+DOS04819	Options during startup
+DOS04820	No setup found
+DOS04821	SETUP.EXE
+DOS04822	Options during startup
+DOS04823	Options during startup
+DOS04824	No setup found
+DOS04825	No setup found
+DOS04826	SETUP.EXE
+DOS04827	DS9SETUP.EXE
+DOS04830	No setup found
+DOS04831	setup.exe
+DOS04832	INSTALL.BAT
+DOS04834	No setup found
+DOS04835	SETUP.EXE
+DOS04836	Options during startup
+DOS04837	No setup found
+DOS04838	No setup found
+DOS04839	Options during startup
+DOS04840	Options during startup
+DOS04841	No setup found
+DOS04842	No setup found
+DOS04844	SETUP.EXE
+DOS04845	D:\REBEL.EXE
+DOS04847	D:\REBEL2.EXE
+DOS04850	INSTALL.EXE
+DOS04854	INSTALL.EXE
+DOS04856	No setup found
+DOS04857	No setup found
+DOS04858	SETSOUND.EXE
+DOS04860	SETSOUND.EXE
+DOS04861	SETSOUND.EXE
+DOS04863	setup.exe
+DOS04864	No setup found
+DOS04866	SCSETUP.EXE
+DOS04867	D:\INSTALL.EXE
+DOS04868	No setup found
+DOS04869	No setup found
+DOS04870	No setup found
+DOS04871	Options during startup
+DOS04872	SETMODE.EXE
+DOS04873	SETUP.EXE
+DOS04874	config.exe
+DOS04875	No setup found
+DOS04876	No setup found
+DOS04877	SETUP.EXE
+DOS04878	SETUP.EXE
+DOS04879	Options during startup
+DOS04880	No setup found
+DOS04881	Options during startup
+DOS04882	No setup found
+DOS04883	Options during startup
+DOS04885	No setup found
+DOS04886	No setup found
+DOS04887	No setup found
+DOS04888	SETUP.EXE
+DOS04889	INSTALL.EXE
+DOS04890	INSTALL.BAT
+DOS04893	INSTALL.EXE
+DOS04896	Options during startup
+DOS04897	No setup found
+DOS04898	No setup found
+DOS04899	SETUP.EXE
+DOS04900	CONFIG.EXE
+DOS04901	SETUP.EXE
+DOS04902	SETD.BAT
+DOS04903	No setup found
+DOS04904	No setup found
+DOS04905	No setup found
+DOS04906	No setup found
+DOS04907	SETSND.BAT
+DOS04908	SETSND.BAT
+DOS04909	Options during startup
+DOS04910	Options during startup
+DOS04911	No setup found
+DOS04913	Options during startup
+DOS04914	INSTALL.EXE
+DOS04915	INSTALL.EXE
+DOS04916	SETUP.EXE
+DOS04917	Optional executeables
+DOS04918	No setup found
+DOS04920	SETSOUND.EXE
+DOS04921	No setup found
+DOS04922	Options during startup
+DOS04923	SNDSETUP.EXE
+DOS04924	No setup found
+DOS04925	No setup found
+DOS04926	SETSOUND.EXE
+DOS04927	setup.exe
+DOS04929	CONFIG.EXE
+DOS04931	Options during startup
+DOS04932	SETUP.COM
+DOS04934	No setup found
+DOS04936	No setup found
+DOS04937	SETUP.EXE
+DOS04938	No setup found
+DOS04939	SETSOUND.EXE
+DOS04940	Options during startup
+DOS04941	SOUNDSET.EXE
+DOS04942	No setup found
+DOS04944	INSTALL.EXE
+DOS04945	Options during startup
+DOS04946	No setup found
+DOS04947	No setup found
+DOS04948	INSTALL.EXE
+DOS04949	Options during startup
+DOS04950	Options during startup
+DOS04951	No setup found
+DOS04952	Optional executeables
+DOS04954	No setup found
+DOS04955	No setup found
+DOS04956	No setup found
+DOS04957	Options during startup
+DOS04958	Options during startup
+DOS04959	SETUP.EXE
+DOS04960	No setup found
+DOS04961	No setup found
+DOS04962	INSTALL.EXE
+DOS04963	SETUP.EXE
+DOS04964	No setup found
+DOS04965	No setup found
+DOS04966	No setup found
+DOS04967	No setup found
+DOS04968	No setup found
+DOS04969	No setup found
+DOS04970	No setup found
+DOS04971	No setup found
+DOS04972	No setup found
+DOS04973	Options during startup
+DOS04974	JOY_CNTL.COM
+DOS04975	JOY_CNTL.EXE
+DOS04976	No setup found
+DOS04977	SOUND.BAT
+DOS04978	SETUP.BAT
+DOS04979	No setup found
+DOS04981	No setup found
+DOS04982	No setup found
+DOS04984	No setup found
+DOS04986	Options during startup
+DOS04987	D:\SETUP\SETUP.BAT
+DOS04988	SETUP.EXE
+DOS04989	Options during startup
+DOS04990	No setup found
+DOS04991	Options during startup
+DOS04993	No setup found
+DOS04994	SETSOUND.EXE
+DOS04995	No setup found
+DOS04996	No setup found
+DOS04997	Options during startup
+DOS04998	No setup found
+DOS04999	No setup found
+DOS05002	No setup found
+DOS05003	SETSOUND.EXE
+DOS05005	INSTALL.EXE
+DOS05006	INSTALL.EXE
+DOS05007	INSTALL.EXE
+DOS05008	No setup found
+DOS05009	SETUP.EXE
+DOS05012	Options during startup
+DOS05014	No setup found
+DOS05017	No setup found
+DOS05018	Options during startup
+DOS05019	SETUP.EXE
+DOS05021	No setup found
+DOS05022	No setup found
+DOS05023	Optional executeables
+DOS05024	SETUP.EXE
+DOS05025	No setup found
+DOS05026	SETUP.EXE
+DOS05027	No setup found
+DOS05028	Options during startup
+DOS05029	Options during startup
+DOS05031	INSTALL.EXE
+DOS05032	No setup found
+DOS05033	No setup found
+DOS05034	No setup found
+DOS05035	CONFIG.EXE
+DOS05036	Options during startup
+DOS05037	No setup found
+DOS05038	Options during startup
+DOS05039	MNU.EXE
+DOS05040	Options during startup
+DOS05041	SETUP.EXE
+DOS05042	SOUNDSET.EXE
+DOS05043	Options during startup
+DOS05044	SETUP.EXE
+DOS05045	No setup found
+DOS05053	CONFIG.EXE
+DOS05054	No setup found
+DOS05055	Options during startup
+DOS05057	Embedded in batchfile
+DOS05058	Options during startup
+DOS05059	Options during startup
+DOS05060	SETUP.EXE
+DOS05061	No setup found
+DOS05063	No setup found
+DOS05064	Options during startup
+DOS05065	SETUP.EXE
+DOS05066	D:\INSTALL.EXE
+DOS05069	No setup found
+DOS05070	INSTALL.BAT
+DOS05071	SETUP.EXE
+DOS05072	D:\INSTALL.EXE
+DOS05073	No setup found
+DOS05075	setup.exe
+DOS05076	SETUP.BAT
+DOS05077	No setup found
+DOS05079	CONFIG.EXE
+DOS05080	Options during startup
+DOS05083	SETUP.EXE
+DOS05087	Optional executeables
+DOS05088	SETSOUND.EXE
+DOS05089	No setup found
+DOS05090	No setup found
+DOS05091	Options during startup
+DOS05092	No setup found
+DOS05094	No setup found
+DOS05095	CONFIG.EXE
+DOS05096	Options during startup
+DOS05097	No setup found
+DOS05098	config.exe
+DOS05099	Options during startup
+DOS05101	No setup found
+DOS05102	No setup found
+DOS05103	No setup found
+DOS05104	SETUP.EXE
+DOS05105	Options during startup
+DOS05106	SETSOUND.EXE
+DOS05107	Options during startup
+DOS05108	No setup found
+DOS05109	No setup found
+DOS05110	install.exe
+DOS05111	SETUP.EXE
+DOS05112	No setup found
+DOS05114	No setup found
+DOS05115	No setup found
+DOS05116	No setup found
+DOS05117	SETUP.EXE
+DOS05119	No setup found
+DOS05120	Options during startup
+DOS05122	Options during startup
+DOS05124	No setup found
+DOS05125	Options during startup
+DOS05126	SETUP.EXE
+DOS05128	INSTALL.EXE
+DOS05129	Options during startup
+DOS05130	SETUP.EXE
+DOS05131	SETSOUND.EXE
+DOS05132	Options during startup
+DOS05133	SETUP.EXE
+DOS05134	Parameters added to boot command
+DOS05135	No setup found
+DOS05136	No setup found
+DOS05137	No setup found
+DOS05138	TILT_CFG.EXE
+DOS05139	MENU.EXE
+DOS05140	Options during startup
+DOS05141	SETSOUND.BAT
+DOS05142	Options during startup
+DOS05143	D:\INSTALL.BAT
+DOS05144	Parameters added to boot command
+DOS05145	Options during startup
+DOS05146	No setup found
+DOS05147	SETUP.EXE
+DOS05148	Options during startup
+DOS05149	Options during startup
+DOS05150	INSTALL.EXE
+DOS05151	Options during startup
+DOS05154	Parameters added to boot command
+DOS05155	SETUP.EXE
+DOS05156	No setup found
+DOS05158	Options during startup
+DOS05159	SETUP.BAT
+DOS05160	No setup found
+DOS05161	SETUP.EXE
+DOS05162	No setup found
+DOS05163	No setup found
+DOS05164	Parameters added to boot command
+DOS05166	SETUP.EXE
+DOS05167	No setup found
+DOS05168	No setup found
+DOS05169	No setup found
+DOS05170	D:\FOOTBALL\SETUP.EXE
+DOS05171	SETUP.EXE
+DOS05173	No setup found
+DOS05174	No setup found
+DOS05175	No setup found
+DOS05176	No setup found
+DOS05177	No setup found
+DOS05178	No setup found
+DOS05179	No setup found
+DOS05180	No setup found
+DOS05182	No setup found
+DOS05183	No setup found
+DOS05184	No setup found
+DOS05185	No setup found
+DOS05186	No setup found
+DOS05187	No setup found
+DOS05188	No setup found
+DOS05189	No setup found
+DOS05190	No setup found
+DOS05191	No setup found
+DOS05192	No setup found
+DOS05194	No setup found
+DOS05195	No setup found
+DOS05196	No setup found
+DOS05197	No setup found
+DOS05198	No setup found
+DOS05199	No setup found
+DOS05200	No setup found
+DOS05201	No setup found
+DOS05202	No setup found
+DOS05203	No setup found
+DOS05204	No setup found
+DOS05205	SETUP.BAT
+DOS05206	SETUP.EXE
+DOS05207	SOUND.EXE
+DOS05208	SETJOY.EXE
+DOS05210	Options during startup
+DOS05211	SETUP.EXE
+DOS05213	Options during startup
+DOS05214	No setup found
+DOS05215	SETUP.EXE
+DOS05217	No setup found
+DOS05221	INSTALL.EXE
+DOS05222	D:\TORNADO\SETUP.EXE
+DOS05225	No setup found
+DOS05226	D:\INSTALL.EXE
+DOS05227	SETSOUND.EXE
+DOS05228	Options during startup
+DOS05229	SETUP.BAT
+DOS05231	No setup found
+DOS05232	D:\INSTALL.EXE
+DOS05233	TBSETUP.EXE
+DOS05234	Options during startup
+DOS05235	No setup found
+DOS05236	SETUP.EXE
+DOS05237	No setup found
+DOS05238	No setup found
+DOS05239	No setup found
+DOS05240	No setup found
+DOS05241	No setup found
+DOS05242	No setup found
+DOS05243	No setup found
+DOS05244	Options during startup
+DOS05245	No setup found
+DOS05246	No setup found
+DOS05247	INSTALL.EXE
+DOS05248	INSTALL.EXE
+DOS05251	No setup found
+DOS05252	INSTALL.EXE
+DOS05253	No setup found
+DOS05255	SETSOUND.BAT
+DOS05256	No setup found
+DOS05257	Options during startup
+DOS05258	No setup found
+DOS05260	No setup found
+DOS05261	No setup found
+DOS05262	No setup found
+DOS05263	No setup found
+DOS05264	Options during startup
+DOS05265	setup.exe
+DOS05266	Options during startup
+DOS05267	Options during startup
+DOS05268	Options during startup
+DOS05272	D:\SETUP.EXE
+DOS05273	dossetup.bat
+DOS05274	No setup found
+DOS05275	setup.exe
+DOS05276	No setup found
+DOS05277	No setup found
+DOS05278	No setup found
+DOS05281	SETUP.BAT
+DOS05284	No setup found
+DOS05289	No setup found
+DOS05290	No setup found
+DOS05291	Options during startup
+DOS05293	No setup found
+DOS05294	Options during startup
+DOS05295	Options during startup
+DOS05296	SETUP.BAT
+DOS05297	No setup found
+DOS05299	SETUP.EXE
+DOS05300	No setup found
+DOS05301	No setup found
+DOS05302	SETSOUND.EXE
+DOS05303	SETUP.EXE
+DOS05304	No setup found
+DOS05305	D:\INSTALL.BAT
+DOS05306	No setup found
+DOS05307	No setup found
+DOS05308	Options during startup
+DOS05309	No setup found
+DOS05311	No setup found
+DOS05312	Options during startup
+DOS05313	No setup found
+DOS05314	No setup found
+DOS05315	No setup found
+DOS05316	No setup found
+DOS05317	No setup found
+DOS05318	Options during startup
+DOS05319	SETSOUND.EXE
+DOS05320	INSTALL.BAT
+DOS05321	SELECT.EXE
+DOS05324	SETUP.BAT
+DOS05326	No setup found
+DOS05327	Parameters added to boot command
+DOS05328	SETUP.BAT
+DOS05331	SETUP.EXE
+DOS05332	SETSOUND.BAT
+DOS05334	Optional executeables
+DOS05335	SETUP.EXE
+DOS05336	SETUP.EXE
+DOS05337	No setup found
+DOS05338	SETSOUND.BAT
+DOS05339	INSTALL.EXE
+DOS05340	No setup found
+DOS05342	No setup found
+DOS05343	Options during startup
+DOS05345	GAMESET.EXE
+DOS05346	No setup found
+DOS05348	INSTALL.EXE
+DOS05349	D:\INSTALL.EXE
+DOS05351	No setup found
+DOS05352	No setup found
+DOS05353	SETUP.EXE
+DOS05354	SETUP.EXE
+DOS05357	No setup found
+DOS05358	No setup found
+DOS05359	SETUP.COM
+DOS05360	Options during startup
+DOS05361	No setup found
+DOS05362	No setup found
+DOS05363	No setup found
+DOS05364	No setup found
+DOS05365	No setup found
+DOS05366	No setup found
+DOS05369	No setup found
+DOS05370	INSTALL.EXE
+DOS05372	No setup found
+DOS05373	No setup found
+DOS05378	No setup found
+DOS05380	No setup found
+DOS05383	No setup found
+DOS05384	No setup found
+DOS05386	SETUP.BAT
+DOS05387	Options during startup
+DOS05388	No setup found
+DOS05389	No setup found
+DOS05390	No setup found
+DOS05391	SETUP.EXE
+DOS05396	INSTALL.EXE
+DOS05397	D:\SETUP.BAT
+DOS05399	SETUP.EXE
+DOS05400	SETSOUND.EXE
+DOS05401	SETUP.EXE
+DOS05406	No setup found
+DOS05407	No setup found
+DOS05410	INSTALL.EXE
+DOS05411	No setup found
+DOS05412	INSTALL.EXE
+DOS05413	No setup found
+DOS05414	SETUP.BAT
+DOS05416	No setup found
+DOS05417	Embedded in batchfile
+DOS05418	No setup found
+DOS05419	Options during startup
+DOS05420	No setup found
+DOS05421	No setup found
+DOS05422	SETUP.EXE
+DOS05423	OS2INST.EXE
+DOS05424	Options during startup
+DOS05425	SETUP.EXE
+DOS05426	No setup found
+DOS05427	No setup found
+DOS05428	SETSOUND.EXE
+DOS05429	No setup found
+DOS05430	No setup found
+DOS05431	Options during startup
+DOS05432	No setup found
+DOS05433	INSTALL.EXE
+DOS05434	SETUP.EXE
+DOS05435	SETUP.EXE
+DOS05436	SETUP.BAT
+DOS05437	SETUP.BAT
+DOS05438	No setup found
+DOS05439	No setup found
+DOS05440	No setup found
+DOS05441	No setup found
+DOS05442	Options during startup
+DOS05443	No setup found
+DOS05444	Options during startup
+DOS05446	No setup found
+DOS05447	No setup found
+DOS05452	No setup found
+DOS05453	Options during startup
+DOS05454	SETSOUND.EXE
+DOS05455	Options during startup
+DOS05456	Options during startup
+DOS05458	No setup found
+DOS05459	No setup found
+DOS05460	No setup found
+DOS05461	No setup found
+DOS05462	No setup found
+DOS05463	No setup found
+DOS05466	No setup found
+DOS05467	No setup found
+DOS05468	No setup found
+DOS05470	Options during startup
+DOS05471	No setup found
+DOS05472	No setup found
+DOS05473	No setup found
+DOS05474	No setup found
+DOS05476	No setup found
+DOS05477	SETUP.COM
+DOS05478	No setup found
+DOS05480	INSTALL.EXE
+DOS05481	Options during startup
+DOS05482	No setup found
+DOS05483	No setup found
+DOS05485	INSTALL.EXE
+DOS05486	No setup found
+DOS05487	No setup found
+DOS05491	Options during startup
+DOS05492	Optional executeables
+DOS05493	No setup found
+DOS05495	SETUP.EXE
+DOS05496	No setup found
+DOS05497	SETUP.EXE
+DOS05498	No setup found
+DOS05499	D:\MPSCFG.EXE
+DOS05500	CONFIG.EXE
+DOS05501	3DSETUP.EXE
+DOS05503	CONFIG.EXE
+DOS05505	SETUP.EXE
+DOS05506	No setup found
+DOS05508	No setup found
+DOS05510	Options during startup
+DOS05511	INSTALL.EXE
+DOS05512	No setup found
+DOS05513	No setup found
+DOS05514	No setup found
+DOS05515	No setup found
+DOS05516	No setup found
+DOS05517	D:\INSTALL.BAT
+DOS05518	SETSOUND.EXE
+DOS05519	setup.bat
+DOS05520	No setup found
+DOS05521	No setup found
+DOS05522	Options during startup
+DOS05523	Config File
+DOS05524	SETUP.EXE
+DOS05525	SETD.EXE
+DOS05527	install.exe
+DOS05528	No setup found
+DOS05529	SETUP.EXE
+DOS05531	No setup found
+DOS05536	SETUP.EXE
+DOS05537	SETUP.EXE
+DOS05538	D:\SETUP.EXE
+DOS05539	Options during startup
+DOS05540	Options during startup
+DOS05541	SOUND.EXE
+DOS05542	setup.exe
+DOS05543	No setup found
+DOS05544	Options during startup
+DOS05545	No setup found
+DOS05547	No setup found
+DOS05548	INSTALL.EXE
+DOS05549	INSTALL.EXE
+DOS05551	Options during startup
+DOS05552	No setup found
+DOS05553	SETD.EXE
+DOS05554	No setup found
+DOS05556	No setup found
+DOS05557	No setup found
+DOS05558	SETSOUND.EXE
+DOS05559	No setup found
+DOS05560	SETUP.EXE
+DOS05561	SETSOUND.EXE
+DOS05562	No setup found
+DOS05563	No setup found
+DOS05564	No setup found
+DOS05565	wwcfg.exe
+DOS05567	No setup found
+DOS05568	INSTALL.EXE
+DOS05569	Options during startup
+DOS05570	No setup found
+DOS05571	Options during startup
+DOS05572	No setup found
+DOS05573	No setup found
+DOS05574	setup.exe
+DOS05575	No setup found
+DOS05576	No setup found
+DOS05577	SETUP.EXE
+DOS05578	No setup found
+DOS05579	SETUP.EXE
+DOS05580	No setup found
+DOS05581	No setup found
+DOS05582	No setup found
+DOS05584	No setup found
+DOS05585	Options during startup
+DOS05586	No setup found
+DOS05587	No setup found
+DOS05589	Options during startup
+DOS05590	Options during startup
+DOS05592	D:\INSTALL.EXE
+DOS05593	No setup found
+DOS05594	Options during startup
+DOS05595	No setup found
+DOS05596	No setup found
+DOS05597	No setup found
+DOS05598	No setup found
+DOS05599	No setup found
+DOS05600	Options during startup
+DOS05601	No setup found
+DOS05602	No setup found
+DOS05603	SETUP.EXE
+DOS05604	SETUP.BAT
+DOS05605	Options during startup
+DOS05606	Options during startup
+DOS05607	No setup found
+DOS05608	Options during startup
+DOS05609	No setup found
+DOS05610	INSTALL.EXE
+DOS05611	ORIGIN.EXE
+DOS05612	INSTALL.EXE
+DOS05614	D:\SM1\INSTALL.EXE
+DOS05615	Options during startup
+DOS05622	INSTALL.BAT
+DOS05624	INSTALL.EXE
+DOS05631	D:\SETUP.EXE
+DOS05632	Optional executeables
+DOS05633	INSTALL.EXE
+DOS05634	SETUP.EXE
+DOS05635	No setup found
+DOS05636	No setup found
+DOS05637	No setup found
+DOS05638	SOUND.EXE
+DOS05640	No setup found
+DOS05641	No setup found
+DOS05642	SETUP.EXE
+DOS05643	SETUP.EXE
+DOS05644	No setup found
+DOS05645	Options during startup
+DOS05646	No setup found
+DOS05647	WINSTALL.EXE
+DOS05648	VINSTALL.EXE
+DOS05649	No setup found
+DOS05650	No setup found
+DOS05651	No setup found
+DOS05652	SETUP.BAT
+DOS05653	No setup found
+DOS05654	No setup found
+DOS05655	No setup found
+DOS05656	SetupDos.bat
+DOS05657	No setup found
+DOS05658	No setup found
+DOS05659	No setup found
+DOS05660	No setup found
+DOS05661	SETUP.EXE
+DOS05662	No setup found
+DOS05663	No setup found
+DOS05664	No setup found
+DOS05665	No setup found
+DOS05666	No setup found
+DOS05667	No setup found
+DOS05668	INSTALL.EXE
+DOS05669	INSTALL.EXE
+DOS05670	Options during startup
+DOS05672	No setup found
+DOS05674	No setup found
+DOS05676	No setup found
+DOS05678	Options during startup
+DOS05679	No setup found
+DOS05682	No setup found
+DOS05683	No setup found
+DOS05684	No setup found
+DOS05685	No setup found
+DOS05686	No setup found
+DOS05687	Parameters added to boot command
+DOS05688	SETUP.EXE
+DOS05689	Options during startup
+DOS05692	No setup found
+DOS05693	No setup found
+DOS05694	No setup found
+DOS05695	No setup found
+DOS05696	No setup found
+DOS05697	Options during startup
+DOS05698	Options during startup
+DOS05699	SETUP.BAT
+DOS05700	Options during startup
+DOS05701	No setup found
+DOS05702	INSTALL.EXE
+DOS05703	Options during startup
+DOS05704	Options during startup
+DOS05705	Options during startup
+DOS05706	RECONFIG.EXE
+DOS05709	D:\INSTALL.EXE
+DOS05710	Options during startup
+DOS05711	SETSOUND.EXE
+DOS05716	No setup found
+DOS05717	Options during startup
+DOS05718	INSTALL.EXE
+DOS05719	Parameters added to boot command
+DOS05720	Options during startup
+DOS05721	SETSOUND.EXE
+DOS05722	No setup found
+DOS05723	No setup found
+DOS05724	No setup found
+DOS05725	Options during startup
+DOS05726	No setup found
+DOS05727	SETUP.EXE
+DOS05728	No setup found
+DOS05729	SETUP.EXE
+DOS05732	Options during startup
+DOS05733	Options during startup
+DOS05734	SETUP.EXE
+DOS05735	SETUP.EXE
+DOS05737	SETUP.EXE
+DOS05738	SETUP.EXE
+DOS05740	No setup found
+DOS05741	Options during startup
+DOS05742	Options during startup
+DOS05743	Options during startup
+DOS05744	SETUP.BAT
+DOS05745	No setup found
+DOS05746	XINSTALL.EXE
+DOS05747	SETUP.EXE
+DOS05752	Options during startup
+DOS05754	SETUP.BAT
+DOS05755	No setup found
+DOS05756	SETUP.EXE
+DOS05757	Options during startup
+DOS05758	No setup found
+DOS05759	Options during startup
+DOS05760	SETSOUND.EXE
+DOS05761	Options during startup
+DOS05762	No setup found
+DOS05763	No setup found
+DOS05765	No setup found
+DOS05766	No setup found
+DOS05767	SETSOUND.EXE
+DOS05768	No setup found
+DOS05774	No setup found
+DOS05775	No setup found
+DOS05776	No setup found
+DOS05777	No setup found
+DOS05778	INSTALL.EXE
+DOS05779	No setup found
+DOS05780	No setup found
+DOS05781	No setup found
+DOS05783	Options during startup
+DOS05785	setup.exe
+DOS05786	INSTALL.EXE
+DOS05787	No setup found
+DOS05788	Options during startup
+DOS05789	SETSOUND.EXE
+DOS05790	No setup found
+DOS05791	No setup found
+DOS05792	No setup found
+DOS05793	No setup found
+DOS05794	No setup found
+DOS05795	Options during startup
+DOS05797	No setup found
+DOS05799	INSTALL.EXE
+DOS05800	INSTALL.EXE
+DOS05801	D:\ZEPPELIN.CD\SNDSETUP.EXE
+DOS05802	No setup found
+DOS05803	No setup found
+DOS05804	No setup found
+DOS05805	INSTALL.EXE
+DOS05806	No setup found
+DOS05807	D:\INSTALL.BAT
+DOS05808	SETSOUND.EXE
+DOS05809	Options during startup
+DOS05810	No setup found
+DOS05811	SETSOUND.EXE
+DOS05812	In-Game Menu
+DOS05813	No setup found
+DOS05814	Options during startup
+DOS05815	SETSOUND.EXE
+DOS05818	SETSOUND.EXE
+DOS05819	No setup found
+DOS05821	No setup found
+DOS05822	SETUP.EXE
+DOS05824	No setup found
+DOS05825	Options during startup
+DOS05826	No setup found
+DOS05827	No setup found
+DOS05828	No setup found
+DOS05829	No setup found
+DOS05830	No setup found
+DOS05831	No setup found
+DOS05832	No setup found
+DOS05833	No setup found
+DOS05834	Options during startup
+DOS05835	No setup found
+DOS05836	No setup found
+DOS05837	Options during startup
+DOS05838	Options during startup
+DOS05839	No setup found
+DOS05840	No setup found
+DOS05841	No setup found
+DOS05842	No setup found
+DOS05843	No setup found
+DOS05844	No setup found
+DOS05845	No setup found
+DOS05846	Options during startup
+DOS05847	No setup found
+DOS05848	No setup found
+DOS05849	No setup found
+DOS05850	Options during startup
+DOS05851	No setup found
+DOS05852	Options during startup
+DOS05853	No setup found
+DOS05854	No setup found
+DOS05855	Options during startup
+DOS05856	No setup found
+DOS05857	No setup found
+DOS05858	No setup found
+DOS05859	No setup found
+DOS05860	No setup found
+DOS05861	No setup found
+DOS05862	Options during startup
+DOS05863	Optional executeables
+DOS05864	No setup found
+DOS05865	No setup found
+DOS05866	Options during startup
+DOS05867	No setup found
+DOS05868	No setup found
+DOS05869	Options during startup
+DOS05871	No setup found
+DOS05872	No setup found
+DOS05873	No setup found
+DOS05874	No setup found
+DOS05875	No setup found
+DOS05876	No setup found
+DOS05877	No setup found
+DOS05878	No setup found
+DOS05879	No setup found
+DOS05880	No setup found
+DOS05881	No setup found
+DOS05882	No setup found
+DOS05883	No setup found
+DOS05884	No setup found
+DOS05885	No setup found
+DOS05886	No setup found
+DOS05887	No setup found
+DOS05888	No setup found
+DOS05889	No setup found
+DOS05890	Options during startup
+DOS05891	No setup found
+DOS05892	No setup found
+DOS05893	Options during startup
+DOS05894	No setup found
+DOS05895	No setup found
+DOS05896	No setup found
+DOS05897	No setup found
+DOS05898	No setup found
+DOS05899	Options during startup
+DOS05900	No setup found
+DOS05901	No setup found
+DOS05902	No setup found
+DOS05903	No setup found
+DOS05904	No setup found
+DOS05905	No setup found
+DOS05906	No setup found
+DOS05907	Options during startup
+DOS05908	Options during startup
+DOS05909	No setup found
+DOS05910	No setup found
+DOS05911	No setup found
+DOS05912	No setup found
+DOS05913	No setup found
+DOS05914	Options during startup
+DOS05915	No setup found
+DOS05916	Options during startup
+DOS05917	Options during startup
+DOS05918	No setup found
+DOS05919	No setup found
+DOS05920	Options during startup
+DOS05921	No setup found
+DOS05922	Options during startup
+DOS05923	No setup found
+DOS05924	No setup found
+DOS05925	Options during startup
+DOS05926	No setup found
+DOS05928	No setup found
+DOS05929	No setup found
+DOS05930	No setup found
+DOS05931	Options during startup
+DOS05932	No setup found
+DOS05933	No setup found
+DOS05934	No setup found
+DOS05935	No setup found
+DOS05936	Options during startup
+DOS05937	Options during startup
+DOS05938	Options during startup
+DOS05939	No setup found
+DOS05940	Options during startup
+DOS05941	No setup found
+DOS05942	No setup found
+DOS05943	No setup found
+DOS05944	No setup found
+DOS05946	Options during startup
+DOS05947	No setup found
+DOS05948	No setup found
+DOS05949	Options during startup
+DOS05950	JOYSTICK.EXE
+DOS05951	No setup found
+DOS05952	No setup found
+DOS05953	No setup found
+DOS05954	No setup found
+DOS05955	No setup found
+DOS05956	No setup found
+DOS05957	No setup found
+DOS05958	Options during startup
+DOS05959	No setup found
+DOS05960	No setup found
+DOS05961	No setup found
+DOS05962	Options during startup
+DOS05963	No setup found
+DOS05964	No setup found
+DOS05965	No setup found
+DOS05966	No setup found
+DOS05967	No setup found
+DOS05968	No setup found
+DOS05969	Options during startup
+DOS05970	No setup found
+DOS05971	No setup found
+DOS05972	No setup found
+DOS05973	No setup found
+DOS05974	No setup found
+DOS05975	Options during startup
+DOS05976	No setup found
+DOS05977	No setup found
+DOS05978	Options during startup
+DOS05979	Options during startup
+DOS05980	Options during startup
+DOS05981	No setup found
+DOS05982	Options during startup
+DOS05983	Options during startup
+DOS05984	Options during startup
+DOS05985	No setup found
+DOS05986	Options during startup
+DOS05987	No setup found
+DOS05988	No setup found
+DOS05989	No setup found
+DOS05990	No setup found
+DOS05991	No setup found
+DOS05992	Options during startup
+DOS05993	Options during startup
+DOS05994	No setup found
+DOS05995	No setup found
+DOS05996	No setup found
+DOS05997	No setup found
+DOS05999	No setup found
+DOS06000	No setup found
+DOS06001	No setup found
+DOS06002	No setup found
+DOS06003	No setup found
+DOS06004	Options during startup
+DOS06005	No setup found
+DOS06006	No setup found
+DOS06007	No setup found
+DOS06009	No setup found
+DOS06011	Options during startup
+DOS06012	Options during startup
+DOS06013	No setup found
+DOS06014	No setup found
+DOS06015	No setup found
+DOS06016	No setup found
+DOS06017	No setup found
+DOS06018	No setup found
+DOS06019	No setup found
+DOS06020	No setup found
+DOS06021	No setup found
+DOS06022	No setup found
+DOS06024	No setup found
+DOS06026	No setup found
+DOS06027	No setup found
+DOS06028	No setup found
+DOS06029	No setup found
+DOS06030	SETUP.EXE
+DOS06031	No setup found
+DOS06032	SETUP.EXE
+DOS06033	Options during startup
+DOS06034	SETUP.EXE
+DOS06035	SETUP.EXE
+DOS06036	No setup found
+DOS06038	No setup found
+DOS06039	No setup found
+DOS06040	No setup found
+DOS06041	No setup found
+DOS06042	No setup found
+DOS06043	No setup found
+DOS06044	No setup found
+DOS06045	No setup found
+DOS06046	No setup found
+DOS06047	No setup found
+DOS06048	Options during startup
+DOS06049	No setup found
+DOS06050	No setup found
+DOS06051	No setup found
+DOS06052	No setup found
+DOS06056	No setup found
+DOS06057	No setup found
+DOS06058	SETUP.EXE
+DOS06059	No setup found
+DOS06060	SETUP.BAT
+DOS06061	SETUP.BAT
+DOS06062	No setup found
+DOS06064	Embedded in batchfile
+DOS06065	No setup found
+DOS06066	No setup found
+DOS06068	No setup found
+DOS06069	SETUP.EXE
+DOS06070	No setup found
+DOS06071	No setup found
+DOS06072	Parameters added to boot command
+DOS06074	No setup found
+DOS06078	No setup found
+DOS06079	No setup found
+DOS06080	No setup found
+DOS06081	No setup found
+DOS06082	SETUP.EXE
+DOS06083	Options during startup
+DOS06084	Options during startup
+DOS06085	No setup found
+DOS06086	SETUP.EXE
+DOS06088	SETUP.EXE
+DOS06090	FWSETUP.EXE
+DOS06094	No setup found
+DOS06095	No setup found
+DOS06096	No setup found
+DOS06097	Options during startup
+DOS06101	No setup found
+DOS06102	SETUP.EXE
+DOS06106	No setup found
+DOS06112	Options during startup
+DOS06114	No setup found
+DOS06115	No setup found
+DOS06116	Options during startup
+DOS06117	No setup found
+DOS06118	INSTALL.EXE
+DOS06121	No setup found
+DOS06122	JOY.BAT
+DOS06123	INSTALL.EXE
+DOS06125	No setup found
+DOS06126	No setup found
+DOS06127	No setup found
+DOS06128	No setup found
+DOS06129	No setup found
+DOS06130	SETUP.EXE
+DOS06131	Options during startup
+DOS06132	No setup found
+DOS06133	No setup found
+DOS06134	setup.bat
+DOS06135	Options during startup
+DOS06136	No setup found
+DOS06137	No setup found
+DOS06138	No setup found
+DOS06139	No setup found
+DOS06141	No setup found
+DOS06142	No setup found
+DOS06143	SETUP.BAT
+DOS06153	INSTALL.EXE
+DOS06154	No setup found
+DOS06159	No setup found
+DOS06161	No setup found
+DOS06163	No setup found
+DOS06165	No setup found
+DOS06166	No setup found
+DOS06167	Options during startup
+DOS06168	No setup found
+DOS06169	SETSOUND.EXE
+DOS06170	SETUP.EXE
+DOS06171	Options during startup
+DOS06176	No setup found
+DOS06179	SETUP.EXE
+DOS06180	INSTALL.EXE
+DOS06182	No setup found
+DOS06183	No setup found
+DOS06185	No setup found
+DOS06186	Options during startup
+DOS06187	No setup found
+DOS06188	No setup found
+DOS06189	No setup found
+DOS06190	No setup found
+DOS06191	Options during startup
+DOS06192	Options during startup
+DOS06194	CONFIG.EXE
+DOS06195	Options during startup
+DOS06197	SETSOUND.EXE
+DOS06198	No setup found
+DOS06199	SETUP.BAT
+DOS06200	No setup found
+DOS06201	No setup found
+DOS06202	SETUP.EXE
+DOS06203	Options during startup
+DOS06204	No setup found
+DOS06206	Options during startup
+DOS06207	No setup found
+DOS06208	Options during startup
+DOS06209	Options during startup
+DOS06210	No setup found
+DOS06211	No setup found
+DOS06212	No setup found
+DOS06213	No setup found
+DOS06214	No setup found
+DOS06216	No setup found
+DOS06217	No setup found
+DOS06218	No setup found
+DOS06219	No setup found
+DOS06225	No setup found
+DOS06229	No setup found
+DOS06232	No setup found
+DOS06233	No setup found
+DOS06234	Options during startup
+DOS06236	SETSOUND.EXE
+DOS06237	No setup found
+DOS06239	No setup found
+DOS06240	No setup found
+DOS06241	KONFIG.EXE
+DOS06243	No setup found
+DOS06244	No setup found
+DOS06245	SETUP.EXE
+DOS06246	SETUP.BAT
+DOS06247	No setup found
+DOS06248	No setup found
+DOS06249	KONFIG.EXE
+DOS06250	No setup found
+DOS06251	No setup found
+DOS06253	Options during startup
+DOS06254	Options during startup
+DOS06255	INSTALL.EXE
+DOS06256	No setup found
+DOS06261	SETUP.EXE
+DOS06264	No setup found
+DOS06265	No setup found
+DOS06266	No setup found
+DOS06267	Embedded in batchfile
+DOS06268	No setup found
+DOS06269	No setup found
+DOS06273	Options during startup
+DOS06274	Options during startup
+DOS06276	SETUP.EXE
+DOS06282	No setup found
+DOS06286	No setup found
+DOS06287	No setup found
+DOS06289	No setup found
+DOS06291	SETUP.EXE
+DOS06295	No setup found
+DOS06297	CONFIG.EXE
+DOS06298	Options during startup
+DOS06299	No setup found
+DOS06300	No setup found
+DOS06301	No setup found
+DOS06302	AIMSETUP.EXE
+DOS06303	INSTALL.EXE
+DOS06304	No setup found
+DOS06305	No setup found
+DOS06306	No setup found
+DOS06307	No setup found
+DOS06308	No setup found
+DOS06309	No setup found
+DOS06310	No setup found
+DOS06311	No setup found
+DOS06312	No setup found
+DOS06313	No setup found
+DOS06314	No setup found
+DOS06315	No setup found
+DOS06316	SETSOUND.EXE
+DOS06317	No setup found
+DOS06318	No setup found
+DOS06319	No setup found
+DOS06320	No setup found
+DOS06321	No setup found
+DOS06322	No setup found
+DOS06323	No setup found
+DOS06324	No setup found
+DOS06325	No setup found
+DOS06326	No setup found
+DOS06327	No setup found
+DOS06328	No setup found
+DOS06329	No setup found
+DOS06330	No setup found
+DOS06331	No setup found
+DOS06332	No setup found
+DOS06333	No setup found
+DOS06334	No setup found
+DOS06335	SETUP.EXE
+DOS06336	No setup found
+DOS06337	Optional executeables
+DOS06338	Options during startup
+DOS06339	Options during startup
+DOS06340	No setup found
+DOS06341	No setup found
+DOS06342	No setup found
+DOS06343	No setup found
+DOS06344	No setup found
+DOS06345	No setup found
+DOS06346	No setup found
+DOS06347	No setup found
+DOS06348	No setup found
+DOS06349	No setup found
+DOS06350	No setup found
+DOS06351	No setup found
+DOS06352	No setup found
+DOS06353	No setup found
+DOS06354	No setup found
+DOS06355	No setup found
+DOS06356	No setup found
+DOS06357	No setup found
+DOS06358	No setup found
+DOS06359	No setup found
+DOS06360	No setup found
+DOS06361	No setup found
+DOS06363	SETUP.EXE
+DOS06364	SETUP.EXE
+DOS06365	TATOU.COM
+DOS06366	TATOU.COM
+DOS06367	No setup found
+DOS06368	No setup found
+DOS06369	No setup found
+DOS06370	No setup found
+DOS06372	No setup found
+DOS06373	No setup found
+DOS06374	No setup found
+DOS06375	No setup found
+DOS06376	No setup found
+DOS06377	No setup found
+DOS06378	No setup found
+DOS06379	No setup found
+DOS06380	No setup found
+DOS06381	No setup found
+DOS06382	No setup found
+DOS06383	No setup found
+DOS06384	Options during startup
+DOS06387	No setup found
+DOS06388	No setup found
+DOS06389	No setup found
+DOS06391	No setup found
+DOS06392	No setup found
+DOS06393	No setup found
+DOS06395	No setup found
+DOS06396	No setup found
+DOS06397	No setup found
+DOS06398	No setup found
+DOS06399	No setup found
+DOS06400	SETUP.EXE
+DOS06401	No setup found
+DOS06402	No setup found
+DOS06403	No setup found
+DOS06404	No setup found
+DOS06405	No setup found
+DOS06406	No setup found
+DOS06407	SETUP.EXE
+DOS06408	No setup found
+DOS06409	No setup found
+DOS06410	No setup found
+DOS06411	No setup found
+DOS06412	SETUP.EXE
+DOS06413	Options during startup
+DOS06414	No setup found
+DOS06415	SETUP.BAT
+DOS06416	No setup found
+DOS06417	Options during startup
+DOS06418	No setup found
+DOS06419	No setup found
+DOS06420	No setup found
+DOS06421	No setup found
+DOS06422	No setup found
+DOS06423	D:\SETUP.EXE
+DOS06424	Optional executeables
+DOS06425	No setup found
+DOS06426	No setup found
+DOS06427	No setup found
+DOS06428	No setup found
+DOS06429	SETSOUND.BAT
+DOS06430	No setup found
+DOS06431	No setup found
+DOS06432	No setup found
+DOS06434	INSTALL.EXE
+DOS06435	SOUNDSET.EXE
+DOS06436	No setup found
+DOS06437	No setup found
+DOS06439	Options during startup
+DOS06441	Options during startup
+DOS06443	SETUP.EXE
+DOS06444	No setup found
+DOS06445	No setup found
+DOS06446	No setup found
+DOS06447	No setup found
+DOS06448	No setup found
+DOS06449	No setup found
+DOS06450	No setup found
+DOS06451	Options during startup
+DOS06452	SETUP.EXE
+DOS06453	SETUP.BAT
+DOS06454	No setup found
+DOS06455	No setup found
+DOS06456	Options during startup
+DOS06457	CONFIG.EXE
+DOS06458	No setup found
+DOS06459	No setup found
+DOS06460	No setup found
+DOS06461	DIF2.BAT
+DOS06462	Options during startup
+DOS06463	No setup found
+DOS06464	No setup found
+DOS06465	SETUP.EXE
+DOS06466	No setup found
+DOS06467	SETUP.EXE
+DOS06468	No setup found
+DOS06469	No setup found
+DOS06470	No setup found
+DOS06471	KONFIG.COM
+DOS06472	No setup found
+DOS06473	Options during startup
+DOS06474	SNDSETUP.EXE
+DOS06476	No setup found
+DOS06477	SETUP.EXE
+DOS06479	No setup found
+DOS06480	Options during startup
+DOS06481	No setup found
+DOS06482	No setup found
+DOS06483	No setup found
+DOS06484	No setup found
+DOS06485	INSTALL.EXE
+DOS06486	No setup found
+DOS06487	SETUP.EXE
+DOS06488	No setup found
+DOS06489	No setup found
+DOS06490	No setup found
+DOS06492	No setup found
+DOS06498	No setup found
+DOS06499	CONFIG.BAT
+DOS06502	No setup found
+DOS06503	No setup found
+DOS06504	No setup found
+DOS06507	No setup found
+DOS06508	Options during startup
+DOS06509	Options during startup
+DOS06511	No setup found
+DOS06512	CONFIG.BAT
+DOS06513	No setup found
+DOS06514	No setup found
+DOS06515	No setup found
+DOS06516	PSMCFG.EXE
+DOS06517	INSTALL.BAT
+DOS06518	No setup found
+DOS06519	No setup found
+DOS06523	No setup found
+DOS06526	No setup found
+DOS06528	No setup found
+DOS06530	No setup found
+DOS06531	SETUP.EXE
+DOS06532	No setup found
+DOS06533	No setup found
+DOS06535	No setup found
+DOS06540	No setup found
+DOS06541	No setup found
+DOS06542	SETUP.EXE
+DOS06548	hcsetup.exe
+DOS06549	No setup found
+DOS06550	No setup found
+DOS06552	No setup found
+DOS06553	No setup found
+DOS06554	No setup found
+DOS06555	Options during startup
+DOS06556	No setup found
+DOS06561	No setup found
+DOS06562	No setup found
+DOS06563	No setup found
+DOS06565	No setup found
+DOS06567	No setup found
+DOS06568	No setup found
+DOS06569	Options during startup
+DOS06571	No setup found
+DOS06572	Options during startup
+DOS06574	No setup found
+DOS06575	No setup found
+DOS06577	No setup found
+DOS06578	No setup found
+DOS06579	CONFIG.BAT
+DOS06580	CONFIG.BAT
+DOS06584	Options during startup
+DOS06586	No setup found
+DOS06589	No setup found
+DOS06590	No setup found
+DOS06591	SETSOUND.EXE
+DOS06592	Options during startup
+DOS06594	No setup found
+DOS06596	SETUP.BAT
+DOS06597	Options during startup
+DOS06598	No setup found
+DOS06600	No setup found
+DOS06601	No setup found
+DOS06602	No setup found
+DOS06603	No setup found
+DOS06605	SETSOUND.EXE
+DOS06606	No setup found
+DOS06609	No setup found
+DOS06612	Options during startup
+DOS06613	No setup found
+DOS06615	No setup found
+DOS06617	Options during startup
+DOS06624	No setup found
+DOS06626	No setup found
+DOS06628	No setup found
+DOS06630	No setup found
+DOS06631	No setup found
+DOS06632	Options during startup
+DOS06634	WQSETUP.EXE
+DOS06635	No setup found
+DOS06636	Options during startup
+DOS06638	No setup found
+DOS06639	No setup found
+DOS06640	No setup found
+DOS06641	No setup found
+DOS06642	No setup found
+DOS06643	No setup found
+DOS06644	No setup found
+DOS06645	No setup found
+DOS06646	No setup found
+DOS06647	Options during startup
+DOS06648	No setup found
+DOS06649	No setup found
+DOS06651	No setup found
+DOS06652	Optional executeables
+DOS06653	SETUP.EXE
+DOS06654	No setup found
+DOS06656	No setup found
+DOS06658	No setup found
+DOS06659	No setup found
+DOS06660	No setup found
+DOS06661	No setup found
+DOS06662	No setup found
+DOS06663	No setup found
+DOS06664	No setup found
+DOS06665	No setup found
+DOS06666	SETUP.EXE
+DOS06667	No setup found
+DOS06668	No setup found
+DOS06669	No setup found
+DOS06670	No setup found
+DOS06671	CONFIG.BAT
+DOS06672	No setup found
+DOS06673	No setup found
+DOS06674	No setup found
+DOS06675	No setup found
+DOS06676	sound_io.exe
+DOS06677	No setup found
+DOS06678	No setup found
+DOS06679	No setup found
+DOS06681	No setup found
+DOS06682	No setup found
+DOS06683	No setup found
+DOS06684	No setup found
+DOS06686	No setup found
+DOS06687	No setup found
+DOS06688	No setup found
+DOS06689	No setup found
+DOS06690	No setup found
+DOS06691	No setup found
+DOS06692	SETUP.BAT
+DOS06693	No setup found
+DOS06694	No setup found
+DOS06695	No setup found
+DOS06696	No setup found
+DOS06697	No setup found
+DOS06698	No setup found
+DOS06699	Options during startup
+DOS06700	No setup found
+DOS06701	No setup found
+DOS06702	Options during startup
+DOS06703	No setup found
+DOS06704	No setup found
+DOS06705	No setup found
+DOS06706	No setup found
+DOS06707	No setup found
+DOS06708	No setup found
+DOS06709	SETUP.EXE
+DOS06710	No setup found
+DOS06711	No setup found
+DOS06712	No setup found
+DOS06713	No setup found
+DOS06714	No setup found
+DOS06715	No setup found
+DOS06717	No setup found
+DOS06718	Parameters added to boot command
+DOS06719	No setup found
+DOS06720	No setup found
+DOS06721	No setup found
+DOS06722	No setup found
+DOS06723	No setup found
+DOS06724	No setup found
+DOS06725	No setup found
+DOS06726	No setup found
+DOS06727	No setup found
+DOS06728	No setup found
+DOS06729	No setup found
+DOS06730	No setup found
+DOS06731	No setup found
+DOS06732	No setup found
+DOS06733	No setup found
+DOS06734	No setup found
+DOS06735	Options during startup
+DOS06736	No setup found
+DOS06737	No setup found
+DOS06738	No setup found
+DOS06739	No setup found
+DOS06740	Options during startup
+DOS06741	No setup found
+DOS06742	ANALYSE.EXE
+DOS06743	No setup found
+DOS06744	No setup found
+DOS06745	No setup found
+DOS06747	No setup found
+DOS06748	No setup found
+DOS06749	No setup found
+DOS06751	No setup found
+DOS06752	No setup found
+DOS06753	No setup found
+DOS06755	No setup found
+DOS06756	No setup found
+DOS06757	No setup found
+DOS06758	Options during startup
+DOS06759	No setup found
+DOS06760	No setup found
+DOS06761	No setup found
+DOS06762	No setup found
+DOS06764	No setup found
+DOS06765	SOUND.BAT
+DOS06766	No setup found
+DOS06767	Options during startup
+DOS06768	No setup found
+DOS06769	No setup found
+DOS06770	No setup found
+DOS06771	No setup found
+DOS06772	No setup found
+DOS06774	No setup found
+DOS06775	No setup found
+DOS06776	No setup found
+DOS06777	No setup found
+DOS06778	SETUPSND.BAT
+DOS06779	No setup found
+DOS06780	Options during startup
+DOS06781	No setup found
+DOS06782	No setup found
+DOS06783	No setup found
+DOS06784	No setup found
+DOS06785	No setup found
+DOS06786	No setup found
+DOS06787	No setup found
+DOS06788	Options during startup
+DOS06789	No setup found
+DOS06790	SETUP.EXE
+DOS06791	No setup found
+DOS06792	No setup found
+DOS06793	No setup found
+DOS06794	Options during startup
+DOS06795	No setup found
+DOS06796	No setup found
+DOS06797	SETUP.BAT
+DOS06798	No setup found
+DOS06799	SETUP.EXE
+DOS06800	INSTALL.EXE
+DOS06801	No setup found
+DOS06802	No setup found
+DOS06803	No setup found
+DOS06804	Options during startup
+DOS06805	No setup found
+DOS06806	No setup found
+DOS06807	Options during startup
+DOS06808	No setup found
+DOS06809	No setup found
+DOS06810	No setup found
+DOS06811	No setup found
+DOS06812	Options during startup
+DOS06813	Options during startup
+DOS06815	Options during startup
+DOS06816	No setup found
+DOS06817	No setup found
+DOS06820	No setup found
+DOS06821	Options during startup
+DOS06822	Options during startup
+DOS06823	No setup found
+DOS06824	No setup found
+DOS06825	Options during startup
+DOS06826	No setup found
+DOS06827	No setup found
+DOS06828	No setup found
+DOS06829	Options during startup
+DOS06830	No setup found
+DOS06831	No setup found
+DOS06832	No setup found
+DOS06833	No setup found
+DOS06834	No setup found
+DOS06836	No setup found
+DOS06837	No setup found
+DOS06838	No setup found
+DOS06839	No setup found
+DOS06840	No setup found
+DOS06841	No setup found
+DOS06842	D:\INSTALL.EXE
+DOS06843	Options during startup
+DOS06844	SETUP.EXE
+DOS06845	No setup found
+DOS06846	Options during startup
+DOS06847	No setup found
+DOS06848	INSTALL.EXE
+DOS06849	No setup found
+DOS06850	Options during startup
+DOS06851	Options during startup
+DOS06852	Options during startup
+DOS06853	No setup found
+DOS06854	No setup found
+DOS06855	SETUP.EXE
+DOS06857	No setup found
+DOS06860	No setup found
+DOS06861	No setup found
+DOS06862	No setup found
+DOS06863	No setup found
+DOS06864	SETUP.EXE
+DOS06865	Options during startup
+DOS06866	SETCFG.EXE
+DOS06867	No setup found
+DOS06868	No setup found
+DOS06869	No setup found
+DOS06870	No setup found
+DOS06871	No setup found
+DOS06872	No setup found
+DOS06873	No setup found
+DOS06874	No setup found
+DOS06875	Options during startup
+DOS06876	No setup found
+DOS06877	No setup found
+DOS06879	No setup found
+DOS06880	No setup found
+DOS06881	SETUP.EXE
+DOS06882	Options during startup
+DOS06883	No setup found
+DOS06884	No setup found
+DOS06885	No setup found
+DOS06886	No setup found
+DOS06887	SNDSETUP.EXE
+DOS06888	SETUP.BAT
+DOS06889	No setup found
+DOS06890	No setup found
+DOS06891	No setup found
+DOS06893	CONFIG.EXE
+DOS06894	No setup found
+DOS06895	No setup found
+DOS06897	D:\INSTALL.EXE
+DOS06898	No setup found
+DOS06900	No setup found
+DOS06901	No setup found
+DOS06902	No setup found
+DOS06905	MSETUP.EXE
+DOS06906	No setup found
+DOS06907	No setup found
+DOS06908	No setup found
+DOS06909	No setup found
+DOS06910	No setup found
+DOS06911	No setup found
+DOS06912	No setup found
+DOS06913	No setup found
+DOS06914	No setup found
+DOS06915	SETSOUND.EXE
+DOS06916	No setup found
+DOS06917	No setup found
+DOS06918	Options during startup
+DOS06919	No setup found
+DOS06920	No setup found
+DOS06921	No setup found
+DOS06922	No setup found
+DOS06924	Options during startup
+DOS06925	Options during startup
+DOS06926	Options during startup
+DOS06929	No setup found
+DOS06930	No setup found
+DOS06932	No setup found
+DOS06934	No setup found
+DOS06935	No setup found
+DOS06937	No setup found
+DOS06938	Options during startup
+DOS06939	No setup found
+DOS06940	No setup found
+DOS06941	No setup found
+DOS06942	No setup found
+DOS06943	SOUNDSET.EXE
+DOS06944	Options during startup
+DOS06945	No setup found
+DOS06946	No setup found
+DOS06947	No setup found
+DOS06948	No setup found
+DOS06949	MSETUP.EXE
+DOS06950	MSETUP.EXE
+DOS06951	Options during startup
+DOS06952	No setup found
+DOS06953	Options during startup
+DOS06954	No setup found
+DOS06955	No setup found
+DOS06956	Options during startup
+DOS06957	No setup found
+DOS06958	No setup found
+DOS06960	No setup found
+DOS06961	SETUP.BAT
+DOS06962	Options during startup
+DOS06963	Options during startup
+DOS06964	No setup found
+DOS06965	No setup found
+DOS06967	Options during startup
+DOS06968	No setup found
+DOS06969	MCONFIG.EXE
+DOS06970	No setup found
+DOS06971	No setup found
+DOS06972	No setup found
+DOS06973	No setup found
+DOS06974	No setup found
+DOS06977	INSTALL.EXE
+DOS06980	No setup found
+DOS06981	No setup found
+DOS06982	Options during startup
+DOS06983	Options during startup
+DOS06985	No setup found
+DOS06986	No setup found
+DOS06987	No setup found
+DOS06988	No setup found
+DOS06989	No setup found
+DOS06990	No setup found
+DOS06991	No setup found
+DOS06992	No setup found
+DOS06993	Options during startup
+DOS06994	Options during startup
+DOS06995	No setup found
+DOS06996	No setup found
+DOS06998	No setup found
+DOS06999	No setup found
+DOS07000	No setup found
+DOS07001	No setup found
+DOS07002	No setup found
+DOS07003	SETUP.EXE
+DOS07004	No setup found
+DOS07005	No setup found
+DOS07006	No setup found
+DOS07007	No setup found
+DOS07008	No setup found
+DOS07009	No setup found
+DOS07010	No setup found
+DOS07011	Options during startup
+DOS07012	No setup found
+DOS07013	No setup found
+DOS07014	No setup found
+DOS07015	No setup found
+DOS07016	No setup found
+DOS07017	No setup found
+DOS07018	No setup found
+DOS07020	No setup found
+DOS07021	No setup found
+DOS07022	No setup found
+DOS07023	No setup found
+DOS07024	setup.bat
+DOS07025	No setup found
+DOS07026	No setup found
+DOS07027	No setup found
+DOS07028	INSTALL.EXE
+DOS07029	No setup found
+DOS07030	No setup found
+DOS07031	SETUP.BAT
+DOS07032	No setup found
+DOS07033	No setup found
+DOS07034	No setup found
+DOS07035	No setup found
+DOS07036	No setup found
+DOS07037	No setup found
+DOS07038	Options during startup
+DOS07039	No setup found
+DOS07040	No setup found
+DOS07041	No setup found
+DOS07042	No setup found
+DOS07043	No setup found
+DOS07044	No setup found
+DOS07045	SETSOUND.EXE
+DOS07046	No setup found
+DOS07048	No setup found
+DOS07049	No setup found
+DOS07050	No setup found
+DOS07051	Parameters added to boot command
+DOS07052	No setup found
+DOS07053	SETUP.BAT
+DOS07054	No setup found
+DOS07055	No setup found
+DOS07056	Options during startup
+DOS07057	No setup found
+DOS07058	No setup found
+DOS07059	Options during startup
+DOS07060	No setup found
+DOS07061	No setup found
+DOS07062	No setup found
+DOS07063	No setup found
+DOS07065	No setup found
+DOS07066	Options during startup
+DOS07067	No setup found
+DOS07068	No setup found
+DOS07069	No setup found
+DOS07070	EC.EXE
+DOS07072	No setup found
+DOS07073	SETUP.EXE
+DOS07074	Options during startup
+DOS07075	No setup found
+DOS07076	No setup found
+DOS07077	No setup found
+DOS07078	Options during startup
+DOS07079	Options during startup
+DOS07080	No setup found
+DOS07081	No setup found
+DOS07082	No setup found
+DOS07083	No setup found
+DOS07084	No setup found
+DOS07085	No setup found
+DOS07086	No setup found
+DOS07087	No setup found
+DOS07088	No setup found
+DOS07089	No setup found
+DOS07090	No setup found
+DOS07091	No setup found
+DOS07092	Options during startup
+DOS07093	No setup found
+DOS07094	No setup found
+DOS07095	No setup found
+DOS07096	No setup found
+DOS07097	No setup found
+DOS07098	Options during startup
+DOS07099	No setup found
+DOS07100	SETSOUND.BAT
+DOS07101	No setup found
+DOS07102	No setup found
+DOS07103	No setup found
+DOS07104	No setup found
+DOS07105	Options during startup
+DOS07107	No setup found
+DOS07108	No setup found
+DOS07110	No setup found
+DOS07111	No setup found
+DOS07112	No setup found
+DOS07114	No setup found
+DOS07117	No setup found
+DOS07118	No setup found
+DOS07119	No setup found
+DOS07120	No setup found
+DOS07121	No setup found
+DOS07122	No setup found
+DOS07123	No setup found
+DOS07124	No setup found
+DOS07126	No setup found
+DOS07127	No setup found
+DOS07128	No setup found
+DOS07129	No setup found
+DOS07130	No setup found
+DOS07131	No setup found
+DOS07132	No setup found
+DOS07133	No setup found
+DOS07134	No setup found
+DOS07135	No setup found
+DOS07136	No setup found
+DOS07137	No setup found
+DOS07138	No setup found
+DOS07139	No setup found
+DOS07140	No setup found
+DOS07141	No setup found
+DOS07142	No setup found
+DOS07143	No setup found
+DOS07144	No setup found
+DOS07145	No setup found
+DOS07146	No setup found
+DOS07147	No setup found
+DOS07148	No setup found
+DOS07149	No setup found
+DOS07150	No setup found
+DOS07151	No setup found
+DOS07152	No setup found
+DOS07153	No setup found
+DOS07154	No setup found
+DOS07155	No setup found
+DOS07156	No setup found
+DOS07157	No setup found
+DOS07158	No setup found
+DOS07159	No setup found
+DOS07160	No setup found
+DOS07161	No setup found
+DOS07162	No setup found
+DOS07163	No setup found
+DOS07164	No setup found
+DOS07165	No setup found
+DOS07166	No setup found
+DOS07167	No setup found
+DOS07168	No setup found
+DOS07169	No setup found
+DOS07170	No setup found
+DOS07171	No setup found
+DOS07172	No setup found
+DOS07173	No setup found
+DOS07174	No setup found
+DOS07175	No setup found
+DOS07176	No setup found
+DOS07177	No setup found
+DOS07178	No setup found
+DOS07179	No setup found
+DOS07180	No setup found
+DOS07181	No setup found
+DOS07182	No setup found
+DOS07183	No setup found
+DOS07184	No setup found
+DOS07185	No setup found
+DOS07186	No setup found
+DOS07187	No setup found
+DOS07188	No setup found
+DOS07189	No setup found
+DOS07190	No setup found
+DOS07191	No setup found
+DOS07192	No setup found
+DOS07193	Options during startup
+DOS07194	No setup found
+DOS07195	No setup found
+DOS07196	No setup found
+DOS07197	No setup found
+DOS07198	No setup found
+DOS07199	No setup found
+DOS07200	No setup found
+DOS07201	No setup found
+DOS07202	SETUP.EXE
+DOS07203	SETUP.EXE
+DOS07204	No setup found
+DOS07205	Options during startup
+DOS07206	Options during startup
+DOS07207	SETUP.EXE
+DOS07208	No setup found
+DOS07209	SETUP.EXE
+DOS07210	No setup found
+DOS07211	Options during startup
+DOS07212	No setup found
+DOS07213	SETUP.EXE
+DOS07214	No setup found
+DOS07215	No setup found
+DOS07217	No setup found
+DOS07219	Options during startup
+DOS07220	INSTALL.EXE
+DOS07221	No setup found
+DOS07222	install.exe
+DOS07223	Options during startup
+DOS07224	No setup found
+DOS07225	No setup found
+DOS07226	No setup found
+DOS07227	No setup found
+DOS07228	SETUP.EXE
+DOS07229	No setup found
+DOS07230	No setup found
+DOS07231	No setup found
+DOS07233	No setup found
+DOS07234	No setup found
+DOS07235	No setup found
+DOS07236	No setup found
+DOS07238	No setup found
+DOS07239	Options during startup
+DOS07240	No setup found
+DOS07241	No setup found
+DOS07242	No setup found
+DOS07243	No setup found
+DOS07244	No setup found
+DOS07245	No setup found
+DOS07246	No setup found
+DOS07248	No setup found
+DOS07249	No setup found
+DOS07250	Options during startup
+DOS07251	No setup found
+DOS07252	No setup found
+DOS07253	Options during startup
+DOS07254	No setup found
+DOS07255	No setup found
+DOS07256	No setup found
+DOS07257	No setup found
+DOS07258	No setup found
+DOS07259	No setup found
+DOS07261	SETUP.EXE
+DOS07262	No setup found
+DOS07263	No setup found
+DOS07264	No setup found
+DOS07265	No setup found
+DOS07266	No setup found
+DOS07267	No setup found
+DOS07268	No setup found
+DOS07269	No setup found
+DOS07270	No setup found
+DOS07271	No setup found
+DOS07272	SETUP.EXE
+DOS07273	No setup found
+DOS07274	No setup found
+DOS07275	No setup found
+DOS07276	No setup found
+DOS07277	CONFIG.BAT
+DOS07278	Options during startup
+DOS07279	No setup found
+DOS07281	No setup found
+DOS07282	No setup found
+DOS07286	No setup found
+DOS07287	No setup found
+DOS07288	No setup found
+DOS07289	No setup found
+DOS07292	No setup found
+DOS07293	No setup found
+DOS07294	No setup found
+DOS07295	No setup found
+DOS07297	No setup found
+DOS07298	No setup found
+DOS07299	No setup found
+DOS07300	No setup found
+DOS07301	No setup found
+DOS07303	No setup found
+DOS07310	No setup found
+DOS07311	SETUP.EXE
+DOS07314	No setup found
+DOS07319	No setup found
+DOS07320	Options during startup
+DOS07323	No setup found
+DOS07324	Options during startup
+DOS07333	SETUP.BAT
+DOS07334	No setup found
+DOS07336	No setup found
+DOS07337	INSTALL.EXE
+DOS07338	INSTALL.EXE
+DOS07339	No setup found
+DOS07343	No setup found
+DOS07346	No setup found
+DOS07350	No setup found
+DOS07352	No setup found
+DOS07363	Options during startup
+DOS07370	No setup found
+DOS07372	SETUP.EXE
+DOS07376	Options during startup
+DOS07378	BOMBCFG.EXE
+DOS07379	No setup found
+DOS07380	No setup found
+DOS07382	No setup found
+DOS07383	No setup found
+DOS07384	No setup found
+DOS07385	No setup found
+DOS07395	No setup found
+DOS07396	No setup found
+DOS07397	No setup found
+DOS07398	No setup found
+DOS07399	No setup found
+DOS07403	No setup found
+DOS07405	No setup found
+DOS07407	No setup found
+DOS07408	No setup found
+DOS07415	Options during startup
+DOS07417	No setup found
+DOS07418	No setup found
+DOS07421	No setup found
+DOS07422	Options during startup
+DOS07425	No setup found
+DOS07436	No setup found
+DOS07437	No setup found
+DOS07440	No setup found
+DOS07463	INSTALL.BAT
+DOS07471	No setup found
+DOS07473	No setup found
+DOS07478	No setup found
+DOS07479	No setup found
+DOS07480	No setup found
+DOS07481	No setup found
+DOS07482	Options during startup
+DOS07483	No setup found
+DOS07484	No setup found
+DOS07485	Options during startup
+DOS07491	SETUP.EXE
+DOS07493	SETUP.EXE
+DOS07494	No setup found
+DOS07495	No setup found
+DOS07496	SETUP.EXE
+DOS07499	CONFIG.EXE
+DOS07501	No setup found
+DOS07504	No setup found
+DOS07505	No setup found
+DOS07506	SETUP.BAT
+DOS07509	Options during startup
+DOS07510	Options during startup
+DOS07511	No setup found
+DOS07512	SETUP.BAT
+DOS07517	SETSOUND.EXE
+DOS07519	No setup found
+DOS07523	No setup found
+DOS07531	No setup found
+DOS07532	CONFIG.EXE
+DOS07533	CONFIG.BAT
+DOS07534	Options during startup
+DOS07539	No setup found
+DOS07542	No setup found
+DOS07543	Options during startup
+DOS07544	No setup found
+DOS07545	SETUP.EXE
+DOS07546	No setup found
+DOS07549	No setup found
+DOS07550	No setup found
+DOS07551	No setup found
+DOS07552	No setup found
+DOS07553	No setup found
+DOS07554	No setup found
+DOS07555	No setup found
+DOS07557	No setup found
+DOS07558	No setup found
+DOS07559	No setup found
+DOS07560	No setup found
+DOS07564	No setup found
+DOS07565	No setup found
+DOS07566	No setup found
+DOS07567	SETUP.EXE
+DOS07568	No setup found
+DOS07569	No setup found
+DOS07570	No setup found
+DOS07571	No setup found
+DOS07574	No setup found
+DOS07575	No setup found
+DOS07576	No setup found
+DOS07577	No setup found
+DOS07579	No setup found
+DOS07580	No setup found
+DOS07581	No setup found
+DOS07582	No setup found
+DOS07583	No setup found
+DOS07584	No setup found
+DOS07585	No setup found
+DOS07586	Options during startup
+DOS07587	No setup found
+DOS07588	No setup found
+DOS07591	No setup found
+DOS07595	No setup found
+DOS07597	Options during startup
+DOS07598	No setup found
+DOS07601	No setup found
+DOS07603	No setup found
+DOS07605	Optional executeables
+DOS07606	CONFIG.EXE
+DOS07607	No setup found
+DOS07608	Optional executeables
+DOS07609	No setup found
+DOS07610	No setup found
+DOS07614	No setup found
+DOS07622	Options during startup
+DOS07625	No setup found
+DOS07626	No setup found
+DOS07627	No setup found
+DOS07628	No setup found
+DOS07629	Options during startup
+DOS07630	No setup found
+DOS07636	No setup found
+DOS07642	No setup found
+DOS07649	No setup found
+DOS07650	No setup found
+DOS07651	No setup found
+DOS07653	No setup found
+DOS07654	CONFIG.EXE
+DOS07656	No setup found
+DOS07658	No setup found
+DOS07659	No setup found
+DOS07660	No setup found
+DOS07662	No setup found
+DOS07663	INSTALL.EXE
+DOS07666	No setup found
+DOS07667	No setup found
+DOS07668	SETUP.EXE
+DOS07670	No setup found
+DOS07671	Options during startup
+DOS07672	No setup found
+DOS07674	SETUP.BAT
+DOS07677	DOSSETUP.BAT
+DOS07678	DOSSETUP.EXE
+DOS07684	No setup found
+DOS07686	SETUP.EXE
+DOS07687	Options during startup
+DOS07689	No setup found
+DOS07690	No setup found
+DOS07691	No setup found
+DOS07692	No setup found
+DOS07693	No setup found
+DOS07694	No setup found
+DOS07695	No setup found
+DOS07696	Options during startup
+DOS07700	No setup found
+DOS07701	No setup found
+DOS07702	No setup found
+DOS07704	No setup found
+DOS07705	D:\INSTALL.EXE
+DOS07707	No setup found
+DOS07708	No setup found
+DOS07710	No setup found
+DOS07711	No setup found
+DOS07715	Options during startup
+DOS07716	Options during startup
+DOS07720	Options during startup
+DOS07721	CONFIG.COM
+DOS07722	No setup found
+DOS07724	No setup found
+DOS07725	No setup found
+DOS07726	Options during startup
+DOS07728	No setup found
+DOS07735	EGGINST.EXE
+DOS07737	No setup found
+DOS07738	No setup found
+DOS07739	No setup found
+DOS07740	No setup found
+DOS07742	No setup found
+DOS07743	Options during startup
+DOS07746	Options during startup
+DOS07749	No setup found
+DOS07758	SETSOUND.EXE
+DOS07759	No setup found
+DOS07765	No setup found
+DOS07766	No setup found
+DOS07767	No setup found
+DOS07769	No setup found
+DOS07770	No setup found
+DOS07771	SETUP.EXE
+DOS07772	SETUP.EXE
+DOS07775	SETSOUND.BAT
+DOS07777	SETUP.EXE
+DOS07778	SETUP.EXE
+DOS07779	No setup found
+DOS07781	No setup found
+DOS07785	No setup found
+DOS07796	No setup found
+DOS07797	No setup found
+DOS07798	No setup found
+DOS07801	No setup found
+DOS07802	Options during startup
+DOS07803	No setup found
+DOS07804	No setup found
+DOS07805	Parameters added to boot command
+DOS07807	No setup found
+DOS07808	No setup found
+DOS07809	SETUP.EXE
+DOS07810	SETUP.EXE
+DOS07812	SETSOUND.EXE
+DOS07813	SETUP.EXE
+DOS07815	Options during startup
+DOS07817	SETSOUND.BAT
+DOS07819	No setup found
+DOS07820	No setup found
+DOS07821	INSTALL.EXE
+DOS07822	INSTALL.EXE
+DOS07823	INSTALL.EXE
+DOS07825	No setup found
+DOS07826	No setup found
+DOS07827	No setup found
+DOS07828	No setup found
+DOS07829	No setup found
+DOS07830	INST.EXE
+DOS07831	SETUP.EXE
+DOS07832	SETUP.EXE
+DOS07833	No setup found
+DOS07834	SETUP.EXE
+DOS07836	No setup found
+DOS07837	Parameters added to boot command
+DOS07838	INSTALL.EXE
+DOS07839	No setup found
+DOS07840	DETECTSB.EXE
+DOS07841	No setup found
+DOS07842	INSTALL.EXE
+DOS07843	No setup found
+DOS07844	No setup found
+DOS07845	SETUP.EXE
+DOS07848	No setup found
+DOS07849	No setup found
+DOS07850	No setup found
+DOS07851	No setup found
+DOS07854	No setup found
+DOS07855	No setup found
+DOS07856	Options during startup
+DOS07857	No setup found
+DOS07858	Options during startup
+DOS07861	No setup found
+DOS07862	SETUP.EXE
+DOS07868	No setup found
+DOS07869	No setup found
+DOS07870	No setup found
+DOS07871	No setup found
+DOS07874	SETUP.EXE
+DOS07875	No setup found
+DOS07877	Options during startup
+DOS07879	INSTALL.EXE
+DOS07883	No setup found
+DOS07887	Optional executeables
+DOS07890	No setup found
+DOS07892	No setup found
+DOS07893	SETUP.EXE
+DOS07894	No setup found
+DOS07895	SETUP.EXE
+DOS07896	No setup found
+DOS07897	Options during startup
+DOS07898	No setup found
+DOS07899	No setup found
+DOS07900	No setup found
+DOS07905	No setup found
+DOS07906	No setup found
+DOS07907	D:\SETSOUND.EXE
+DOS07909	SETUP.EXE
+DOS07913	Options during startup
+DOS07915	SETUP.EXE
+DOS07916	No setup found
+DOS07917	No setup found
+DOS07919	INSTALL.EXE
+DOS07922	No setup found
+DOS07923	No setup found
+DOS07925	SETUP.EXE
+DOS07926	No setup found
+DOS07927	No setup found
+DOS07928	No setup found
+DOS07929	No setup found
+DOS07930	No setup found
+DOS07932	SETUP.BAT
+DOS07933	SETUP.EXE
+DOS07935	INSTALL.EXE
+DOS07936	No setup found
+DOS07937	No setup found
+DOS07938	D:\SETUP.BAT
+DOS07939	SETUP.EXE
+DOS07941	No setup found
+DOS07942	No setup found
+DOS07943	Options during startup
+DOS07944	CONFIG.BAT
+DOS07945	No setup found
+DOS07946	No setup found
+DOS07947	No setup found
+DOS07948	No setup found
+DOS07949	No setup found
+DOS07951	No setup found
+DOS07952	No setup found
+DOS07953	No setup found
+DOS07954	SETUP.EXE
+DOS07955	No setup found
+DOS07956	Optional executeables
+DOS07957	No setup found
+DOS07958	No setup found
+DOS07959	No setup found
+DOS07964	No setup found
+DOS07965	SETUP.EXE
+DOS07966	No setup found
+DOS07967	No setup found
+DOS07968	No setup found
+DOS07969	No setup found
+DOS07973	Parameters added to boot command
+DOS07978	No setup found
+DOS07979	D:\SETUP.BAT
+DOS07980	SETUP.EXE
+DOS07981	No setup found
+DOS07983	SETUP.EXE
+DOS07984	No setup found
+DOS07986	Options during startup
+DOS07989	No setup found
+DOS07990	No setup found
+DOS07991	No setup found
+DOS07992	No setup found
+DOS07993	Parameters added to boot command
+DOS07994	No setup found
+DOS07995	CONFIG.EXE
+DOS07996	SETSOUND.EXE
+DOS07997	SETSOUND.EXE
+DOS07998	SETSOUND.EXE
+DOS07999	Options during startup
+DOS08000	setup.exe
+DOS08001	No setup found
+DOS08002	No setup found
+DOS08003	No setup found
+DOS08004	INSTALL.EXE
+DOS08005	No setup found
+DOS08006	Options during startup
+DOS08007	No setup found
+DOS08008	SETUP.BAT
+DOS08010	SETSOUND.EXE
+DOS08012	No setup found
+DOS08014	Options during startup
+DOS08015	No setup found
+DOS08018	Options during startup
+DOS08019	No setup found
+DOS08020	No setup found
+DOS08021	Options during startup
+DOS08022	Options during startup
+DOS08025	No setup found
+DOS08026	No setup found
+DOS08027	No setup found
+DOS08028	No setup found
+DOS08029	No setup found
+DOS08030	No setup found
+DOS08031	No setup found
+DOS08032	No setup found
+DOS08033	No setup found
+DOS08034	No setup found
+DOS08035	No setup found
+DOS08036	No setup found
+DOS08037	No setup found
+DOS08038	Options during startup
+DOS08039	Options during startup
+DOS08040	No setup found
+DOS08042	No setup found
+DOS08043	SETUP.BAT
+DOS08044	Options during startup
+DOS08046	No setup found
+DOS08047	No setup found
+DOS08048	No setup found
+DOS08049	No setup found
+DOS08050	PSMCFG4.EXE
+DOS08051	No setup found
+DOS08052	SETUP.EXE
+DOS15106	setup.exe
+DOS15116	No setup found
+DOS15120	No setup found
+DOS15123	No setup found
+DOS15124	No setup found
+DOS15125	No setup found
+DOS15126	No setup found
+DOS15127	No setup found
+DOS15129	Options during startup
+DOS15130	No setup found
+DOS15131	No setup found
+DOS15132	No setup found
+DOS15134	SNDSETUP.EXE
+DOS15135	SNDSETUP.EXE
+DOS15138	No setup found
+DOS15143	No setup found
+DOS15144	SETUP.EXE
+DOS15155	No setup found
+DOS15156	No setup found
+DOS15157	No setup found
+DOS15158	No setup found
+DOS16202	No setup found
+DOS17511	No setup found

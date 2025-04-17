@@ -1,0 +1,57 @@
+eXoID	Addons	Game	AutoexecPrelauncherExtension	CFolder	AutoexecExecuteableOverride	AutoexecDOSBox
+DOS00107	1	Sword Quest 2: Tale Of The Talisman	TIMESET.COM			
+DOS00251	1	Flame Storm	SBFMDRV.COM			
+DOS00252	1	Kahjar: The Bratockian Saga Part III	SBFMDRV.COM			
+279w	1	Macbeth	FAKESHAR.COM			
+332w	1	Mind Grind	FAKESHAR.COM			
+381w	1	AFL Finals Fever	FAKESHAR.COM			
+530w	1	Monopoly (1995)	FAKESHAR.COM			
+547w	1	Zap!				x\dosbox.exe
+641w	1	D/Generation (win)			d:[13][10]path=C:\;z:\;c:\windows\[13][10]cd dgen.win[13][10]cdpatch %1[13][10]@cls[13][10]@win dgen[13][10]cdpatch x[13][10]exit	
+DOS00708	1	Action Soccer	FAKEHMA.COM			
+DOS00999	1	Bazooka of the Red Dragon			c:[13][10]cls[13][10]cd BORD[13][10]@:start[13][10]@echo off[13][10]cls[13][10]echo.[13][10]echo Press 1 to launch B.O.R.D.[13][10]echo Press 2 to launch B.O.R.D. Edit[13][10]echo Press 3 to exit[13][10]echo.[13][10]choice /C:123 /N Please choose[13][10]IF errorlevel 3 goto exit[13][10]IF errorlevel 2 goto bcfg[13][10]IF errorlevel 1 goto local[13][10]:bcfg[13][10]BORDEDIT[13][10]goto start[13][10]:local[13][10]BORD -l[13][10]goto start[13][10]:exit[13][10]exit[13][10]	
+DOS01021	1	Betrayal of the Obsidian Baboon			c:[13][10]cls[13][10]cd BOOBab[13][10]:start[13][10]echo off[13][10]cls[13][10]echo.[13][10]echo Press 1 to launch Betrayal of the Obsidian Baboon[13][10]echo Press 2 to configure[13][10]echo Press 3 to exit[13][10]echo.[13][10]choice /C:123 /N Please choose[13][10]IF errorlevel 3 goto exit[13][10]IF errorlevel 2 goto cfg[13][10]IF errorlevel 1 goto local[13][10]:cfg[13][10]boobsys 0[13][10]goto start[13][10]:local[13][10]baboon 0[13][10]goto start[13][10]:exit[13][10]exit[13][10]	
+1061w	1	RollOver	FAKESHAR.COM			
+1200w	1	Thinkin' Things: Sky Island Mysteries				x\dosbox.exe
+DOS01229	1	Cadillacs and Dinosaurs: The Second Cataclysm		Cadillac		
+1288w	1	Xplora 1 (win)				dosbox.exe
+1359w	1	Microsoft Cinemania '95	FAKESHAR.COM			
+DOS01425	1	College Slam	CSFIX.COM			
+DOS01602	1	Cyberia 2: Resurrection		cyberia2		
+DOS01787	1	Diggers		diggers		
+DOS01788	1	Diggers 2: Extractors			C:[13][10]cd diggers2[13][10]d:[13][10]CLS[13][10]@xtractor[13][10]EXIT[13][10]	dosbox.exe
+DOS01814	1	Dive: The Conquest of Silver Eye		RECALL		
+DOS01850	1	Dracula Unleashed		dracunl		
+DOS02184	1	Kingdom: The Far Reaches		KINGDOM		
+DOS02446	1	Graeme Souness Soccer Manager	MRESET.COM			
+DOS02665	1	Hugo 3	HUGOFIX.COM			
+DOS02936	1	Johnny Bazookatone	TRKPLA.EXE			
+DOS02991	1	Kick Off 97	KOFIX.COM			
+DOS02992	1	Kick Off 98	KOFIX.COM			
+DOS03053	1	The Labyrinth of Time		labtime		
+DOS03064	1	L'affaire Morlov		morlov		
+DOS03341	1	Manic Karts				dosbox.exe
+DOS03665	1	Murder Makes Strange Deadfellows		murderdf		
+DOS03709	1	The Need for Speed: Special Edition	UNIVBE.EXE			
+DOS04525	1	Sherlock Holmes: Consulting Detective		shcd1		
+DOS04527	1	Sherlock Holmes Consulting Detective: Volume II		shcd2		
+DOS04528	1	Sherlock Holmes Consulting Detective: Volume III		shcd3		
+DOS04379	1	Rugby World Cup 95	RWCFIX.COM			
+DOS04640	1	Soccer Kid	UBBFIX.COM			
+DOS05149	1	Time Warriors	CDSEEK.COM			
+DOS05387	1	Ultimate Body Blows	UBBFIX.COM			
+DOS05498	1	Virtual Chess	VCFIX.COM			
+DOS05578	1	Where in the U.S.A. is Carmen Sandiego?		wucs		
+DOS05688	1	Wolf	SLOWREAD.COM			
+DOS05785	1	Yo! Joe! Beat the Ghosts	JOEFIX.COM			
+DOS05877	1	F-15 Strike Eagle				dosbox.exe
+DOS05891	1	Full Count Baseball	TEAMINFO.TXT			
+DOS05929	1	MicroLeague Baseball				dosbox.exe
+DOS06032	1	The Walls of Bratock	SBFMDRV.COM			
+DOS06253	1	World Cricket	MRESET.COM			
+DOS06448	1	Charly the Clown	JEMMEX.EXE			
+DOS06642	1	Flapscii				dosbox.exe
+DOS07677	1	SideLine	JEMMEX.EXE			
+DOS07823	1	Kakoong		danbi\kk		
+DOS15770	1	Super Kid			c:[13][10]@cd superk~2[13][10]@cls[13][10]@kid[13][10]exit	dosbox.exe
+DOS15187	1	Mathology	SBFMDRV.COM			

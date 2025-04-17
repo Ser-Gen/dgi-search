@@ -1,0 +1,1151 @@
+Identification FileName	Size	CRC32	eXoID	ZIP	Boot	Image	StartingExe	StartingExeSize	StartingExeCRC	IDFileFolder
+election.exe	2042304	F4FB4661	1000w	Power Politics (1992).zip						PowerPol\ELECTION\
+PR.EXE	453632	657983AC	1001w	Power Rangers Zeo Versus The Machine Empire (1996).zip						PowerRan\RANGERS\
+PDHPRO.EXE	1345055	CA2EFA0F	1003w	Prairie Dog Hunt Pro (1995).zip						PDHunt\cd\
+PDHPRO97.EXE	1849656	58EE5272	1004w	Prairie Dog Hunt Pro '97 (1997).zip						PDHunt97\cd\
+cd.BIN	474231408	1FDC4E42	1005w	Prehistoric Animals (1999).zip		image				PreHAni\CD\
+PROGRAM.EXE	262656	8CFC9F35	1006w	Prince Interactive (1994).zip						PrinceIn\INTRACTV\
+PROFIT.EXE	2027159	7A873785	1007w	Profitania (1998).zip						Profitan\PROFIT\
+PROLIF.EXE	2048448	A85CDFA7	1008w	Proliferation (1995).zip						Prolifer\PROLIFER\
+i100_203.img	104767488	86D5B829	1009w	The Psychotron (1994).zip	boot					ThePsych\
+RAPUNZEL.EXE	535840	488C0010	100w	Magic Fairy Tales - Barbie As Rapunzel (1997).zip						MFTBarb\MATTEL\BARBIE\RAPUNZEL\
+TEKE2WIN.EXE	837632	4F2888A5	1010w	P.T.O. - Pacific Theater of Operations II (1996).zip						PTO-Paci\PTO2WIN\
+ACTIVITY.EXE	30720	19764FE7	1011w	Putt-Putt and Fatty Bear's Activity Pack (1995).zip						PPFB3x\HEGAMES\
+BALLOON.EXE	21648	503C7934	1012w	Putt-Putt and Pep's Balloon-o-Rama (1996).zip						PuttBall\HEGAMES\
+DOG.EXE	21648	BC2F01DF	1013w	Putt-Putt and Pep's Dog on a Stick (1996).zip						PuttDoS\HEGAMES\
+PUTTRACE.EXE	21696	E785174D	1014w	Putt-Putt Enters the Race (1998).zip						PuttRace\HEGAMES\
+cd.iso	144943104	C6FA159E	1015w	Putt-Putt Goes to the Moon (Win)(1993).zip		image				PuttMN3x\CD\
+Putt-Putt_1_JoinsTheParade.bin	253004640	AD9A6BFE	1016w	Putt-Putt Joins the Parade (Win)(1992).zip		image				PuttPR3x\CD\
+PUTTZOO.EXE	30720	110F13E3	1017w	Putt-Putt Saves the Zoo (1995).zip						PuttZoo\HEGAMES\
+PUTTTIME.EXE	21616	0D3DA3C8	1019w	Putt-Putt Travels Through Time (1997).zip						PuttTime\HEGAMES\
+STORYMAKER.bin	397963104	AB4D1644	101w	Barbie Storymaker (1996).zip		image				BarbStor\CD\
+PYRAMID.EXE	33576	A82273F7	1020w	Pyramid - Challenge of the Pharaoh's Dream (1996).zip						Pyramid-\MHHI\PYRAMID\
+PYST16.EXE	1034847	D7A05422	1021w	Pyst (1997).zip						Pyst\PYST\
+QIN.EXE	2759680	0C76E20A	1023w	Qin - Tomb of the Middle Kingdom (1995).zip						Qin-Tomb\QIN\
+QGATE.EXE	490960	CE5527C8	1024w	Quantum Gate (1993).zip						QuantumG\QGATE\
+QPL1.bin	752957520	6D1F421D	1025w	Queensryche's Promised Land (1996).zip		image	run.bat	542	E63DE2D1	Queensry\
+RESOURCE.WIN	234	3B559C3B	1029w	Quest for Glory IV - Shadows of Darkness (Win)(1993).zip						qfg43x\SIERRA\QG4CD\
+cd.BIN	411806976	8E9C1D18	102w	Animation Hangman (1996).zip		image				AniHang\CD\
+QWIRKS.EXE	294324	A68423A1	1031w	Qwirks (1995).zip						Qwirks\cd\
+cd.BIN	634861248	99551640	1032w	Radio Active (1994).zip		image				RadioAct\cd\
+RATS.EXE	200704	127A6F5B	1039w	Rats! (1994).zip						Rats!\cd\
+RATTLER.EXE	70226	4C0F1523	1040w	Rattler Race (1991).zip						RattlerR\cd\
+RAVES.EXE	1000911	94778E3C	1041w	Rave Shuttle - The Cosmic Challenge (1997).zip						RaveShut\RAVES\
+Martian.Chronicles.bin	712592496	023B130B	1042w	Ray Bradbury's The Martian Chronicles Adventure Game (1996).zip		image				RayBradb\cd\
+RR2CD.EXE	258576	8336FBE1	1043w	Reader Rabbit 2 (1993).zip						RRabb2\TLCWIN\RR2CDWIN\
+RR3WINCD.EXE	576512	A1408ED1	1044w	Reader Rabbit 3 (1996).zip						RRabb3\TLCWIN\RR3WINCD\
+RRK20.iso	654393344	73A27921	1045w	Reader Rabbit's Kindergarten (1997).zip		image				RRabbK\cd\
+RR1CD16.EXE	1020416	8C9DB779	1046w	Reader Rabbit's Reading 1 (1997).zip						Rrabb1\TLCWIN\RR1\
+RRTW32.EXE	227433	3C403F1B	1047w	Reader Rabbit's Toddler (1997).zip						RRabbT\TLCWIN\RRT\
+RVBJ.EXE	108904	3FDDBF8F	1049w	Real Video Blackjack (1995).zip						RVidBJ\RVBJ\
+BASEBALL.EXE	21616	297D30F5	104w	Backyard Baseball (1997).zip						BackBase\HEGAMES\
+RVP.EXE	115816	90E4EB4D	1050w	Real Video Poker (1994).zip						RealVP\RVP\
+REELJFK.EXE	686867	C40D9E61	1051w	Reelect JFK (1994).zip						ReelectJ\REELJFK\
+REFLUX1.bin	416238144	1DD5634F	1052w	Reflux - Issue 01 - The Becoming (1995).zip		image				Reflux-I\cd\
+RENJU11P.EXE	68608	7EDD21D1	1053w	Renju (1994).zip						Renju\cd\
+BAD_DAY.EXE	742342	8E044ACD	1054w	The Residents' Bad Day on the Midway (1995).zip						BadDayM\BAD_DAY\
+SIERRAW.EXE	803365	755EA73F	1055w	Phantasmagoria (Win)(1995).zip						Phan3x\SIERRA\SCARY\
+Robert E. Lee - Civil War General.iso	512321536	DCB80272	1056w	Robert E Lee - Civil War General (1996).zip		image				RobertEL\cd\
+ROBO.EXE	883712	F2F52770	1057w	RoboSport (1991).zip						RoboSpor\ROBOWIN\
+ROBOTCTY.EXE	1493568	5DE59220	1058w	Robot City (1995).zip						RobotCit\RC\
+RODNEYSW.EXE	159232	E936D88F	1059w	Rodney's Funscreen (Win)(1992).zip						Rod3x\cd\
+BIGJOB.EXE	666240	563C7F3B	105w	Big Job (1996).zip						BigJob\DISCOVER\BIGJOB\
+VOODOO.EXE	866187	F57A04E4	1060w	Rolling Stones Voodoo Lounge CD-ROM (1995).zip						RollingS\VOODOO\
+RollOver.exe	1596858	A3A39E22	1061w	RollOver (1997).zip						RollOver\cd\
+RTK4WIN.EXE	707392	502B58A7	1062w	Romance of the Three Kingdoms IV - Wall of Fire (1996).zip						Romanceo\ROMANCE4\
+i100_203.img	104767488	4F16A089	1065w	The Sacred Mirror of Kofun (1996).zip	boot					TheSacre\
+SAF.EXE	82128	6EC80022	1066w	Safety Monkey (1994).zip						SafetyMo\MAYO\SAF\
+SAMMY.EXE	695296	9FE3AE3D	1067w	Sammy's Science House (1994).zip						SammysSc\EDMARK\SAMMY\
+SAVAGE.ISO	289880064	D9EDF2D0	1068w	Savage - The Ultimate Quest for Survival (1996).zip		image				Savage-T\cd\
+MSBEARTH.EXE	208256	92298AD9	1069w	Scholastic's The Magic School Bus Explores Inside the Earth (1996).zip						MSBEarth\MSKIDS\MSBEARTH\
+GHOST.bin	447604416	0.00E+00	106w	Blinky Bill's Ghost Cave (1996).zip		image				BBGhCave\CD\
+MSBHUMAN.EXE	166080	025CA856	1071w	Scholastic's The Magic School Bus Explores the Human Body (1994).zip						MSBHuman\MSKIDS\MSBHUMAN\
+MSBSEA.EXE	196864	5B98F255	1072w	Scholastic's The Magic School Bus Explores the Ocean (1995).zip						MSBOcean\MSKIDS\MSBOCEAN\SYSTEM\
+SLAUGHTR.EXE	813355	D0C8DE7A	1073w	Schoolyard Slaughter (1994).zip						Schoolya\SLAUGHTR\
+SCRABBLE.EXE	1984289	6704D60D	1074w	Scrabble (1996).zip						Scrab3x\SCRABBLE\
+SECRETS.EXE	938231	987ABA52	1076w	Secrets of the Luxor (1996).zip						SecLuxor\SECRETS\
+PYRAMID.EXE	377328	3540F9FC	1077w	Secrets of the Pyramids (1994).zip						SecPyra\PYRAMID\
+golfwin.exe	239616	23C300B4	1078w	Sensible Golf (Win)(1994).zip						sgolf3x\CD\
+cd.BIN	768732384	E22433C6	1079w	Sesame Street Elmo's Preschool (1996).zip		image				SSElmoP\cd\
+CANDYLND.bin	235501056	7B274238	107w	Candy Land Adventure (1996).zip						CandyLAD\CD\
+cd.BIN	766561488	128E9347	1080w	Sesame Street - Get Set To Learn (1996).zip		image				SSGStL\cd\
+WOW.EXE	406032	2AF332F6	1081w	Sesame Street - Let's Make a Word! (1995).zip						SSLMaW\CWONDERS\LMAW\
+SFCAVE.EXE	48390	EF99A6B1	1082w	SFCave (1995).zip						SFCave\cd\
+SFPD.EXE	696847	61357C5D	1083w	SFPD Homicide - Case File - The Body in the Bay (1995).zip						SFPDHomi\SFHD\
+SHADOW.EXE	458240	3AD61223	1084w	Shadowgate (1993).zip						Shadowga\SHADOW\
+CAIRN.EXE	253952	6E25ED0B	1085w	Shadows of Cairn (Win)(1994).zip						SCairn3x\CAIRN\WINEXE\
+SHGM.EXE	322603	EBCB0B74	1087w	Shanghai - Great Moments (1995).zip						ShangGM\SHGM\
+SHANGHAI.EXE	144144	D966E792	1088w	Shanghai II - Dragon's Eye (1994).zip						Shang2DE\cd\
+SHEILA.EXE	298496	6693E5A8	1089w	Sheila Rae the Brave (1996).zip						SheilaRa\cd\
+CAPPIG.EXE	1308672	501CB8F1	108w	Capitalist Pig (1992).zip						CapPig\CAPPIG\
+SHINE.EXE	1937650	410EC407	1090w	Shine (1996).zip						Shine\SHINE\
+SIERRAW.EXE	793472	EE4992B7	1091w	Shivers (1995).zip						Shivers\SIERRA\SHIVERS\
+RESOURCE.WIN	723	7DA9D86B	1092w	Shivers Two - Harvest of Souls (1997).zip						ShiversT\SIERRA\SHIVERS2\
+CIV.EXE	833024	86DDDA90	1093w	Sid Meier's Civilization (1993).zip						Civ3x\MPS\CIVWIN\
+CIV2.EXE	1764880	3A9D8A75	1094w	Sid Meier's Civilization II (1996).zip						Civ2\MPS\CIV2\
+SC2000W.EXE	11632	1C2E3CB9	1096w	SimCity 2000 - CD Collection (1993).zip			run.bat	378	8671CCC3	SimC23x\
+CASINO2.EXE	766464	A1D1F53E	109w	Casino Deluxe 2 (1996).zip						CasDLX2\SIERRA\DELUXE2\
+PHRCRS.EXE	169924	18EC4E31	10w	Pharoah's Curse (1998).zip						ambPC\WINDOWS\PHRCRS\
+WGAIA.EXE	269824	8BA6A603	1104w	SimEarth - The Living Planet (Win)(1990).zip						SimEa3x\MAXIS\EARTHWIN\
+WSIMFARM.EXE	2039872	E99ABCB1	1105w	SimFarm (1996).zip						SimFa3x\SIMFARMW\
+SIMLIFEW.EXE	718336	D1D6FD07	1106w	SimLife (Win)(1992).zip						SimLi3x\MAXIS\SIMLIFE\
+SIMON.EXE	21888	12F3C45A	1107w	Simon (1991).zip						Simon\cd\
+SIMPARK.EXE	646656	B270F06E	1108w	SimPark (1996).zip						SimPark\MAXIS\SIMPARK\
+SIMPSONS.EXE	3368957	A787C7E1	1109w	The Simpsons Cartoon Studio (1996).zip			run.bat	445	4A3C81A5	TheSimps\
+MMBJ.EXE	137456	5F990DD3	110w	Casino Master (1996).zip						CasiMast\MMCASINO\
+SIMTOWER.EXE	6566400	4839FFA7	1110w	SimTower - The Vertical Empire (1995).zip						SimTower\SIMTOWER\
+SIMTOWN.EXE	1982496	F07DFC3E	1111w	SimTown (1995).zip						SimTown\SIMTOWN\
+SIXFEET.EXE	75264	4CE744BF	1112w	Six Feet Under (1994).zip						SixFeetU\cd\
+SKAT2010.EXE	13648	FD5FA2D4	1113w	Skat 2010 (1993).zip						Skat2010\SKAT2010\
+SKAT_SW.EXE	612400	D3C0A330	1114w	Skat 2095 (1996).zip						Skat2095\SKAT2095._SW\
+SKAT3000.EXE	1037024	3AB035CC	1115w	Skat 3000 (1999).zip						Skat3000\SKAT3000._SH\
+SKI.EXE	88848	708512F3	1116w	SkiFree (1991).zip						SkiFree\
+SC.EXE	583680	74FC9982	1117w	Skull Cracker (1996).zip						SkullCra\SKULL\
+WSLAM.EXE	76480	CC613D30	1118w	Slam! (1993).zip						Slam!\cd\
+SLAY.EXE	140288	43D2CA80	1119w	Slay (1995).zip						Slay\cd\
+CASPER.EXE	38056	A2FBF50B	111w	Casper Brainy Book (1995).zip						CaspBB\KA\CASPER\
+SGC1.EXE	296448	E9B3B7BF	1121w	Smart Games Challenge #1 (1996).zip						SGC1\SMRTGAMS\SGC1\
+SGPC2.EXE	77824	95495A9C	1122w	Smart Games Puzzle Challenge 2 (1997).zip						SGC2\SMRTGAMS\SGPC2\
+SGSJ.EXE	309760	76A3BF21	1123w	Smart Games Stratajams (1997).zip						SGStrat\SMRTGAMS\SGSJ\
+SGWP1.EXE	230400	21AB2084	1124w	Smart Games Word Puzzles #1 (1996).zip						SGWordP\cd\
+SCFS.bin	377757072	2074FA72	1126w	Snoopy's Campfire Stories (1996).zip		image				SnoopysC\cd\
+SOLWIN.EXE	1032208	45DF180F	1129w	Solitaire Deluxe (1996).zip						SoliDlx\SOLDLX\
+GOLF.EXE	158756	01D247F0	1130w	Solitaire Twin Pack (1995).zip			run.bat	390	342A865F	SoliTwin\
+SOLI.EXE	85152	594E2721	1131w	Solitaire XXL (1997).zip						SoliXl3x\SOLI-XXL.SH\
+SOLI.EXE	249673	8B761802	1132w	Solitaire XXX (1998).zip						SoliXXX\cd\
+APP16.EXE	1025024	758093B2	1133w	Sophie's World (1997).zip						SophiesW\SWORLD\
+Start.EXE	147456	5D54FF12	1134w	Space Bastards (1996).zip						SpaceBas\cd\
+SPACEBUC.EXE	1360838	F9F2E3F9	1135w	Space Bucks (1996).zip						SpaceBuc\SIERRA\SBUCKS\
+CD.iso	647409664	E45B4F34	1136w	Space Quest 6 - Roger Wilco in the Spinal Frontier (Win)(1995).zip		Image				sq63x\CD\
+SCIWV.EXE	175104	2BC45432	1139w	Space Quest IV - Roger Wilco and the Time Rippers (1992).zip						SQ4CD3x\SIERRA\SQ4\
+TDTWB.EXE	743296	16818230	113w	Day The World Broke, The (1998).zip						DTWB\TDTWB\
+Spaceship_Warlock.iso	473575424	18A7CDAC	1140w	Spaceship Warlock (1994).zip		image				Spaceshi\cd\
+cd.BIN	694634976	3574F57C	1141w	Space Sirens 2 - Megababes from Ajia (1995).zip		image				SpaceSir\cd\
+WINHO.EXE	544256	4E8D464A	1142w	Spaceward Ho! (Win)(1992).zip						SpcHo3x\STARHILL\SCI-FI\WINHO\
+SVRCD.EXE	807692	0401AFF3	1143w	Spectre VR (Win)(1993).zip			run.bat	378	839041AC	SpecVR3x\
+SPEEDWAY.bin	9598976	22B5F541	1144w	Speedway (1996).zip		image				SpWay3x\CD\
+BASIC_SPELLING_TRICKS_CD.iso	31715328	D5B46A5B	1145w	Spelling Jungle (1993).zip		image				SpellJu\cd\
+SPQR16.EXE	742240	B784821F	1147w	SPQR - The Empire's Darkest Hour (1997).zip						SPQR-The\SPQR\
+CHASE.EXE	21616	0C7A805E	1148w	Spy Fox in Cheese Chase (1998).zip						SFChes\HEGAMES\
+SPYFOX.EXE	21616	15A41CB8	1149w	Spy Fox in Dry Cereal (1997).zip						SFDry\HEGAMES\
+SQUASH.EXE	72704	04A02923	1150w	Squash! (1993).zip						Squash!\FP1_CD\FUNPACK1\
+SQUIRMER.EXE	259052	0E30FFBA	1151w	Squirmer The Game (1994).zip						Squirmer\cd\
+STANLEY.EXE	4071296	E61223BE	1153w	Stanley's Sticker Stories (1996).zip						Stanleys\EDMARK\STANLEY\
+STARMERC.EXE	745528	010B62B7	1154w	Star Merc (1997).zip						StarMerc\cd\
+stars26i.exe	3216832	B63883FC	1155w	Stars! (1996).zip						Stars!\cd\
+KLINGON.EXE	318014	83257562	1157w	Star Trek - Klingon (1996).zip			run.bat	652	B159C928	STKling\
+CD1.bin	632666832	484328AC	1158w	Star Trek - The Game Show (1998).zip		image				STGameS\cd\
+STARW16.EXE	1385809	4DED635A	1159w	Star Warped (1997).zip						StarWarp\PARROTY\STARWARP\
+cd.BIN	451908576	ADAC205A	115w	Dr. Ditto (1995).zip		image				DrDitto\CD\
+SWCMPC_V100.iso	62408704	BFB26EE6	1160w	Star Wars Chess (Win)(1993).zip		image				SWChss3x\CD\
+START16.EXE	918051	FD52BE7B	1161w	Stay Tooned! (1996).zip						StayToon\SIERRA\TOONED\
+DC.EXE	36740	552DAACA	1162w	Steven Spielberg's Director's Chair (1996).zip						StevenSp\DC\
+cd.BIN	473603424	41C59BD5	1163w	Storybook Weaver Deluxe (1994).zip		image				Storyboo\cd\
+STRIP.EXE	485888	F65F423D	1168w	Strip-Poker (1993).zip						Strip3x\CD\
+Superboy Spies from Outer Space.img	256111632	322D8BD3	1169w	Superboy - Spies from Outer Space (1996).zip		image				Superboy\cd\
+DRAGON.EXE	1288211	4A11F60A	116w	Dragon in a Wagon (1997).zip						DragWag\DIAMAR\DRAGON\
+Superman The Mysterious Mr.Mist.img	253428000	979B4821	1170w	Superman - The Mysterious Mr. Mist (1996).zip		image				Sup3x\cd\
+SSGWINCD.EXE	516624	91BE50DB	1171w	Super Solvers - Gizmos & Gadgets! (1997).zip						SSGG3x\TLCWIN\SSGWINCD\
+SSRWINCD.EXE	425488	4D8A49A8	1172w	Super Solvers - Midnight Rescue! (1995).zip						SSMR3x\TLCWIN\SSRWINCD\
+SSMWIN16.EXE	1930545	6EA9518A	1173w	Super Solvers Mission - T.H.I.N.K. (1999).zip						SSThink\TLCWIN\SSMWINCD\
+SSOWINCD.EXE	407056	24B6BF44	1174w	Super Solvers - OutNumbered! (1997).zip						SSON3x\TLCWIN\SSOWINCD\
+SSBWINCD.EXE	222208	D8D0BF16	1175w	Super Solvers - Spellbound (1999).zip						SSSB3x\TLCWIN\SSBWINCD\
+cd.BIN	429225888	219608BD	1176w	Super Solvers - Treasure Mountain! (1994).zip		image				SSTM3x\CD\
+SSIE.EXE	2181003	6A6E8DF4	1177w	Super Spy (1996).zip						SuperSpy\SSI_ENG\
+GOLDTET.ISO	58972160	7B4E41F6	1178w	Super Tetris (Win)(1991).zip		image				SupTet3x\CD\
+cd.BIN	28468608	3B7FCE98	117w	Earth Invasion (Win)(1993).zip		image				ERTHINV\CD\
+BLOCKS.EXE	63504	7EFE978B	1180w	Symantec Game Pack (1991).zip			run.bat	843	35B6FFA8	Symantec\
+TP.EXE	127147	645C9B86	1182w	Taipei (1990).zip						Taipei\cd\
+CROSS.EXE	159744	06C29199	1183w	Take a Break! Crosswords (1992).zip						TaBCros\SIERRA\WINCROSS\
+PINBALL.EXE	235008	8F24030D	1184w	Take a Break! Pinball (1993).zip						TaBPin\cd\
+BESTSHOT.EXE	270544	260907EC	1185w	Take Your Best Shot (1995).zip						TakeYour\WINDOWS\
+CHOPLIFT.EXE	445952	58646527	1186w	TC Choplifter (1995).zip						TCChopli\cd\
+TDKPIN.EXE	3396864	EE9F6FA7	1187w	TDK Pinball Machine (1995).zip						TDKPinba\cd\
+XTREME.EXE	690123	265DCE64	1189w	Team Xtreme - Operation Weather Disaster (1995).zip						TeamXtre\DISCOVER\XTREME\
+DHOUSE.EXE	307840	53131177	118w	Fisher-Price Dream Doll House (1995).zip						FPDDoll\DHOUSE\
+TERRACE.EXE	429227	673CED5E	1190w	Terrace (1994).zip						Terrace\cd\
+TERROR.EXE	479536	254F20FE	1191w	Terror T.R.A.X. - Track of the Vampire (1995).zip						TerrorTR\TERROR\ENGINE\
+TESSERAE.EXE	1056512	FCFFE947	1192w	Tesserae (Win)(1993).zip						Tess3x\TESS\
+TETRAVEX.EXE	35376	A202F144	1193w	TetraVex (1991).zip						TetraVex\cd\
+TC.EXE	172544	DD45497E	1194w	Tetris Classic (Win)(1992).zip						TetC3x\GOLDTET\TCWIN\
+GOLDTET.ISO	58972160	7B4E41F6	1195w	Tetris Gold (Win)(1993).zip		image				TetG3x\CD\
+Skull.img	223134240	4508A57E	1196w	They Call Me... The Skul (Win)(1996).zip		image				TCMSkul\cd\
+TTW.EXE	18864	E24B0587	1197w	Thinkin' Things Collection 1 (1993).zip						TTC1\EDMARK\CD\TT\
+TT2W.EXE	18960	894249AB	1198w	Thinkin' Things Collection 2 (1995).zip						TTC2\EDMARK\CD\TT2\
+TT3.EXE	1043968	7DC2D7F7	1199w	Thinkin' Things Collection 3 (1995).zip						TTC3\EDMARK\TT3\
+shark16.exe	947082	ADDF5CF7	11w	Shark! (1999).zip						ambShrk\CD\
+SKYISLAN.EXE	3673088	4DE32CCC	1200w	Thinkin' Things - Sky Island Mysteries (1998).zip						TTSiM\EDMARK\SKYISLAN\
+TC.EXE	297296	566BAD70	1201w	THiNK-X (1996).zip						THiNK-X\THINK_X\
+TMW.EXE	1940480	A05A2FAD	1202w	This Means War! (1996).zip						ThisMean\MPS\WAR\
+TL.EXE	471040	EEC0BFD8	1205w	Timelapse (1996).zip			run.bat	290	08455F37	Timelaps\TLAPSE\
+TOS.EXE	79872	9910E362	1206w	Time Out Sports - Basketball (1994).zip						TimeOutS\TOS\
+DRBRAIN4.EXE	777728	C1CF662A	1207w	The Time Warp of Dr. Brain (1996).zip						TheTimeW\SIERRA\DRBRAIN4\
+cd.BIN	253611456	F6A2B4EF	1209w	Timmy and the Magic Pictures (1995).zip		image				Timmyand\cd\
+SLEIGH.EXE	744124	12533150	120w	Follow That Sleigh! (1994).zip						FTSleigh\SLEIGH\
+TI.EXE	461824	30E05D74	1210w	Titanic - Adventure Out of Time (1996).zip						TitAdvOT\TITANIC\
+titncdtd.img	764564640	22E68926	1211w	Titanic - A Mysterious Undersea Adventure (1998).zip		image				TitMyst\cd\
+cd.BIN	387122736	38128D07	1213w	Tonka Construction (1996).zip		image				TonkaCon\cd\
+TONKA_SR.EXE	561984	A6A96A3D	1214w	Tonka Search and Rescue (1997).zip						TonkaSea\HASBRO\TONKA_SR\
+TORTOISE.EXE	58880	8D4CD203	1215w	The Tortoise and the Hare (1993).zip						TheTorto\cd\
+TOTAL_D.EXE	700747	AA156A74	1216w	Total Distortion (1995).zip						TotalDis\TOTAL_D\
+MANIA.EXE	990736	B9764325	1217w	Total Mayhem (1996).zip						TotalMay\MANIA\
+i100_203.img	104767488	F8811617	1218w	Tower (1995).zip	boot					Tower\
+TRACON.EXE	538080	7EEA5FC6	1219w	Tracon II for Windows (1993).zip						Trac2Win\cd\
+GEMSTORM.EXE	3859968	1E9DC132	121w	GemStorm (1995).zip						GemStorm\CD\
+TCVWIN.EXE	230912	CBC75259	1220w	Super Solvers - Treasure Cove! (1994).zip						SSTC3x\TLCWIN\TCVCD\
+TMS16.EXE	384000	2BC73A0D	1222w	Super Solvers - Treasure MathStorm! (1996).zip						SSTMS3x\TLCWIN\TMSCD\
+TQUEST.EXE	1692672	5CFAF1BA	1223w	Treasure Quest (1996).zip						TrQuest\TQUEST\
+PURSUIT.EXE	95876	42FB0DAE	1226w	Trivial Pursuit Interactive Multimedia Game (1994).zip						TPIMG\PURSUIT\
+TROGGLE.EXE	456208	90DD182C	1227w	Troggle Trouble Math (1994).zip						TroggleT\MECC\TROGGLE\
+TBASS2.EXE	593920	B1CC6502	1228w	Trophy Bass 2 Deluxe (1998).zip						TrophyBa\SIERRA\TBASS2\
+TRUDY.EXE	807936	808F2B65	1229w	Trudy's Time and Place House (1995).zip						TrudysTi\EDMARK\TRUDY\
+GOLF.EXE	134928	C4FD7EE0	1231w	Twisted Mini Golf (1995).zip						TwistedM\MINIGOLF\
+BREAKOUT.EXE	466432	10C95F09	1232w	TZ-Breakout (1996).zip						TZ-Break\BREAKOUT\
+MGOLF.EXE	609792	AF6DB1E2	1233w	TZ-Minigolf (1995).zip						TZ-Minig\MGOLF\
+USC.EXE	201022	41F0381B	1235w	The Ultimate Solitaire Collection (1994).zip						UltSoli\cd\
+cd.iso	87738368	6920CC86	1237w	Ultimate Yahtzee (1996).zip		image				Ultimate\cd\
+UV31.EXE	1098177	9676C223	1238w	UltraVixen (1997).zip						Uvixen\cd\
+cd.BIN	269692080	2BEE5DC1	123w	Gus And The Cyberbuds - Sing, Play, and Paint A Long (1994).zip		image				GUSBuds\CD\
+UNINV.EXE	476672	77C042E6	1241w	Uninvited (1993).zip						Uninvi3x\cd\
+WLOADER.EXE	485888	93C8D881	1245w	Urban Runner (1996).zip						UrbanRun\SIERRA\URBAN\
+cd.BIN	3920784	346CFE63	1249w	Video Casino Games (1994).zip		image	run.bat	516	8F7BDF4B	VideoCas\
+SIERRAWH.EXE	649084	63837346	124w	Hoyle Childrens Collection (1996).zip			run.bat	574	B9D87ECF	HoyleCC\
+VK.EXE	1347983	58B9C996	1250w	Vikings - The Strategy of Ultimate Conquest (1996).zip						Vikings-\VSUC\
+mdi-vsoh.bin	494392752	DC4B4852	1252w	Virtual Surgeon - Open Heart (1997).zip		image				VSOH3x\CD\
+cd.BIN	770576352	FC841E4E	1253w	Virtual Vegas - Turbo Blackjack (1995).zip		image				VirtualV\cd\
+VOODOO.img	655554144	16266400	1254w	VooDoo Kid (1997).zip		image				VooDooKi\cd\
+VORTEX.EXE	803712	835DCF99	1255w	The Vortex - Quantum Gate II (1994).zip						TheVorte\VORTEX\
+COMP.EXE	1148391	C04048EF	1257w	Wallace and Gromit Fun Pack (1996).zip						WallaceG\BBCWG\
+WHSHR31.EXE	576000	199DEB53	1259w	Warhammer - Shadow of the Horned Rat (1996).zip						Warhamme\WHSHR\
+BATTLWAR.EXE	518144	0A2C3B06	125w	Hoyle Battling Ships And War (1998).zip						HoyleBSW\SIERRA\BATTLWAR\
+WARHEAD.EXE	62464	C0B0BD64	1260w	Warhead (1991).zip						Warhead\cd\
+WARPATH.EXE	332864	435828CB	1261w	Warpath (1994).zip						Warpath\cd\
+cd.iso	504483840	E19171D4	1262w	We are Angels (1997).zip		image				WeareAng\cd\
+WEIRD31.EXE	389232	34589EB0	1263w	Weird - Truth is Stranger than Fiction (1997).zip						Weird-Tr\TPZERO\
+WTTF.EXE	99216	383772FF	1264w	Welcome to the Future (1995).zip						Welcomet\BLUESKY\
+WHEEL.EXE	345088	2110E8C5	1265w	Wheel Of Fortune (1994).zip						WF3x\CD\
+CARMEN.EXE	550416	4C01D8D7	1266w	Where in the World is Carmen Sandiego (CD-ROM)(1995).zip						Whereint\WORLD3\
+OSCAR.EXE	665600	006FA08F	1267w	Who is Oscar Lake (1996).zip						WhoisOsc\OSCAR\
+cd2.bin	450263040	B60F613F	1268w	Who Killed Brett Penance - The Environmental Surfer (1994).zip		image				WKBrett\cd\
+cd2.bin	246853632	0BC6F0BF	1269w	Who Killed Sam Rupert - Virtual Murder 1 (1993).zip		image				WKSam\cd\
+PERFECT.EXE	810298	A650EC78	126w	How To Be Perfect (1995).zip						How2bPrf\PERFECT\
+cd2.bin	644093952	873446C6	1270w	Who Killed Taylor French - The Case of the Undressed Reporter (1994).zip		image				WKTaylor\cd\
+WIDGET.EXE	684032	934B9F63	1272w	Widget Workshop - The Mad Scientist's Laboratory (1995).zip						WidgetWo\WIDGET\
+WINADV.EXE	111824	D5E1DAEF	1273w	WinAdv (1992).zip						WinAdv\cd\
+WBLOCKER.EXE	360192	90468DD3	1274w	Winblocker (1996).zip						Winblock\cd\
+WINFIGHT.EXE	175616	B9824D56	1275w	WinFight (1993).zip						WinFight\cd\
+WBAFFLE.EXE	188960	C1EBEA7A	1276w	WinGenius (1994).zip			run.bat	753	F94A6BA9	WinGeniu\
+WINGSSP.EXE	378384	DE961357	1277w	Wings - Saigon to Persian Gulf (1998).zip						Wings-Sa\DISCOVER\WINGSSP\
+WINRISK.EXE	220672	0C267C57	1278w	WinRisk (1992).zip						WinRisk\cd\
+WINROIDS.EXE	346880	F46088E9	1279w	WinRoids (1993).zip						WinRoids\cd\
+WINTREK.EXE	143712	E5AA8973	1280w	WinTrek (1992).zip						WinTrek\cd\
+WISH31.EXE	1026617	CE65869C	1281w	Wishbone and the Amazing Odyssey (1996).zip						Wishbone\WISHBONE\
+EMPIRE.EXE	411785	D45CD5DA	1283w	World Empire III (1994).zip						WorldEmp\cd\
+PLAGUE.EXE	380928	93B1BE43	1284w	World of Aden - Entomorph - Plague of the Darkfall (1995).zip						WorldofA\ENTO\
+WOTG.img	609890064	D46DC50B	1285w	Wrath of the Gods (1994).zip		image				WraGods\cd\
+Wyatt Earp's - Old West.bin	742519344	D6018207	1286w	Wyatt Earp's Old West (1994).zip		image				WyattEar\cd\
+XFOOLS16.EXE	1732991	F07A0BE5	1287w	The X-Fools - The Spoof is out There (1997).zip						TheX-Foo\PARROTY\X-FOOLS\
+XPLORA1.EXE	1064281	92C6594A	1288w	Xplora 1 - Peter Gabriel's Secret World (1993).zip						Xplora1\XPLORA1\
+MS_GEO.EXE	710977	9FEB60C7	1289w	Yearn2Learn - Master Snoopy's World Geography (1995).zip						Y2LSnoop\MS_GEO\
+ICE.EXE	227520	9E15362E	128w	Icebreaker (1996).zip						IceBreak\ICEBREAK\
+SNOOPY.EXE	418576	014471D5	1290w	Yearn2Learn - Peanuts (1994).zip						Y2LPean\Y2L_SNPY\
+YBR.EXE	369007	306C3A72	1291w	Yellow Brick Road (1996).zip						YellowBr\YBR\
+YDKJ101.EXE	297472	4825358C	1292w	You Don't Know Jack (1995).zip						YDKJ\SIERRA\YDKJ\
+MOVIES16.EXE	476672	63F9D24D	1294w	You Don't Know Jack Movies (1996).zip						YDKJMov\YDKJMVS\
+YDKJS.EXE	301568	01B33DF5	1296w	You Don't Know Jack Sports (1996).zip						YDKJSprt\YDKJS\
+YDKJTV16.EXE	491008	DDA9C2E2	1297w	You Don't Know Jack - Television (1997).zip						YDKJTV\YDKJTV\
+YDKJV2.EXE	429568	6463DFA6	1298w	You Don't Know Jack - Volume 2 (1996).zip						YDKJ2\YDKJ2\
+YDKJ316.EXE	535040	59511AED	1299w	You Don't Know Jack - Volume 3 (1997).zip						YDKJ3\YDKJV3\
+VAMP.EXE	156058	2015943	12w	Vampire (1996).zip						ambVamp\WINDOWS\VAMP\
+YDKJ.EXE	302080	219A4401	1300w	You Don't Know Jack XL (X-Tra Large)(1996).zip						YDKJXL\YDKJ\
+HIJINKS.EXE	30104	6536D986	1301w	Young Dilbert Hi-Tech Hijinks (1997).zip						YoungDil\KNOWWNDR\
+cd.ISO	612257792	B63A94D4	1307w	Police Quest 4 - Open Season (Win)(1993).zip		image				PQ43x\CD\
+SIERRAWH.EXE	730241	094BAA0D	1308w	Police Quest SWAT (Win)(1995).zip						PQSWAT3x\SIERRA\SWAT\
+RESOURCE.WIN	290	F9763FB7	1309w	Leisure Suit Larry 6 - Shape Up or Slip Out! (1994).zip						lsl6win\SIERRA\LSL6CD\
+IC.EXE	1631778	A2651325	130w	Island Casino (1995).zip						IslCasi\IC\
+RESOURCE.WIN	459	86BF3B5E	1310w	Leisure Suit Larry - Love for Sail! (Win)(1996).zip						LSL73x\SIERRA\LSL7\
+SIERW.EXE	723054	42039864	1313w	Lighthouse - The Dark Being (Win)(1996).zip						LitHou3x\SIERRA\LIGHTWIN\
+WORLD.EXE	209168	B45BFC7F	1315w	Out of This World (1994).zip						OOTW3x\CD\
+STORMWIN.EXE	892928	68B03A9B	1316w	S.T.O.R.M. (Win)(1996).zip						STORM3x\STORM\
+RESOURCE.WIN	479	29E36BA0	1317w	Torin's Passage (Win)(1995).zip						Torin3x\SIERRA\TORIN\
+cd.BIN	247258704	F34F0D8D	1318w	Liam Finds a Story (1996).zip		Image				LiamStor\cd\
+cd.BIN	544062288	BC387ACA	1319w	Imo and the King (1995).zip		image				ImoKing\cd\
+ATTIC.iso	445800448	A0007028	131w	Jack's Attic (1997).zip		image				JackAtic\CD\
+cd.BIN	276868032	9960AC97	1320w	The Berenstain Bears - In The Dark (1996).zip		image				BBitD\cd\
+cd.BIN	259623168	DFFAC1B0	1321w	The Princess and the Crab (1996).zip		image				PrinCrab\cd\
+TBOOK.EXE	398880	23154370	1322w	Adventures of Ninja Nanny & Sherrloch Sheltie - No 11 Downing Street (1993).zip						NinjaNan\NINJA\
+cd.BIN	551572224	919AA07A	1323w	Timmy the Dream Hunter (1996).zip		image				TimmyDH\CD\
+cd.BIN	661370640	D4155AD8	1324w	Kid Vid Grid (1994).zip		image				KVidGrid\CD\
+BRICKS.EXE	713472	2E27A472	1325w	Bricks (1996).zip						GBricks\BRICKS\
+WHEADS16.EXE	1035809	BE14CEE9	1328w	Word Heads (1997).zip						WordHeds\WordHead\
+KIDPUMP.EXE	62192	C7494652	1329w	Kid's Pumpkin Puzzles (1998).zip						AmbKPP\WINDOWS\GAMES\
+JEOPARDY.EXE	637440	67202147	132w	Jeopardy with TV and Movie Pack (1996).zip						JeopTV\JEOPARDY\
+PUMP3D.EXE	63392	3E65C383	1330w	3D Pumpkin Puzzles (1998).zip						Amb3DPP\WINDOWS\GAMES\
+MYSTEGG.EXE	63392	4801CE3D	1331w	Mystery Egg (1999).zip						AmbME\WINDOWS\GAMES\
+MONSTER.EXE	63648	A38B0C79	1332w	Monster in the Park (1999).zip						AmbMitP\WINDOWS\GAMES\
+TRACKS.EXE	63648	D31BF2D2	1333w	Off the Tracks (1998).zip						AmbOtT\WINDOWS\GAMES\
+XMASMAZE.EXE	63648	4006E04C	1334w	Reindeer Mazes (1997).zip						AmbRein\WINDOWS\GAMES\
+VALPUZ98.EXE	63648	3C787E9E	1335w	Valentine Puzzles '98 (1998).zip						AmbVP\WINDOWS\GAMES\
+HOYLECG.EXE	649084	63837346	1336w	Hoyle Classic Games (1998).zip						HCG3x\SIERRA\HOYLECG\
+NFLREAD.EXE	701056	C1545394	1338w	Head Coach - NFL Reading (1996).zip						NFLRead\SWKIDS\NFLREAD\
+CARD.EXE	1783296	BDC91F62	1339w	Hoyle Classic Card Games (Win)(1997).zip						Hcc3x\SIERRA\HCCG\
+BACCARAT.EXE	571460	2458B1FC	133w	Las Vegas Super Casino (1997).zip						LVSupCas\LVCASINO\
+cd.BIN	132998544	8C972F63	1340w	Gus and The Cyberbuds - Write On! (1996).zip		image				GUSWrite\CD\
+cd.BIN	78032304	8E433E57	1341w	Virtual Chess (Win)(1995).zip		image				vchess\cd\
+cd.BIN	262939488	B316457A	1342w	Sleeping Cubs Test of Courage (1996).zip		image				SleepCub\cd\
+cd2.BIN	80130288	706055D8	1344w	Gus and The Cyberbuds - Stellar Game Cellar! (1996).zip		image				GUSSGC\CD\
+CRIBBAGE.EXE	61440	E7F41CAA	1345w	Cribbage (1991).zip						Crib3x\CD\
+MB.EXE	125952	C0704167	1346w	Mile Bones (1994).zip						MileBone\CD\
+INTERMIS.EXE	42221	70C6025D	1347w	FarSide Screen Saver Collection (1994).zip						FarSide\FLOPPY\
+INTERMIS.EXE	42221	0C47CC4E	1348w	Opus 'n Bill Brain Saver (1993).zip						OpusBill\FLOPPY\
+INTERMIS.EXE	45537	4D2EC9A5	1349w	Dilbert Screen Saver Collection (1994).zip						DilbertS\FLOPPY\
+MATE.EXE	185360	9B03DA6D	134w	Madeline And The Magnificent Puppet Show (1995).zip						MadPupSh\MATE\
+3DPC.EXE	209920	5DE44A5E	1350w	3DPC (1993).zip						3DPC\3DPC\
+JPSAVER.EXE	93312	2F4AF637	1351w	Jurassic Park Screen Saver (1993).zip						JPSS\WINDOWS\
+SCRANTIC.SCR	295952	172548CD	1352w	Johnny Castaway (1992).zip						JCastawy\WINDOWS\
+ORIGINFX.EXE	452112	E6415C02	1353w	Origin FX (1992).zip						OriginFX\ORIGINFX\
+500_NATIONS.img	748063008	51390AEE	1354w	Microsoft 500 Nations (1995).zip		image				MS500N\CD\
+ART_GALLERY.iso	672698368	1AF82392	1355w	Microsoft Art Gallery (1993).zip		image				MSArtG\CD\
+MSDOGS.iso	473305088	1C44960E	1356w	Microsoft Dogs (1995).zip		image				MSDogs\CD\
+DINOSAURS.iso	407181312	62DFC4AD	1357w	Microsoft Dinosaurs (1993).zip		image				MSDino\CD\
+MS_FLIGHT.iso	657010688	D7E02DFC	1358w	Microsoft World of Flight (1995).zip		image				MSWoF\CD\
+CNMNIA95.EXE	1187200	AF18CB7D	1359w	Microsoft Cinemania '95 (1995).zip						MSCine\CIN95\
+MARTYWIN.bin	457165296	EEDB974F	135w	Marty And The Trouble With Cheese (1996).zip		image				MartChes\CD\
+ENCART95.EXE	2171456	E726631A	1360w	Microsoft Encarta '95 (1994).zip						MSEncart\ENCARTA\
+NATURE.EXE	163356	B2D0CD37	1361w	Microsoft Explorapedia - The World of Nature (1995).zip						MSWoN\MSKIDS\EXPLORA\
+PEOPLE.EXE	48640	44E667A4	1362w	Microsoft Explorapedia - The World of People (1995).zip						MSWoP\MSKIDS\EXPLORA\PEOPLE\
+BKTBALL.EXE	1555040	4A182EA4	1363w	Microsoft Complete NBA Basketball Guide '94-'95 (1994).zip						MSBskt95\BKTBALL\
+BASEBALL.EXE	1596576	06321EB6	1364w	Microsoft Complete Baseball - 1994 Edition (1993).zip						MSCBB94\BASEBALL\
+BS95.EXE	1801344	C4043526	1365w	Microsoft Complete Baseball - 1995 Edition (1994).zip						MSCBB95\MSBS95\
+MOZART.EXE	248343	3FDC5BDB	1366w	Microsoft Multimedia Mozart (1994).zip						MSMozart\MOZART\
+SCHUBERT.EXE	233062	DA26A9B4	1367w	Microsoft Multimedia Schubert (1993).zip						MSSchbrt\SCHUBERT\
+ENCART94.EXE	1341952	08EEABA1	1371w	Microsoft Encarta '94 (1993).zip						MSEncr94\ENCARTA\
+cd.iso	189218816	9BC88625	1372w	Who's Fat Lou (1996).zip		image				FatLou\CD\
+MENU.EXE	282432	47969375	1373w	Escher Interactive - Exploring the Art of the Infinite (1996).zip						Escher\ESCHER\
+ASIMOV.EXE	210976	BA74A53A	1374w	Isaac Asimov's - The Ultimate Robot (1994).zip						MSAsimov\ASIMOV\
+MVIEWER2.EXE	286704	4480FFDA	1375w	Microsoft Cinemania '94 (1994).zip						MSCine94\WINDOWS\SYSTEM\
+BSHELF95.EXE	816064	4D9CA9CF	1376w	Microsoft Bookshelf '95 (1995).zip						MSBook95\BOOKS95\
+cd.iso	602650624	B8A2F59C	1377w	The Ultimate Frank Lloyd Wright - America's Architect (1994).zip		image				MSFLW\CD\
+VNC.EXE	726643	04D72076	1378w	Virtual Nightclub - A Game About Time (1997).zip						VRNClub\VNC\
+cd.iso	594436096	A42BCAC4	1379w	A Case for Cap & Co. (1997).zip		image				Case4Cap\CD\
+MRPACTPK.EXE	1913664	6B92AFC6	137w	Mr. Potato Head Activity Pack (1998).zip						MrPotHAP\MRPOTATO\
+RNRYO.EXE	165904	021FA530	1380w	Rock'N Roll Your Own (1995).zip						RNRYO\RNRYO\
+cd.iso	512376832	5E3EFF40	1381w	Four-Sight (1995).zip		image				FourSite\CD\
+cd.iso	576808960	440F7CCF	1382w	Elroy's Costume Closet (1996).zip		image				ElroyCC\CD\
+LIGHTS.EXE	691061	C2FAADCB	1383w	Lights Out 3D (1996).zip						LitOut3D\LIGHTX\
+SONIC.EXE	241152	C2B980F2	1384w	Sonic's Schoolhouse (1997).zip						SonicSH\SONIC\
+cd.iso	386435072	3600C33E	1385w	Drivin' Route 66 (1995).zip		image				Route66\CD\
+cd.iso	140034048	24B167DE	1386w	Operation Odin (1996).zip		image				OperOdin\CD\
+cd.iso	85587968	8C225A2B	1387w	Adventures of Busy Billy, The (1996).zip		image	run.bat	363	7E61B0CA	BusyBily\
+cd.iso	652955648	6CBE1756	1388w	Bug Explorers (1996).zip		image				BugExplr\CD\
+cd.iso	628539392	7A743FFE	1389w	Atomic Chill (1996).zip		Image				AtomChll\CD\
+TOYSHOP.bin	560897904	C95323F8	138w	Mr. Wonder's Greatest Toyshop On Earth (1996).zip		image				MrWonGTE\CD\
+cd.iso	532905984	5419EF51	1390w	Four Footed Friends (1994).zip		image				4FootFnd\CD\
+HORSE.EXE	177664	9A7F0311	1391w	A Day at the Races (1994).zip						DayRaces\CD\
+NCC1701.EXE	164409	F6F85555	1392w	NCC-1701 (1992).zip						NCC1701\floppy\
+4play.exe	150528	3555D3DA	1393w	4 Play (1993).zip						4play\CD\
+WINBB.EXE	1093632	955A3EF2	1396w	APBA presents - Baseball for Windows (1995).zip						APBABBall\BBW\
+CSUSA.EXE	630272	5F324BDA	13w	Where in the USA is Carmen Sandiego (1996).zip						CSUSA\CSUSA\
+FIGHT.ISO	134590464	58557CED	1405w	Berenstain Bears, The - Get in a Fight (1995).zip		Image				BBearFig\CD\
+PVTEYE.EXE	570368	C17FC38E	140w	Philip Marlowe Private Eye (1996).zip						PMPriEye\PVTEYE\
+CASTLE1.EXE	833456	F1381DB2	1412w	Castle of the Winds (1993).zip			run.bat	449	ABE47E44	CasWin1\
+CASINO.EXE	15774136	00DF1345	141w	Play To Win Casino (1998).zip						p2wincas\PLAY2WIN\
+cd.BIN	359630208	0FBB21FF	142w	Play-Doh Creations (1996).zip		image				PDohCre\CD\
+Plot of the Cyberhead.img	236256048	E8470587	143w	Plot Of The Cyberheads (1995).zip		image				PlototCH\CD\
+STAR.EXE	503280	61857577	1447w	Stardate 2140.2 - Crusade in Space (1994).zip						CrusSpac\CRUSADE\
+POWERWIN.EXE	461312	B9FC347F	144w	Power - The Game (1995).zip						PowerIBM\PWRCDROM\
+_PIXIE_DUST.bin	447061104	B0EB57C3	146w	Pixie Dust (1994).zip		Image				PixiDust\CD\
+OUTDOORS.EXE	10549	EBE936A7	147w	Sportsman's Paradise (1998).zip						SpPara3x\OUTDOORS\
+SHEADS16.EXE	1035801	5DE6CB74	148w	Strategy Heads (1997).zip						StratHed\SHeads\
+COLONIZE.EXE	1175040	68455E45	1490w	Sid Meier's Colonization (1994).zip						SMCol3x\MPS\COLWIN\
+MATHHD16.EXE	1034189	4817AF5C	149w	Math Heads (1996).zip						MathHead\MATHHEDS\
+TIME16.EXE	1033744	2243B767	14w	Where in Time is Carmen Sandiego (1997).zip						CSTime\TIME3\
+cd.BIN	350826672	CA07BD7A	150w	Superman Activity Center (1997).zip		image				SupManAc\CD\
+TILES.EXE	651004	48E52307	151w	Tiles And Tribulations (1993).zip						TileTrib\CD\
+TOMSTART.EXE	698495	FC6EB44D	152w	Tommy (1996).zip						Tommy3x\INTRPLAY\TOMMY\
+TOYSTORY.EXE	1638912	436B1889	153w	Toy Story Power Play (1996).zip						ToySto3x\DISNEY\TOYSTORY\
+cd.BIN	338629200	B38F3AD0	154w	Treasure Hunt, The (1995).zip		image				TrHunt3x\CD\
+TT.img	19855584	CFDA6708	155w	Triple Threat - An Arcade Adventure (1995).zip		image				TripThrt\CD\
+cd.BIN	168685440	BDFA01F2	156w	Trivia Worx (1995).zip		image				TrivWorx\CD\
+VICORDEF.EXE	990208	3ED5D2C9	158w	Victory Or Defeat (1995).zip						VicODef\VICTORY\
+cd.BIN	548961504	5726C534	159w	Vid Grid (1994).zip		image				VidGrid\CD\
+DS.EXE	486816	555DD390	15w	Drain Storm (1997).zip						dranstrm\
+V3.EXE	731632	24B3567C	160w	Video Cube Space (1993).zip						ViCubSpc\V3\
+KNEX16.EXE	629248	D3AC482C	161w	Virtual K'Nex (1998).zip						Vknex\FOX\K'NEX\
+WAM.EXE	2894848	17B7373D	162w	Whac-A-Mole (1994).zip						WhacMole\WAM\
+WHEEL.EXE	345088	2110E8C5	163w	Wheel Of Fortune Featuring Vanna White (1992).zip		Image				WFVW3x\CD\
+WIZARD.EXE	693760	7F4EE3EB	164w	Wizardry Gold (1996).zip						WizGold\WIZGOLD\
+START16.EXE	1147041	3F68284C	1658w	Skipper and Skeeto - Paradise Park (1996).zip						SkipSket\TOPI\
+cd.iso	546553856	A60C2FD4	165w	I Can Be an Animal Doctor (1997).zip		image				ICBAAD\CD\
+SUPREME.EXE	1664965	41C2C162	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+BOMBER.EXE	1844189	E9176D24	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+AREA51.EXE	1776077	4CC7644F	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+SCIENCE.EXE	1766499	1BEF0D4B	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+WARRIOR.EXE	1751593	CD0122C4	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+NAV.EXE	1834037	A4BE20C7	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+STEVE.EXE	1797301	C415A936	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+DAVE.EXE	1774167	A98E5E65	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+PREZ.EXE	1666293	883ACFD6	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+ALIEN_F.EXE	1754975	3EF535F2	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+F18.EXE	1691893	EC5332AF	166w	ID4 Mission Disks (1996).zip						ID4\POWERDS\
+DUCKCITY.EXE	141488	09C3BCFA	16w	Duck City (1996).zip						DuckCity\DUCKCITY\
+THEJP.EXE	936375	B6415059	1751w	Jolly Postman's Party, The (1997).zip						TheJoll\THEJP\
+FRANK.EXE	741818	9B9D03A4	175w	Interactive History of Frankenstein (1995).zip						IHOFrank\FRANK\
+ATLAS98.EXE	1564672	F96A5387	1762w	3D Atlas '98 (1997).zip						3DAtlas\ATLAS98\
+FISHD121.EXE	109912	729E1663	176w	Fisherman's Delight (1996).zip			run.bat	420	39423D74	FishDel\
+JSBABY.EXE	286256	FE71F12B	177w	Jump Start Baby (1999).zip						JSBaby\KA\JSBABY\
+JSKR.EXE	36850	641273DA	178w	Jump Start Kindergarten Reading (1996).zip						JSKRead\KA\JSKR\
+PRE_K.EXE	266786	4CE9801E	179w	Jump Start Pre-K Year 2 - Trucks N Things (1999).zip						JSPreK2\KA\PRE_K\
+LLWIN16.EXE	16192	4116A7EB	17w	Loony Labyrinth (1995).zip						LoonLaby\WIN32APP\LLW\
+TODDLER.EXE	35048	B2D56320	180w	Jump Start Toddlers (1996).zip						JSTod\KA\TODDLER\
+cd.BIN	685243440	9497D16B	181w	The Little Samurai (1996).zip		Image				LitSam\cd\
+GBLADE.EXE	672896	9E063643	1824w	GayBlade (1992).zip						GayBlade\GBLADE\
+LIONKING.EXE	286400	36BA2BBC	1829w	Disney's Animated Storybook - The Lion King (1995).zip						DLKAS\DISNEY\LKASB\
+LASSIE.TBK	12228239	7F362233	182w	Lassie (1994).zip						Lassie\LASSIE\
+WSOPDELX.EXE	1250272	59582646	183w	World Series of Poker Deluxe Casino Pak (1995).zip						WSPDlxCs\MASQUE\WSOPDELX\
+POCA_ASB.EXE	364736	0EEB6D03	1840w	Disney's Animated Storybook - Pocahontas (1995).zip						DPASB\DISNEY\POCA_ASB\
+RUNEXIT.EXE	180736	DF76AB7A	1846w	Disney's Animated Storybook - The Hunchback of Notre Dame (1996).zip						DHBASB\
+PUZZLE.EXE	1345496	6EAA5CE7	184w	Moving Puzzle - Action Flights (1998).zip						MPAction\PUZZLE\FLIGHTS\
+PUZZLE.EXE	1345496	6EAA5CE7	185w	Moving Puzzle - Motor Sports (1998).zip						MPMotor\PUZZLE\MOTORS\
+MSGOLF.EXE	37152	1BDAF761	1866w	Microsoft Golf (1992).zip						MSGolf\MSGOLF\
+PUZZLE.EXE	1345496	6EAA5CE7	186w	Moving Puzzle - Sea World (1998).zip						MPSeaW\PUZZLE\SEAWORLD\
+TREK.EXE	100272	EC90EF02	1871w	WinTrek 2.0 (1992).zip						WinTrek2\cd\
+KEWALA.BIN	478577904	E0B2BCB5	1872w	Kewala's Typing Adventure (1997).zip		Image				kewala\CD\
+cd.iso	586938368	D31526C4	1873w	Gigglebone Gang, The - Infinity City (1997).zip		image				InfiCity\CD\
+9WORLDS.EXE	741994	766E61FA	1874w	Nine Worlds (1996).zip						9Worlds\9WORLDS\
+cd.iso	630677504	E13EBA0F	1875w	Gigglebone Gang, The - World Tour (1997).zip		image				GBWTour\CD\
+TAXI.EXE	236488	52A8418A	1876w	Planetary Taxi (1995).zip						PlanTaxi\TAXI\
+SCW.EXE	275456	517E957F	1877w	Second Conflict (1991).zip						2ndConf\Floppy\
+BPOKER.EXE	685056	551AA535	1878w	Bicycle Poker (1996).zip						BicPK\POKER\
+mtb30run.exe	643968	BEF1C4A4	1879w	Exotic Japan (1994).zip						ExotJap\EJ\
+PUZZLE.EXE	1345496	6EAA5CE7	187w	Moving Puzzle - Fun Sports (1998).zip						MPFun\PUZZLE\FUNSPORT\
+MUNGO995.iso	111589376	5DA31936	1880w	MUNGO - The Only Pirate Left (1995).zip		image				Mungo\CD\
+Welcome_to_Bodyland_Time-Life_1994.iso	78120960	2671AD6A	1881w	Welcome to Bodyland (1994).zip		image				bodyland\cd\
+MMCRYPTO.EXE	46512	9F70A0D7	1883w	Puzzle Power (1995).zip						PuzzPow\MMPUZPWR\
+PUZZLE.EXE	1345496	6EAA5CE7	188w	Moving Puzzle - Nature Events (1998).zip						MPNat\PUZZLE\NATURE\
+PUZZLE.EXE	1345496	6EAA5CE7	189w	Moving Puzzle - Wild Life (1998).zip						MPWild\PUZZLE\WILDLIFE\
+outp69.img	748683936	919F8937	190w	Outpost 69 - Lust in Space (1996).zip		image				Outpst69\cd\
+OREGON.EXE	278480	A8610592	191w	Oregon Trail (1993).zip						Otrail3x\MECC\OREGON\
+CK1_16.exe	527664	71E9E36B	1921w	Captain Kangaroo - Life's First Lessons Adventure #1 (1998).zip						CKLFL1\CKQUEST\
+AHDN.EXE	78736	CAB54BE4	1922w	Hard Day's Night, A (1993).zip						HardDayA\VOYAGER\AHDN\
+ALICE.bin	669722592	9D2C7677	1923w	Alice's Adventures in Wonderland (1995).zip		image				AAiW\CD\
+i50_101.img	52125696	1A1FE94D	1924w	Amazing Animals Activity Pack (1997).zip		Image				AAAC\
+AVIATION.EXE	30528	69B785B8	1925w	Aviation Adventure (1994).zip						DTKidTyp\CD\
+Batman-ActivityCenter-Win31-Mac.bin	219062928	8F30402D	1927w	Adventures of Batman and Robin, The - Activity Center (1996).zip		image				AdvBRAC\CD\
+PRESENT.EXE	253648	E893E300	1929w	Better Home And Gardens Complete Guide To Gardening (1999).zip						BHGCCG\GARDENS\
+ISLAND.img	687743616	D3921DEE	192w	Mysterious Island - A Race Against Time And Hot Lava (1996).zip		image				MysIsl3x\CD\
+CRAFTPC.EXE	687785	26CEBDE6	1930w	Better Home And Gardens Cool Crafts (1994).zip						BHGCC\CRAFTS\
+atlas.exe	1478016	F3CF6761	1931w	Cartopedia - The Ultimate World Reference Atlas (1996).zip						Cartoped\DKMM\ATLAS\
+AZ_2243.img	477705312	7EEAE113	1932w	Chinese Cooking for the Family (1995).zip		Image				ChiCook\CD\
+PETER.EXE	574976	5BC377ED	1933w	Chuck Jones - Peter and the Wolf (1994).zip						CJPandW\PETERWLF\
+count.exe	372749	B9770080	1935w	Countdown (1992).zip						Countdow\COUNT\
+Dally Doo 1 - Animals.iso	179601408	8E3840D4	1938w	Dally Doo You Can Too! Animals (1998).zip		Image				DDYCTA\CD\
+WINDOG.EXE	375123	F521D182	193w	Prairie Dog Hunt for Windows (1993).zip						PDHunt1\DOG\
+Discover History and Wonders of the World (1997)(Arc Media)[Mac-PC].iso	71616512	03DC3F60	1943w	Discover History (1997).zip		Image				DiscHist\CD\
+TSASB.exe	1660416	BA5039E0	1945w	Disney's Animated Storybook - Toy Story (1996).zip						DisASToy\DISNEY\TSASB\
+WPHTASB.EXE	433024	18EC6D59	1946w	Disney's Animated Storybook - Winnie the Pooh and the Honey Tree (1995).zip						DSPooh\DISNEY\WPHTASB\
+ARIEL_SS.exe	606720	15381E72	1947w	Disney Presents Ariel's Story Studio (1997).zip						DisPASS\DISNEY\ARIEL_SS\
+TSAC.exe	1931264	B98C881F	1948w	Disney's Toy Story Activity Center (1996).zip						DisTSAC\DISNEY\TSAC\
+VIEWER.EXE	284176	CA59F46A	1949w	Don Quixote - A Multimedia Storybook (1992).zip						DonQuixo\VIEWER\
+PDH2JD.EXE	492909	0935B0AA	194w	Prairie Dog Hunt 2 - Judgement Day (1994).zip						PDHunt2\cd\
+SEUSSP16.exe	823296	D6A1DAB0	1950w	Dr. Seuss Preschool (1999).zip						DrSeusPr\SEUSS_PS\
+SINGK.EXE	347632	DA71A78F	1951w	Dr. T's Sing-A-Long Kid's Classics (1993).zip						DrTSing\SING\
+Dream Team - Kid's Typing (1993)(Sierra)[Mac-PC].iso	34377728	BBC47D9F	1952w	Dream Team - Kid's Typing (1993).zip		Image				DTKidTyp\CD\
+i150_304.img	156893184	FE0E963E	1953w	Eyewitness Virtual Reality Earth Quest (1997).zip						EarthQue\
+BIRD.EXE	2255936	63850887	1954w	Eyewitness Virtual Reality Bird (1995).zip						EWVRBird\DKMM\BIRD\
+DINO.EXE	1705280	4C820609	1955w	Eyewitness Virtual Reality Dinosaur Hunter (1996).zip						EWVRDino\DKMM\DINO\
+GAMES.EXE	271056	95A12E2B	1956w	Focus Essential Senior Word Games (1997).zip						FocusEWG\LANGSUPP\SWG\
+Free Willy 3 Activity Center (Sound Source Interactive) (1997).iso	372277248	AA8EA28A	1957w	Free Willy Activity Center (1997).zip		image				FWAC\CD\
+PIPE.EXE	86528	9D01B23A	195w	Pipe Dream (1990).zip						PipDr3x\CD\
+cd.BIN	458040240	EE30A3BA	196w	One Small Square (1995).zip		image				OSQ\cd\
+RUFF.EXE	61952	00DB024E	197w	Ruff's Bone (1994).zip						ruffbone\cd\
+LSLWIN.EXE	250880	604610F1	198w	Reader Rabbit and Friends - Let's Start Learning (1995).zip						RRabbP\TLCWIN\LSLWIN\
+HERO.EXE	63648	A1CFCE75	1w	Hero's Adventure (1996).zip						ambHA\WINDOWS\GAMES\
+WIGGINS.EXE	145184	F2A0EEE4	200w	Wiggins in Storyland (1995).zip						Wiggin3x\WIGGINS\
+MATH.EXE	116016	CAEE442A	2011w	Great Math Adventure (1995).zip						GMA\KIDWORLD\WORDMATH\
+RRIRJW16.EXE	299008	43943811	201w	Reader Rabbit's Reading Journey 1 (1996).zip						RRRJ1\TLCWIN\RRIRJ\
+Hunchback.iso	541396992	612DE12B	202w	The Secret of the Hunchback (1996).zip		image				SecHunch\cd\
+SGPC3.EXE	173568	319EC07E	203w	Smart Games Puzzle Challenge 3 (1998).zip						SGC3\SGPC3\
+START16.EXE	1588457	303C6A0A	204w	Millie Meters Nutrition Adventure (2001).zip						MilMete1\TIVOLA\MILLIE1\
+BEAUTY.img	251823936	B20B1AB8	205w	Beauty and the Beast (1996).zip		image				beast96\cd\
+GULLIVER.img	278354496	0FBE28A7	206w	Gulliver's Voyage To Lilliput (1996).zip		image				Gulliver\CD\
+ALPHA.EXE	1008962	61054572	207w	Space Station Alpha - The Encounter (1996).zip						spstalph\TBLAZERS\ALPHA\
+CLUBHSE.exe	368245	29DF07A9	2086w	Dandy Dinosaurs (1993).zip						DandDino\DNDYDINO\
+AFORCE.EXE	32960	664A5607	208w	Fun Pack 3 (1995).zip			run.bat	1091	8984FD4C	funpack3\
+CITIES.EXE	43610161	C77DBF4E	2093w	Exploring Ancient Cities (1995).zip						ExplAC\SUMERIA\A_CITIES\
+NUMBERS.ICO	766	142030D9	209w	Sesame Street - Numbers (1999).zip						SSNumb\CWONDERS\NUMBERS\
+GeoSafari.img	517491744	D0CA1F97	20w	GeoSafari (1997).zip		image				GeoGeo\
+cd.BIN	355690608	5478B208	210w	Sesame Street - Art Workshop (1995).zip		image				SSArtW\CD\
+SOLWIN.EXE	332288	F1748979	211w	Solitaire's Journey (Win)(1992).zip						SoliJ3x\SJW\
+SSPRO16.EXE	954372	DADF7E4F	212w	Sink Sub Pro (1997).zip						SinkSubP\SSPRO\
+BALLY.EXE	42512	DF92A6B8	213w	Bally (1999).zip						bally3x\WINDOWS\GAMES\
+OZMM.EXE	369250	A829E14E	214w	Legends of Oz (1993).zip						LegOz\OZ\
+DISCIS.EXE	505360	172136EB	215w	Aesop's Fables (1994).zip						AesopF\DISCIS\
+GOATS.img	631382640	80858CF2	216w	Wolf and the Seven Little Goats, The (1995).zip		image				WolfGoat\CD\
+TOS.EXE	79360	69B2F57E	217w	Time Out Sports - Baseball (1994).zip						TimeOutB\TOS\
+EMPIREIV.EXE	746828	15576EA6	218w	World Empire IV (1996).zip						WorEmp4\Empire\
+Baba Yaga and the Magic Geese (1995)(Davidson and Associates)[Mac-PC].iso	526966784	22DE5CE3	2219w	Baba Yaga and The Magic Geese (1995).zip		image				BabaYaga\CD\
+AMGIRL16.EXE	567232	5E7E34AE	222w	The American Girls Premiere (1997).zip						AmGirl\TLC\AMGIRLS\
+arthur.img	170461200	C947BAC2	223w	Arthur's Birthday (1994).zip		image				arthbday\cd\
+BG.EXE	83264	B8A7994C	224w	Backgammon (1990).zip						bkgam3x\
+TUNELAND.EXE	23968	668E6552	225w	Tuneland (1994).zip						tuneland\TUNELAND\
+V_COMICS.BIN	728875392	FDCFAECA	2265w	Suit, The (1996).zip		Image				TheSuit\CD\
+ZEEP.iso	600305664	750D3901	226w	Tales Of The Wild Zeep (1994).zip		image				TaleZeep\cd\
+RBLASTER.EXE	324032	E6345B72	227w	Reading Blaster Invasion of the Word Snatchers (1994).zip						ReadBlas\RBLASTER\
+PLAYTN.EXE	455680	5CB7CE32	228w	Playtoons - Vol 1-4 (1994).zip						playtoon\SIERRA\PLAYTOON\
+cd.bin	385826784	AE9CE844	229w	Math Blaster Mystery - The Great Brain Robbery (1994).zip		image				MathBlaM\cd\
+START16.EXE	1268262	88A3C107	22w	Oscar the Balloonist Drops into the Countryside (2001).zip						OtBDitC\TIVOLA\OSCAR4\
+mathblaster.img	253004640	3422EE10	230w	Math Blaster - Episode 1 - In Search of Spot (1994).zip		image				MathBla1\cd\
+HAUNTED.EXE	478656	0ADDC614	231w	Magic Theatre - Haunted House (1995).zip						hauhou\cd\
+mt.exe	383008	216A4E83	232w	Magic Theatre (1994).zip						magtheat\MT\
+OSLOWOW.exe	1017261	FAE9C59E	2333w	Adventures With Oslo - World of Water (1995).zip						OsloWW\OSLO\
+MSBSOLAR.EXE	32576	B53BDE7C	233w	Scholastic's The Magic School Bus Explores the Solar System (1994).zip						MSBSS\MSKIDS\MSBSOLAR\
+SNOOPY.EXE	418576	014471D5	2340w	Yearn2Learn - Snoopy (1994).zip						Y2LSnoo\Y2L_SNPY\
+LEMMINGS.EXE	113152	4DDCAFDB	2342w	Lemmings for Windows (1995).zip						Lemm3x\LEMMINGS\
+KEROPPI.EXE	371272	E74C1904	234w	Keroppi Day Hopper (1994).zip						keroppi\BIGTOP\KEROPPI\
+KITTY.EXE	703689	4F31E264	235w	Hello Kitty - Big Fun Deluxe (1994).zip						HelloKBF\BIGTOP\HKCDFUN\
+DAZZ.EXE	1034266	FFA9AC7F	236w	Dazzeloids (1994).zip						dazzoids\DAZZ\
+ALPHABONK_F.bin	513091152	F15418A4	237w	Alphabonk Farm (1994).zip		Image				alphbonk\cd\
+HERC_ASB.EXE	543040	6F17A3BC	238w	Disney's Hercules Animated Story Book (1997).zip						DisnHerc\DISNEY\HERC_ASB\
+PATTERNS.EXE	532458	4E547900	239w	ZAARK and the Night Team - The Quest for Patterns (1995).zip						Zaark\PATTERNS\
+OSHOF31.EXE	1076653	B35BB355	23w	Oscar the Balloonist Discovers the Farm (2001).zip						OtBDtF\TIVOLA\OSCAR2\
+MURDER.EXE	115408	46D8893B	240w	Murder, She Wrote - Mystery Jigsaw Puzzles (1996).zip						MSWJSaw\MSW\
+CLOCKWRX.EXE	239792	984EA939	242w	ClockWerx (1995).zip						clckwerx\CLOCKWRX\
+HAMSTER.EXE	837383	048C56F1	243w	Battle Hamster (1995).zip						battham\cd\
+Vampire.iso	431919104	F08CEC0E	244w	Vampire's Kiss (1994).zip		image				VampKiss\cd\
+MSDANGER.EXE	8272	E759087E	245w	Microsoft Dangerous Creatures (1994).zip						msdancre\MSDANGER\
+ASSTROIDS.bin	650930112	30C81799	2466w	AssTroids (1999).zip		Image				Asstroid\CD\
+Image.bin	331958928	B5BA51E1	2468w	Bobby's World - One Clump or Two (1996).zip		image				BW1co2\CD\
+Image.bin	380360736	7C6F5568	2469w	Life with Louie - Lake Winnibigoshish (1996).zip		image				LwLLW\CD\
+MSLANDS.EXE	8176	067650B2	246w	Microsoft Ancient Lands (1994).zip						msanclan\MSLANDS\
+Image.bin	320102496	FE76CCF0	2470w	Tick, The - The Tick vs. The Uncommon Cold (1996).zip						TheTick\CD\
+USHER.EXE	408064	8B2DCE48	247w	Fall of the House of Usher, The (1994).zip						FallUshr\USHER\
+DINO3D.EXE	37736	B0D54C15	248w	3-D Dinosaur Adventure Anniversary Edition (1997).zip						3DDino3x\KA\DINO3D\
+3DMAZE.EXE	34352	1A29E5FC	249w	3D Maze (1991).zip						3DMaze\cd\
+SIMTUNES.EXE	468480	C2869201	24w	SimTunes (1996).zip						simtune\MAXIS\SIMTUNES\
+LAUNCH.EXE	503808	1ED290B7	250w	3D Thinking Lab (1998).zip						3DThinki\EDMARK\GINSU\
+MINIGOLF.EXE	409088	0E84F7F6	251w	3-D Ultra Minigolf (1997).zip						3DUPMG\SIERRA\MINIGOLF\
+AUTORUN.EXE	46592	65AF31AF	252w	3-D Ultra Pinball (1995).zip						3DUP\SIERRA\UPINBALL\
+VIRGIL.EXE	179601408	8E3840D4	2531w	Universe According to Virgil Reality, The (1996).zip						Virgil\7THLEVEL\VIRGIL\
+NMAZE3D.EXE	397704	F4A521B7	2532w	NumberMaze Challenge (1999).zip						NumMazC\NMAZEC\
+MVIEWER2.EXE	286704	4480FFDA	2533w	Math Master (1997).zip						MathMast\WINDOWS\SYSTEM\
+FURYEDIT.EXE	545280	72B65FFE	2534w	F!Zone (1996).zip						FZone\FURY3\
+PINBALL2.EXE	462848	3AD97B83	253w	3-D Ultra Pinball - Creep Night (1996).zip						3DUPCN\SIERRA\UPBALL2\
+PINBALL3.EXE	315392	E0FE61D3	255w	3-D Ultra Pinball - The Lost Continent (1997).zip						3DUPLC\SIERRA\UPBALL3\
+cd.BIN	232029504	D8F35DC7	256w	Bicycle Casino - Blackjack, Poker, Baccarat, Roulette (1995).zip		image				bikecasi\cd\
+CHINASOL.EXE	148101	E5EE82A9	258w	Chinese Solitaire (1993).zip						ChinSoli\cd\
+cd.BIN	265053936	2C2AB80B	259w	Circus! (1994).zip		image				circus!\cd\
+ODDBALLZ.EXE	32768	CC10631E	25w	Oddballz (1996).zip						oddballz\ODDBALLZ.EXO\
+DODGER.EXE	140832	ABCDECB2	263w	Dodger (1994).zip						dodger94\cd\
+BASEBALL.EXE	1012800	D3052F30	264w	Baseball's Greatest Hits (1994).zip						basebGH\BASEBALL\
+BARBIE.ISO	59621376	8E1BC98E	265w	Barbie and Her Magical House (1994).zip		image				BarbieHo\cd\
+Space Sirens.iso	448756896	49A2A6EE	266w	Space Sirens - The Ultimate Cyber Sex Simulator (1994).zip		image				SpaceSi1\cd\
+ECCOWIN.EXE	790528	CBBB30D9	267w	Ecco the Dolphin (1995).zip						eccodol\SEGA\ECCO\
+cd1.iso	502472704	AE1FCEC6	268w	Last Chance to See (1993).zip		image				LastChSe\cd\
+MM.EXE	72192	0C1C314B	269w	MorphMan (1993).zip						MorphMan\MM\
+EMPIRE.EXE	139728	0078DDE7	26w	World Empire II (1992).zip						WorEmp2\cd\
+SOFTKILL.EXE	144896	D806885C	270w	Soft Kill (1993).zip						SoftKill\cd\
+cd.iso	445757440	91809A68	271w	Midnight Stranger (1993).zip		image				MidStran\cd\
+MAUS.EXE	205962	25521C18	272w	Complete MAUS, The (1995).zip						compMAUS\VOYAGER\MAUS\
+cd.BIN	728423808	75527556	273w	Ghostly Desires (1995).zip		image				ghosdes\cd\
+cd.BIN	367657584	B38B3C7E	275w	Country Vid Grid (1995).zip		image				cntryvid\cd\
+PROLOG.EXE	52752	2F00F348	278w	Umbra Conspiracy, The (1995).zip						umbraco\UMBRA\
+MACBETH.EXE	316107	56DA88BF	279w	Macbeth (1995).zip						macbeth\VOYAGER\MACBETH\
+PRINCESS.EXE	933292	A5A43403	27w	Crayola Magic Princess Paper Doll Maker (1999).zip						crayMP\IBM\PRINCESS\PROGRAM\
+X-MEN.BIN	478869504	F3539EDE	280w	X-Men - Interactive CD-ROM Comic Book! (1995).zip		image				xmenIC\cd\
+JUNGLE.EXE	116480	6FEA77DF	282w	Disney's Timon and Pumbaa's Jungle Games (1995).zip						timpumb\DISNEY\JUNGLE\
+MINDKILL.EXE	64055	B9F95ABF	283w	Mind of a Killer (1995).zip						mofkill\KOZEL\MINDKILL\
+cd.BIN	421833552	AE049021	284w	Museum Of Anything Goes (1995).zip		image				moagoes\cd\
+cd.BIN	714688128	FFFE7968	285w	The Crow - The Complete Interactive Collection (1996).zip		image				Crow3x\cd\
+NFLMATH.EXE	683008	FF26F5FE	286w	Head Coach - NFL Math (1996).zip						NFLMath\H_COACH\NFLMATH\
+B&ARROW.EXE	145168	555833CE	287w	Bow & Arrow (1992).zip						b&a\cd\
+cd.BIN	333555936	ED7AEA7A	288w	Masterpiece Mansion (1995).zip		image				MastMans\cd\
+LOUIS.EXE	719433	D1E00FD8	289w	Louis Cat Orze - The Mystery Of The Queen's Necklace (1995).zip						LCOMotQN\LOUIS\
+CC.EXE	134656	E135339C	28w	Hanna-Barbera's Cartoon Carnival (1995).zip						hbcc\cd\
+ROLAND.EXE	14342	ED2E2ECD	290w	Madness of Roland, The (1995).zip						madrolan\ROLAND\
+ADVENTUR.EXE	1495669	B7FB210C	291w	Dole 5 A Day Adventures (1995).zip						Dole5\cd\5ADAY\
+Fruit-Picker.exe	61744	503BAE76	293w	Fruit-Picker (1996).zip						FrutPick\cd\
+EMPIPE.EXE	368304	97484059	29w	EmPipe (1993).zip						EmPipe\EMPIPE\
+MCAD.EXE	248130	1263BDC2	2w	Mission - Caduceus (1997).zip						ambMC\WINDOWS\MCAD\
+LASER.EXE	133888	CC2F202C	302w	Laserstrike (1993).zip						LsrStrik\cd\
+Quasimodo.exe	61744	4EE3D800	305w	The Hunchback of Notre Dame (1996).zip						HBoND\cd\
+USINVR.EXE	216352	99CB7AC6	306w	Invention Studio (1996).zip						InvenStu\DISCOVER\INVENT\
+LUNACY.EXE	115968	62A5CC8A	307w	Lunacy for Windows (1995).zip						Lunacy95\cd\
+EVO_2.EXE	7165204	99AB99F5	30w	Evocation 2 - The Dream (1994).zip						Evocati2\EVO_2\
+reflux02.bin	288962016	970D1127	310w	Reflux - Issue 02 - The Threshold (1995).zip		image				Reflux-2\cd\
+QUATRA.EXE	2927632	4AFAF545	311w	Quatra Command (1994).zip						QuatrCom\quatra\
+LETTERS.ICO	766	131F1FF5	312w	Sesame Street - Letters (1999).zip						SSLett\CWONDERS\LETTERS\
+SLOTTRIV.EXE	395556	D91EC236	313w	Slots of Trivia (1996).zip						SlotTriv\CD\
+TRAP.EXE	190024	402B2AFB	318w	Trap Shooting (1994).zip						TrapShot\cd\
+sstgalx.BIN	321252624	07A050BC	319w	Treasure Galaxy! (Win)(1994).zip		image				SSTGalxW\cd\
+FREDDI3.EXE	21616	EE48F171	31w	Freddi Fish 3 - The Case of the Stolen Conch Shell (1998).zip						FF3CSCS\HEGAMES\
+zlsw.exe	274112	9980ABA6	320w	Zurk's Learning Safari (1993).zip						ZurkSaf\SOLEIL\
+Hyperman.iso	187572224	F93DFF9E	321w	Adventure of Hyperman, The (1995).zip		image				hyperman\cd\
+MADISON.EXE	746364	559A760C	322w	Wild World of Madison Jaxx (1994).zip						WWoMJ\CDHOME\MADISON\
+WanderLust.iso	392564736	D2842EE7	323w	Wanderlust (1994).zip		image				wandlust\cd\
+BINGI.EXE	75776	5E5E9DBE	324w	Wallobee Jack - The Bingi Burra Stone (1994).zip						walljack\WALLOBEE\BINGI\
+Marvel CD-ROM Spider-Man	495241824	E7D2CCAE	325w	Spider-Man - Interactive CD-ROM Comic Book! (1995).zip		image				smIC\cd\
+SPIDERCM.EXE	447104	34CAC57D	326w	Spider-Man Cartoon Maker (1995).zip						smCM\KA\SPIDERCM\
+BORG.EXE	1887499	0DD35B63	327w	SkyBorg - Into the Vortex (1995).zip						skyborg\SKYBORG\
+MC1.EXE	469504	8172E36A	329w	Music Chase 1 - The Music In Me (1995).zip						muschas1\MC1\
+START16.EXE	918067	028A09DD	32w	Fisher-Price Great Adventures - Pirate Ship (1997).zip						FPGAPIR\PIRATES\
+NEXUS.img	385989072	F17C51EE	330w	Great Myths and Legends Volume 1 - Monsters and Mythical Creatures (1995).zip		image				gmlmmc\cd\
+BATMANCM.EXE	454176	1264EDDE	331w	Adventures of Batman & Robin Cartoon Maker, The (1995).zip						ab&rCM\KA\BATMANCM\
+MINDGRND.EXE	396688	85FE0E3D	332w	Mind Grind (1996).zip						mindgrin\MINDGRND\
+TBASS.EXE	446464	FC8E5DB5	333w	Trophy Bass (1995).zip						tophbass\SIERRA\TBASS\
+KIDWORKS.EXE	401872	36F7EC44	334w	KidWorks 2 (1993).zip						kidwork2\KW2CD\
+HAWAII.EXE	712673	CC12C6FC	335w	Hawaii High - The Mystery of the Tiki (1994).zip						HHMysTik\cd\
+IMAGE.img	689413536	4ADA86EE	336w	Mask, The - The Origin (1994).zip		image				TheMask\cd\
+SINKHA.EXE	932884	60876D66	337w	Sinkha - The 3D Multimedia Novel (1994).zip						sinkha\SINKHA\
+cd.BIN	73271856	4AFD8CD1	338w	Peter's Magic Adventure (1993).zip		image				petemagi\cd\
+FATESTAR.EXE	9872	B3F663E6	339w	Fate of the Starlords (1994).zip						fatestar\FATESTAR\
+CASTLE.EXE	300032	8D601987	33w	Fisher-Price Great Adventures - Castle (1997).zip						FPGACAS\CASTLE\
+JUMP.EXE	684317	FDD9C670	340w	Jump - The David Bowie Interactive CD-ROM (1994).zip						JumpDB\JUMP\
+cd.iso	143392768	3A1416EE	341w	The New Kid on the Block (1993).zip		image				nkotb\CD\
+STOWAWAY.EXE	696736	BFB53B01	342w	Stowaway! Stephen Biesty's Incredible Cross-Sections (1994).zip						stowaway\DKMM\STOWAWAY\
+FELIX.EXE	694477	5E4C5773	345w	Felix The Cat's Cartoon Toolbox (1995).zip						felixcat\BIGTOP\FELIX\FCT\
+KOOKYKARNIV.iso	234233856	00A3F86D	346w	Gus Goes to the Kooky Carnival - In Search of Rant (1995).zip		image				GusGttKC\cd\
+AIRPORT.EXE	30720	B8726C07	347w	Let's Explore the Airport (1995).zip						BuzzAir\HEGAMES\
+FARM.EXE	35328	68D41C8B	348w	Let's Explore the Farm (1995).zip						BuzzFarm\HEGAMES\
+BBCAOFW.EXE	14432	C192E1C8	349w	Animals Of Farthing Wood, The (1996).zip						farthing\BBCAOFW\
+CYBERTOW.iso	117714944	CFCA8D92	34w	Gus Goes to Cybertown (1993).zip		image				GusGoest\cd\
+CARRIB.EXE	63648	2D2C8EE8	350w	Caribbean Treasure (1996).zip						CariTrea\WINDOWS\GAMES\
+cd.iso	241297408	4E185023	351w	Dinosaur Safari (1996).zip		image				DinoSaf\cd\
+AARCADE.EXE	375296	0AC6E454	352w	Alien Arcade (1994).zip						aliarca\AARCADE\
+101.EXE	14784	DE0443EC	355w	101 Dalmatians - Escape From DeVil Manor (1997).zip						101Dalma\DISNEY\ESCAPE\
+PAWGOLD.EXE	558870	9B5CFC16	359w	1942 - The Pacific Air War Gold (1994).zip			run.bat	786	64F6A773	1942-The\
+CYBSTONE.EXE	707439	C30E979F	35w	Gus Goes to Cyberstone Park (1996).zip						GusGoesY\GUSGAMES\
+NINE_31.EXE	1077661	386CF005	365w	9 - The Last Resort (1996).zip						9-TheLas\NINE\
+ABALONE.EXE	127488	DF6B0D1F	366w	Abalone (1999).zip						Abalone\cd\
+ZATL.EXE	698239	5B07064E	36w	Zurk's Alaskan Trek (1995).zip						ZurkAlas\SOLEIL\
+ACE.EXE	99600	04184CDE	370w	Ace Ventura (1996).zip						AceVentu\7THLEVEL\ACE\
+ASP31.EXE	1965568	077D2433	371w	Achtung Spitfire (1997).zip						AchtungS\ACHTSPIT\
+BOXING.EXE	58263	2815C00B	373w	Activision's Atari 2600 Action Pack (1995).zip						2600p1\ACTPACK\
+ATLANTIS.EXE	44032	828125C0	374w	Activision's Atari 2600 Action Pack 2 (1995).zip						2600p2\ACTPACK2\
+MICRO1.EXE	776160	3F40289A	378w	MicroMan (1993).zip						MicMan93\cd\
+micro1.exe	774016	0196D9E6	378w	The Adventures of MicroMan (1993).zip						AdvMicM\cd\
+PINOC.EXE	1857856	47437455	379w	The Adventures of Pinocchio (1996).zip						AdvPinoc\PINOC\
+ZRL.EXE	246272	44ECD582	37w	Zurk's Rainforest Lab (1995).zip						ZurkLab\SOLEIL\
+VALDO.EXE	523264	51433A26	380w	The Adventures of Valdo & Marie (1997).zip						AdvVald\VALDO\
+AFL Finals Fever.img	230065584	455A8A9B	381w	AFL Finals Fever (1996).zip		image	AFL.BAT	47	F7B16CEB	AFLFinal\AFL\
+AFRICA16.EXE	884480	DFC2A2BB	382w	Africa Trail (1997).zip						AfricaTr\MECC\AFRICA\
+AS_START.EXE	171770	C1814819	384w	Age of Sail (1996).zip						AgeofSai\AOS\
+AIRHAVOC.EXE	114296	24159646	386w	Air Havoc Controller (1994).zip						AirHavoc\AIRHAVOC\
+AB3.EXE	2824704	15797483	387w	Alge-Blaster 3 (1994).zip						Alge-Bla\AB3\
+ALICE.EXE	684733	E1243699	388w	Alice - Interactive Museum (1994).zip						Alice-In\ALICE_W\
+Aforce.exe	34816	E2D9377B	389w	Alien Force (1990).zip						AlienFor\cd\
+OSCAR16.EXE	1264750	AAB39B34	38w	Oscar the Balloonist Flies into the Mountains (2001).zip						OtBFlitM\TIVOLA\OSCAR5\
+WALIENS.EXE	367616	25093466	390w	Aliens (1993).zip						Aliens3x\cd\
+ALIENTIC.EXE	63376	D0934E32	391w	AlienTic (1992).zip						AlienTic\cd\
+AG.EXE	2161664	E324833E	392w	Allied General (1995).zip						AlliedGe\AG\
+Al Unser Jr. Arcade Racing.iso	27740160	4CC78FC6	393w	Al Unser, Jr. Arcade Racing (1995).zip		Image				AlUnserJ\cd\
+A16V13.EXE	218244	6A39BC8F	394w	Amazing Mazez to Amaze (1997).zip						AmazingM\A16V13\
+SKULLS.EXE	58624	D919EC7F	395w	Amazon Skulls (1993).zip						AmazonSk\cd\
+AMAZON16.EXE	450048	774C4FE0	396w	The Amazon Trail (1993).zip						AT3x\TLC\ATCD\
+ACWIII.EXE	10953472	C20A72EC	397w	American Civil War - From Sumter to Appomattox (1996).zip						Ameri3x\cd\PROGRAMS\
+ANASTASI.EXE	47527	D838266C	398w	Anastasia - Adventures with Pooka and Bartok! (1999).zip						Anastasi\FOX\ANASTASI\
+ANT.EXE	225904	B4BAF7BA	399w	AnnaTommy (1994).zip						AnnaTomm\MAYO\ANT\
+TIMMY.EXE	2455040	7D5B7357	39w	Travel the World with Timmy! (1998).zip						TravTim\EDMARK\TIMMY\
+ROBHOOD.EXE	143120	D1481D87	3w	Robin and Marian (1997).zip						ambRM\WINDOWS\ROBHOOD\
+AFC.EXE	3062299	92707A3A	400w	Anyone for Cards (1994).zip						Anyonefo\cd\
+Aquaman War of the Water Worlds.img	306169248	625DF3E3	401w	Aquaman - War of the Water Worlds (1996).zip		image				Aquaman-\cd\
+ARCADE.EXE	107008	5D5D95E3	402w	Arcade America (1996).zip						ArcadeAm\7THLEVEL\ARCADE\
+LUNARFOX.EXE	288256	2BE1A80D	403w	Arcade Mania (1995).zip			run.bat	529	344DCA9A	ArcadeMa\
+ARC.EXE	687973	D49C70A4	404w	Arc of Doom (1994).zip						ArcofDoo\AODCD\
+Danger Island.bin	704226432	D5983E28	405w	Area D (1997).zip		image				AreaD\cd\
+RACE.EXE	565760	1760D754	407w	Arthur's Reading Race (1996).zip						ArthursR\cd\
+cd.BIN	732732672	FC978382	408w	ArtRageous! (1995).zip		image				ArtRageo\cd\
+ASTRO.EXE	418376	C6A6EC00	409w	Astronomica - The Quest for the Edge of the Universe (1994).zip						Astronom\HYQUEST\
+ATMOIDS.EXE	21136	52D80A06	410w	Atmoids (1990).zip						Atmoids\cd\
+ATMOS.EXE	289808	49451385	411w	Atmosfear - The Third Dimension (1995).zip						Atmosfea\FEAR\
+ATOMIC.EXE	288768	AA47A156	412w	Atomic (1993).zip						Atomic\cd\
+AVALONC.EXE	1611360	A956D756	413w	Avalon Casinos (1996).zip						AvalonCa\AVALONC\
+BTH.EXE	632336	135D9A2C	414w	Beat the House (1995).zip						BHous3x\CD\
+BEETLE.EXE	1621475	F2A75674	415w	Beetle Run (1995).zip						BeetleRu\BEETLE\
+BERMUDA.EXE	145408	C48D5A41	416w	Bermuda Syndrome (1996).zip						BermudaS\cd\SCN\
+AMANDA.EXE	373139	3F9D6AE0	41w	Amanda Stories (1991).zip						AmandaSt\AMANDA\
+BLINDATE.EXE	685837	4A6F65D7	423w	National Lampoon's Blind Date (1994).zip						NLBlind\BLINDATE\
+LAUNCH.EXE	503808	21C190FD	424w	Nautical Number Hunt (1998).zip						Nautical\EDMARK\NUMLINE\
+NEKO.EXE	44973	946819FF	425w	Neko (1991).zip						Neko\cd\
+NELDNOCK.EXE	283186	AEEF5675	426w	Nelda Nockbladder's Anatomy Lesson (1997).zip						NeldaNoc\WINDOWS\NELDNOCK\
+cd.BIN	617157744	DDD73B67	427w	NeuroDancer (1994).zip		image				NeuroDan\cd\
+HPP.EXE	697856	3DA07C5F	431w	The Pink Panther - Hokus Pokus Pink (1998).zip						PPHokus\POKUS\
+PPTP.EXE	594432	2E8D77E1	432w	The Pink Panther - Passport to Peril (1997).zip						PPPassp\PERIL\
+PIPE.EXE	124960	D025AEBA	433w	Pipe Dream (1991).zip						PipeDr3x\CD\
+PIPPI_CD.img	774901680	09DC0665	435w	Pippi (1995).zip		image				Pippi\cd\
+PIRATES.EXE	1036288	59972963	436w	Pirates - Captain's Quest (1997).zip						Pirates-\DISCOVER\PIRATES\
+cd.BIN	714140112	27E4D919	437w	The Awesome Adventures of Victor Vector & Yondo - The Cyberplasm Formula (1995).zip		image				AAVVCybe\cd\
+cd.BIN	287454384	1447CC30	438w	The Awesome Adventures of Victor Vector & Yondo - The Hypnotic Harp (1993).zip		Image				AAVVHypn\cd\
+cd.BIN	471202032	F4767067	439w	The Awesome Adventures of Victor Vector & Yondo - The Last Dinosaur Egg (1993).zip		image				AAVVDino\cd\
+BODY2.EXE	1858688	B93C07F0	43w	Ultimate Human Body 2.0, The (1996).zip						UltHB2\DKMM\BODY2\
+cd.BIN	287454384	AF7A2330	440w	The Awesome Adventures of Victor Vector & Yondo - The Vampire's Coffin (1993).zip		Image				AAVVVamp\cd\
+cd.BIN	89799360	502E17DF	443w	Babes in Toyland (1997).zip		Image				BabesinT\cd\
+SHADOWS.EXE	215552	903D2082	444w	Babylon 5 - Shadow Wars (1997).zip						Babylon5\SSII\B5II\GAME\
+BACKPACK.EXE	1684960	9E4165D6	448w	Backpacker - The Lost Florence Gold Mine (1997).zip						bpackLGM\BACKPACK\
+PUZZLE.EXE	453968	1808D3AA	449w	Backstreet Boys - Puzzles in Motion (1999).zip						Backstre\PUZZLE\BSB\
+DINODRAW.EXE	1421088	2EEA3FA4	44w	Jurassic Art (1997).zip						JurArt\DINODRAW\
+SOCCER.EXE	21616	9F0127EC	450w	Backyard Soccer (1998).zip						Backyard\HEGAMES\
+BADMOJO.EXE	511760	A2D5F430	451w	Bad Mojo (1996).zip						BadMojo\BADMOJO\
+bt3d.exe	156160	6FE25CAC	452w	Bad Toys (1995).zip						BadToys\cd\
+BAILEY.EXE	1223680	AD399B9E	453w	Bailey's Book House (1993).zip						BaileysB\EDMARK\BAILEY\
+BANGBANG.EXE	73216	F4E09F6A	455w	Bang! Bang! (1990).zip						Bang!Ban\
+DESIGN.EXE	384064	022B1241	456w	Barbie Fashion Designer (1996).zip						BarbieFa\BARBIE\
+Barkanoid.iso	19773264	A19257B2	457w	Barkanoid (1997).zip		image				Barkanoi\cd\
+Batman Partners in Peril.img	283281936	BFD74ECC	458w	Batman - Partners in Peril (1996).zip		image				Batman-P\cd\
+BEAST.EXE	122752	92D4F257	459w	Battle Beast (1995).zip						BattleBe\7THLEVEL\BEAST\
+RWW.EXE	408259	5FFC2A88	45w	Rodney's Wonder Window (1992).zip						RodWW\RODNEY\
+CHESS.EXE	109568	801FCB21	460w	Battle Chess (1991).zip						BCw\CD\
+MPCCHESS.EXE	160637	5C8583BA	461w	Battle Chess Enhanced (1991).zip						bchscd3x\MPCCHESS\
+BGG.EXE	1265576	C5C17B5E	462w	Battleground 2 - Gettysburg (1996).zip						bg2Get\BGG\
+BGW.EXE	1239648	0390625D	464w	Battleground 3 - Waterloo (1996).zip						bg3wat\BGW\
+BGS.EXE	1160235	0F9C854E	465w	Battleground 4 - Shiloh (1996).zip						bg4Shi\BGS\
+BGN.EXE	1180461	909CBAC5	466w	Battleground 5 - Antietam (1996).zip						bg5Ant\BGN\
+NIR.EXE	1374853	545A9BA7	467w	Battleground 6 - Napoleon in Russia (1997).zip						bg6NiR\NIR\
+BGR.EXE	1264552	2A3EB123	468w	Battleground 7 - Bull Run (1997).zip						bg7Bull\BGBR\
+PTW.EXE	1374853	DE6212DC	469w	Battleground 8 - Prelude to Waterloo (1997).zip						bg8PW\PTW\
+GREATWAR.EXE	806124	BA65B8F6	46w	Great War, The (1995).zip						greatwar\GREATWAR\
+BGA.EXE	1023558	745BA6C6	470w	Battleground - Ardennes (1995).zip						bgArd\BGA\
+SDI_1R.EXE	800768	C4BDC00D	473w	Battle Isle - 2220 Shadow of the Emperor (1996).zip						BattleIs\BLUEBYTE\BI2220\
+BATSAT.EXE	111731	D56FF696	474w	Battle Sat (1991).zip						BattleSa\cd\
+WB2VOVL.EXE	237177	EE519939	475w	Battleship (Win)(1998).zip						Bship3x\CD\
+BStar.exe	373648	15DEBAD7	476w	BattleStar (1996).zip						BatStar\
+RESOURCE.WIN	428	45788DDF	477w	Gabriel Knight 2 - The Beast Within (Win)(1995).zip						GK23x\SIERRA\GK2WIN\
+ANTARAR.EXE	1253888	9D859903	478w	Betrayal in Antara (1997).zip						BetAntar\SIERRA\ANTARA\
+cd.BIN	404593392	4802DD91	479w	Beyond the Wall of Stars (1992).zip		image				Beyondth\cd\
+MSINSTR.EXE	148464	CBB76C9A	47w	Microsoft Musical Instruments (1992).zip						MSInst\MSINSTR\
+BEYOND.EXE	394800	A1D8CBA7	480w	Beyond Time (1997).zip						BeyondTi\BEYOND\
+BPIN.EXE	908800	2A92E3F9	482w	Bicycle Pinochle (1997).zip						BicycleP\PINOCHLE\
+cd.BIN	9408000	EB0CA3AC	483w	Bicycle Solitaire (1996).zip		Image				BicycleS\cd\
+BIGONE.EXE	2368000	62A3F79F	486w	The Big One (1994).zip						TheBigOn\BIGONE\
+WOODRUFF.EXE	325632	A54699B1	487w	The Bizarre Adventures of Woodruff and the Schnibble (1995).zip						TheBizar\SIERRA\WOODRUFF\
+BLADES.EXE	2382848	318CB913	489w	Blades of Exile (1999).zip			run.bat	570	38398E3C	BlaExil\
+SEYMORE.EXE	186392	4216C815	48w	Interactive Adventures Of Seymore Butts, The (1993).zip						SeyButt\cd\QTW\BIN\
+Blinky.img	432730368	D3AAF97A	490w	Blinky Bill And The Magician (1999).zip		image				BlinkyBi\cd\
+BLITZER.EXE	180048	AB75609F	491w	Blitzer (1991).zip						Blitzer\
+Blobfact.exe	56372	79AE001A	492w	Blob Factory (1996).zip						BlobFact\
+BLOCK.EXE	171504	5CE0CAF4	493w	Block Breaker (1992).zip						BlockBre\BLOCK\
+BLOWNAWY.EXE	400458	516B546F	494w	Blown Away (1994).zip						BlownAwa\BA\
+CHESSNET.EXE	69504	CCC8FEAA	495w	Chess Net (1992).zip						ChessNet\
+CHIPS.EXE	267776	3B08B7AF	496w	Chip's Challenge (1991).zip						ChCh3x\CD\
+CHOMP.EXE	126848	5DEF25DC	497w	Chomp (1991).zip						Chomp\cd\
+CHOPSUEY.BIN	219627408	5594585F	498w	Chop Suey (1995).zip		image				ChopSuey\cd\
+cd1.BIN	393223824	A64AA676	49w	Seymore Butts Interactive 2 - In Pursuit of Pleasure (1994).zip		image				SeyButt2\cd\
+SPACDBT.EXE	166234	DB0B8C6A	4w	Space Doubt (1996).zip						ambSD\WINDOWS\SPACDBT\
+Cluedo Cdrom Blackmail eng.fr.ger. (By Mathilda).bin	641164608	964A7CFF	501w	Clue (1996).zip		image	run.bat	745	0C69C867	Clue\
+CLUELESS.EXE	943475	45E4C2B8	502w	Clueless - CD-ROM (1997).zip						Clueless\CLUELESS\
+COGITO.EXE	942624	BE906251	503w	Cogito (1992).zip						Cogito\cd\
+GOLFPRO.EXE	602112	47078487	504w	Golf Pro 2000 Downunder (1997).zip						GolfPro2\GOLFPRO\
+GORDAKCD.EXE	737262	95D603E8	506w	Gord@k (1997).zip						Gordak\GORDAK\
+GRACKON.EXE	694293	DF76E860	507w	Grackon's Curse (1995).zip						Grackons\GRACKON\
+GPM.EXE	1514896	8AE0B817	508w	Grand Prix Manager (1995).zip						GPMan\MPS\GPM\
+GPM2.EXE	2388976	CD703182	509w	Grand Prix Manager 2 (1996).zip						GPMan2\MPS\GPM2\
+IRIS.ISO	260495360	832F2646	50w	Professor Iris' Fun Field Trip - Animal Safari (1994).zip		image				irisAS\cd\
+cd.iso	456763392	FA4A4F0A	510w	Grant - Lee - Sherman - Civil War 2 - Generals (1997).zip		image				Grant-Le\cd\
+THEGREEN.EXE	702951	043EA71D	512w	The Greens (1993).zip						TheGreen\cd\
+DEGREE.EXE	612864	79FDED6D	513w	In the 1st Degree (1995).zip						Inthe1st\INTHE1ST\
+HELIX.EXE	428720	C1CDEE9E	514w	Iron Helix (1993).zip						IronHeli\HELIX\
+ISIS.img	661180128	E4BAA304	515w	Isis (1994).zip		image				Isis\cd\
+IFOG.EXE	673632	C8CC6B9D	516w	It's a Funny Old Game (1996).zip						ItsaFunn\cd\
+JEWELS.EXE	187952	4D1293D4	518w	Jewel Master (1992).zip						JewelMas\cd\
+JEWSII31.EXE	977853	96A0632C	519w	Jewels II - The Ultimate Challenge (1998).zip						JewelsII\PROGRAMS\H_A\JEWELSII\
+cd.BIN	315351456	25FCC61D	51w	Professor Iris' Fun Field Trip - Seaside Adventure (1994).zip		image				irisSA\CD\
+JLAUNCH.EXE	49664	5CBB0F44	520w	Jewels of the Oracle (1995).zip						Jewelsof\JEWELS\
+JWLTHIEF.EXE	134242	3D934E9B	521w	Jewel Thief (1992).zip						JewelThi\cd\
+JEZZBALL.EXE	49664	3B6D59FC	522w	JezzBall (1992).zip						JezzBall\cd\
+cd.BIN	47649168	DFD0B096	523w	Mind Games Entertainment Pack for Windows (1997).zip		Image				MindGame\cd\
+MINES.EXE	29940	454A38CA	524w	Mines (1990).zip						Mines\cd\
+mine.exe	27776	F39770F8	525w	Minesweeper (1992).zip						Mineswee\cd\
+MIRAGEBVOL.img	716656752	3B50E8B1	526w	Mirage (1995).zip		image				Mirage\cd\
+MISSILE.EXE	87360	3B698A63	527w	Missile Attack! (1992).zip						MissileA\cd\
+M9.EXE	581382	5F59FB39	528w	Mission 9 (1995).zip						Mission9\M9\
+MUMGDX.img	678846000	8FEA6ADC	529w	Mixed-Up Mother Goose Deluxe (1995).zip		image				Mixed-Up\cd\
+PETER_S_COLORS_ADVENTURE_.ISO	96294912	FAC2906D	52w	Peter's Colors Adventure (1994).zip		image				PetColor\cd\
+MONOPOLY.EXE	282624	D7703317	530w	Monopoly (1995).zip						Mono3x\WESTWOOD\MONOPOLY\
+POLY.EXE	764097	73F327F5	531w	Monopoly Deluxe (Win)(1992).zip						Mono3Dlx\cd\
+FREAKS.EXE	695893	7F955346	532w	The Residents - Freak Show (1994).zip						FrekShow\FREAKS\
+RISE31.EXE	526336	4941175E	534w	The Rise & Rule of Ancient Empires (1996).zip						TheRiseR\SIERRA\ANCIENT\
+Risk.exe	157318	093668F1	535w	Risk (1991).zip						Risk3x\cd\
+King's_Quest_7_v2.00b.img	694888992	91338B36	537w	King's Quest VII - The Princeless Bride (Win)(1994).zip						KQ73x\CD\
+MGCD.iso	254214144	7AA2A899	538w	Mixed-Up Mother Goose, Roberta William's (Win)(1992).zip		image				MUMG3x\CD\
+CIV2.EXE	1799184	33996F02	539w	Sid Meier's Civilization II - Gold Edition (1998).zip						Civ2Gold\MPS\CIV2\
+cd.BIN	106244544	DAA9070B	53w	Peter's Alphabet Adventure (1993).zip		image				PetAlpha\cd\
+CIVNET.EXE	2073600	1A97AF1D	540w	Sid Meier's CivNet (1995).zip						Civnet\MPS\CIVNET\
+STEEL.EXE	536080	7376C643	541w	Silent Steel (1995).zip						SilentSt\ISTEEL\
+A10SHELL.EXE	414240	13AC86B6	542w	Silent Thunder - A-10 Tank Killer II (1996).zip						SilentTh\SIERRA\A10_II\
+SIMANTW.EXE	516096	A5C43C31	543w	SimAnt - The Electronic Ant Colony (Win)(1991).zip						SimAnt-T\MAXIS\ANTWIN\
+SCW.EXE	244832	D734B3E2	544w	SimCity (1992).zip			run.bat	435	1194EF5F	SimCi3x\
+YUKON.EXE	401088	BE989003	546w	The Yukon Trail (1994).zip						TheYukon\MECC\YUKON\
+ZAP.EXE	3179520	A607DCD2	547w	Zap! (1998).zip						Zap!\EDMARK\ZAP\
+ZAP.EXE	1897520	E911EA5C	548w	Zapitalism (1996).zip						Zapitali\ZAP\
+ZEDDAS.EXE	741818	6FA70097	549w	Zeddas - Servant of Sheol (1995).zip						Zeddas-S\
+TWTW.PNG	527841	4A67393B	54w	Way Things Work, The (1994).zip						DKTWTW\DKMM\TWTW\
+ZIGZAG.EXE	2996099	11877D76	551w	Zig-Zag (1994).zip						Zig-Zag\cd\
+Z-SHARE.EXE	399643	2967B2D4	552w	Zombie Castle (1995).zip						ZombieCa\cd\
+ZWARS.EXE	700928	16552907	553w	Zombie Wars (1996).zip						ZombieWa\ZWARS\
+BLHEAT16.EXE	510144	54F05A2C	554w	Blue Heat - The Case of the Cover Girl Murders (1997).zip						BlueHeat\BLHEAT\
+BLUEICE.EXE	197632	407308CE	555w	Blue Ice (Win)(1995).zip						BIce3x\BI\
+BOGOUT.EXE	69632	F7A51BB0	556w	BogOut (1992).zip						BogOut\cd\
+ACHI.EXE	23909	E9C47794	559w	Brain Games For Windows (1992).zip			run.bat	1032	CFB30150	BrainGam\
+The Jungle Book - The Legend Of Mowgli.bin	380871120	ED81C444	55w	The Jungle Book - The Legend Of Mowgli (1995).zip		image				TJBLOM\cd\
+CHECKERS.EXE	241088	6DBED8DE	560w	Brainiacs (1995).zip						Brainiac\EPICGAME\
+BRAINWAV.EXE	1733120	AA381072	561w	BrainWave (1997).zip						BWave1\BRAINWAV\
+BW2.EXE	1881600	FBA5CA4C	562w	BrainWave 2 (1997).zip						BWave2\BW2\
+BREAKOUT.EXE	42512	AF7CA092	563w	Breakout 3000 (1999).zip						Breakout\WINDOWS\GAMES\
+BRKTHRU.EXE	300032	24B2F96B	564w	BreakThru! (1994).zip						BreakThr\cd\
+cd.BIN	304097136	9D24BC21	565w	Brer Rabbit and the Wonderful Tar Baby (1991).zip		image				BrerRabb\cd\
+BB2.EXE	414208	DDB75786	566w	Brick Breaker II Turbo (1994).zip						BrickBre\cd\
+BUSTER.EXE	79872	7CAE71BD	567w	Brickbuster (1995).zip						Brickbus\cd\
+BUG!.EXE	513536	B7405BAE	569w	Bug! (1996).zip						Bug!\SEGA\BUG!\
+TREASURE.bin	740938800	4A42E8FB	56w	Treasure Island Interactive (1995).zip		image				TII\cd\
+takerulotl.img	658233072	7CF82A58	570w	Buichi Terasawa's Takeru - Letter of the Law (1996).zip		image				BuichiTe\cd\
+cd1.BIN	685342224	6916C3A3	572w	Burn -Cycle (1995).zip		image				Burn-Cyc\cd\
+CAPITOL.EXE	376128	A212BF7C	574w	Capitol Hill (1993).zip						CapitolH\cd2\
+CARMEN.EXE	410640	5D47F96E	575w	Carmen Sandiego - Junior Detective Edition (1995).zip						CSJDE\WORLDJR\
+CWD16.EXE	1342480	A964A630	576w	Carmen Sandiego Word Detective (1997).zip						CSWordD\CSWORD\
+CASINO.EXE	365568	0F4EB34F	578w	Casino De Luxe (1995).zip						CasinoDe\cd\
+cd.iso	956520448	23675D48	579w	The Cassandra Galleries (1997).zip		image				TheCassa\cd\
+MULTIMEDIA_.ISO	66959360	3D564411	57w	Multimedia IQ Test (1995).zip		image				MultiIQ\cd\
+CASTLE.EXE	4467456	553C464E	580w	Castle Explorer (1996).zip						CastleEx\DKMM\CASTLE\
+WINCAT.EXE	361472	B05C22D6	582w	CatFight - The Ultimate Female Fighting Game (1996).zip						CatFight\cd\
+CATZ.EXE	43008	394540D6	583w	Catz - Your Computer Petz (1996).zip						Catz-You\CATZ.EXO\
+CHAOS.EXE	696871	52514B77	589w	Chaos - A Fantasy Adventure Game (1996).zip						Chaos-AF\CHAOS\
+LION_KING_A.ISO	504588288	1CF23031	58w	Disney's The Lion King Activity Center (1995).zip		image				LionKAC\cd\
+CHAOSMPC.bin	511404768	9ECA5A06	590w	The C.H.A.O.S. Continuum (1994).zip		image				TheCHAOS\cd\
+CHECKERS.EXE	33296	07C414E3	591w	Checkers (1990).zip						Checkers\cd\
+CM3000.BIN	520483488	62A5AFF1	593w	Chessmaster 3000 (1991).zip		image				CM3000\cd\
+CM4000.EXE	684784	79696AEE	594w	The Chessmaster 4000 Turbo (1993).zip						TheChess\CM4000\
+CHSMTS16.EXE	423936	86613D16	595w	Chess Mates (1996).zip						ChessMat\INTRPLAY\CHSSMTS\
+TANK.EXE	196736	C34F48BE	597w	Combat Tanks (1994).zip						CombatTa\cd\
+COMET.EXE	155648	151EC34E	598w	Comet Busters! (1994).zip						CometBus\cd\
+COMIX.EXE	1995264	7402756D	599w	Comix Zone (1995).zip						ComixZon\SEGA\COMIX\
+20000.EXE	2974263	861D95A1	59w	20,000 Leagues Under The Sea (1995).zip						20k3x\20000\
+EASTER.EXE	63648	AE85E8BA	5w	Secret of Easter Island, The (1996).zip						ambSEI\WINDOWS\GAMES\
+Congo.img	619770816	1EEA65DC	603w	Congo - The Movie - Descent into Zinj (1995).zip		image				Congo-Th\cd\
+CONNECT.EXE	690019	9F06AEF5	604w	Connections (1995).zip						Connecti\DISCOVER\CONNECT\
+CORPURS.EXE	900396	E7893DCE	605w	Corporate Pursuit (1996).zip						CorpPur\CORPURS\
+cd.bin	679826784	75EDEDC4	606w	Cosmology of Kyoto (1995).zip		image				Cosmolog\cd\
+WINCOW.EXE	178176	AA8254F9	608w	Cow V - The Great Egg Quest (1992).zip						CowV-The\cd\
+LAUNCHER.EXE	197120	63AC68BF	609w	Creatures (1997).zip						Creaturs\CREATURE\
+ALADDIN_ACT.img	507154704	72F6D9CB	60w	Disney's Aladdin Activity Center (1995).zip		image				DAlAct\cd\
+CRIBWIN.EXE	235536	4114862C	610w	Cribbage Master (1992).zip						Cribbage\NINGA\CRIBW\
+CRITPATH.EXE	115975	3D5383FD	611w	Critical Path (1993).zip						Critical\CRITPATH\
+WRDGAME.HLP	396286	640C42B8	612w	Crosswords and More for Windows (1996).zip						CrossM\XCROSS\
+CROSSMOR.EXE	523968	741A8BBC	613w	Crosswords and Word Games (1995).zip						CrossW\XCROSSCD\
+CRUSAD31.EXE	932265	1D85B20C	614w	Crusader - Adventure Out of Time (1997).zip						Crusader\INDEX\CRUSADER\
+CCWIN.EXE	726126	C9AA9D9C	615w	Crystal Caliburn (1994).zip						CrysCali\CCWIN\
+CRYSTAL.EXE	932333	BCE48B29	616w	The Crystal Skull (1996).zip						TheCryst\MAXIS\CRYSTAL\
+CGLP.EXE	750592	47149746	617w	Curious George Learns Phonics (1997).zip						CuriousG\CGLP\
+3DXWD.EXE	233539	649D5E61	618w	CyberSpace Crossword (1992).zip						CyberSpa\cd\
+Cyberstrip Blackjack.iso	649191424	CF5B6CE5	619w	Cyberstrip Blackjack (1995).zip						CStripBJ\CD\
+CYBER.EXE	1565727	DB5B8DAD	620w	Cyberstrip Poker (1995).zip						CStripPk\cd2\
+DAEDALUS.EXE	299321	73528E3F	621w	The Daedalus Encounter (1995).zip						TheDaeda\DAEDALUS\
+SIERRA.INI	140	0159D3B0	622w	The Dagger of Amon Ra (1993).zip						Dagger3x\SIERRA\LB2\WIN\
+DAGGER.EXE	190720	A683F519	623w	Dagger's Rage (1995).zip						DaggersR\DAGGER\
+DALEKS.EXE	46078	4678D937	624w	Daleks (1991).zip						daleks3x\CD\
+D2D2.EXE	2638387	9EAC21C5	626w	Dare to Dream 2 (1993).zip						D2D2\DARE2DRM\
+D2D3.EXE	2635514	2C567296	627w	Dare to Dream 3 (1993).zip						D2D3\DARE2DRM\
+D2D.EXE	1786155	719BC72B	628w	Dare to Dream Part One - In a Darkened Room (1993).zip						D2D1\DARE2DRM\
+i100_203.img	104767488	B705BEF0	629w	The Dark Eye (1995).zip	boot					TheDarkE\
+DARK0001.EXE	183184	E87805CB	630w	Dark Seed II (1995).zip						Dseed2\DARKSEED\
+DEADLOCK.EXE	1043488	BC46B622	631w	Deadlock - Planetary Conquest (1996).zip						Deadlock\PROGRAMF\ACCOLADE\DEADLOCK\
+DEFLEKTO.EXE	963907	4B3626CF	634w	Deflektor PC (1998).zip						Deflekto\cd\
+DEJAVU.EXE	305664	043E94AC	636w	Deja Vu I and II - The Casebooks of Ace Harding (1992).zip			run.bat	426	F89C7C83	DejaVuII\
+SCRABBLE.EXE	888294	4632E0E6	637w	Deluxe Scrabble for Windows (1992).zip						DeluxeSc\VIRGIN\
+Great Word & Math Adventure.img	678347376	43F06A9D	63w	Great Word Adventure (1995).zip		Image	run.bat	450	F6B5C24F	GWAGMA\
+SMRTPTRL.EXE	741904	95353965	640w	Devo Presents - Adventures of the Smart Patrol (1996).zip						DevoPres\SMRTPTRL\
+cd.iso	7344128	651470AB	641w	D-Generation (1994).zip		Image				dgen3x\CD\
+D3D.EXE	2245708	1F09E0CF	642w	Diamonds 3D (1996).zip						Diamonds\D3D\
+Die Phantastische Reise Nach Terra-Gon (GERMAN).img	707627424	F15344E7	643w	Die phantastische Reise nach Terra-Gon (1997).zip		image				Diephant\cd\
+CEDCO.EXE	2556928	72186F23	644w	Dilbert - Not Just A Calendar (1997).zip						Dilbert-\CEDCO\
+cd.BIN	471180864	4CCAAC93	646w	Dinosaur Museum (1997).zip		image				Dinosaur\cd\
+DS.EXE	275456	873D3676	647w	Dino Slot (1994).zip						DinoSlot\cd\
+HAUNTED.EXE	330336	3.34E+69	64w	Jan Pienkowski Haunted House (1995).zip						JPHH\REED\
+TOPSY.EXE	95104	9A31B975	650w	Disney's - The Hunchback of Notre Dame 5 Topsy Turvy Games (1996).zip						DTHBND5\DISNEY\TOPSY\
+JUNGLEW.EXE	265728	B92F8B20	651w	Disney's The Jungle Book (1994).zip						DisJB3x\GAMES\JUNGLEBO\
+DIVA1.EXE	2661665	CFEA924B	652w	Diva X - Ariana (1995).zip						DivaX-Ar\DIVAX\
+DIVSLOTS.EXE	568376	4154DB28	654w	Diversions Slots (1996).zip						Diversio\cd\
+DOGZ.EXE	54802	7D1ED267	655w	Dogz - Your Computer Pet (1995).zip						Dogz-You\DOGZ.EXO\
+ELECTION.EXE	764940	B9D7C8B3	656w	The Doonesbury Election Game Campaign '96 (1995).zip						TheDoone\DOONES\
+DOPE4EVR.EXE	63648	188BD141	657w	Dopefish Forever! (1997).zip						DopeFshF\WINDOWS\GAMES\
+DOPEFISH.EXE	62192	A59CC08F	658w	Dopefish Lives! (1997).zip						DopeFshL\WINDOWS\GAMES\
+ARACHNID.EXE	44432	0C3A62BF	659w	Double Feature Solitaire (1994).zip			run.bat	410	DA52CDFE	DoubleFe\
+TALES.EXE	1013897	70E9894D	65w	Alien Tales (1995).zip						AliTales\ALIEN\
+DRACWIN.EXE	866601	E9C9B25A	660w	Dracula in London (1993).zip						Draculai\DRACULA\
+SECRET.EXE	808748	31B52E3F	661w	Dracula's Secret (1996).zip						Draculas\cd\
+RALLY.EXE	438272	CFA8B1AA	663w	Dr. Drago's Madcap Chase (1995).zip						DrDragos\cd\
+DF.EXE	340480	6B01690D	665w	Dust - A Tale of the Wired West (1995).zip						Dust-ATa\DUST\
+ES.EXE	40480	CFB45175	666w	EarthSiege 2 (1996).zip						EarthSie\SIERRA\ES2\
+eastern mind.img	697201008	1DBAECB8	667w	Eastern Mind - The Lost Souls of Tong Nou (1995).zip		image				EasternM\cd\
+ECON.EXE	360960	C4FE3EB4	668w	Econ's Arena (1994).zip						EconsAre\cd\
+Elroy Goes Bugzerk.bin	328814304	01C9DE4E	669w	Elroy Goes Bugzerk (1995).zip		image				ElroyGoe\cd\
+comiccon.iso	652519424	1.61E+96	66w	Comic Book Confidential (1994).zip		image				comiconf\cd\
+Elroy Hits The Pavement.bin	632262288	00A68E67	670w	Elroy Hits the Pavement (1996).zip		image				ElroyHit\cd\
+EMLITH.EXE	46528	E4497490	671w	Emlith (1992).zip						Emlith\EMLITH\
+ENDORFUN.EXE	238080	746D4A3B	676w	Endorfun (1995).zip						Endorfun\cd\
+970208_1601.img	758557632	BD247FD0	677w	Enemy Nations (1996).zip		image				EnemyNat\cd\
+ENTOMBED.EXE	277984	2F909061	679w	Entombed (1994).zip						Entomb94\ENTOMBED\
+PANTSYLVANI.iso	285075456	BFCDB47A	67w	Pantsylvania - The Kingdom of the Fancy Pants (1995).zip		image				pantsyl\cd\
+TEMIM.EXE	306688	E57FABBC	681w	The Even More! Incredible Machine (1993).zip						TemIM3x\CD\
+EVOCD.iso	678825984	36A511A9	682w	Evocation Oltre il Sogno (1995).zip		image				Evocatio\cd\
+EXILE.EXE	2284032	1D9B6F3A	683w	Exile - Escape from the Pit (1995).zip			run.bat	411	06F5F582	Exile-Es\
+EXILE2.EXE	3246592	ED54BA2B	684w	Exile II - Crystal Souls (1996).zip			run.bat	415	2514455D	ExileII-\
+EXILE3.EXE	3972608	EE66E798	685w	Exile III - Ruined World (1996).zip			run.bat	416	B05C4D5E	ExileIII\
+ENOMERCY.EXE	341152	2D969DEC	686w	Expect No Mercy (1995).zip						ExpectNo\ENOMERCY\
+EXCHESS.EXE	439600	7B8B2C40	687w	Expert Chess (1994).zip						ExpertCh\XCHESS\
+Fleetgold.bin	590180304	B7D24D37	688w	F-14 Fleet Defender Gold (1995).zip		image				F-14Flee\cd\
+F18NFZ.EXE	3169280	FF63B5EC	689w	F-18 - No Fly Zone (1994).zip						F-18-NoF\f18nfz\
+CINEVOLT.EXE	370009	198CFEA2	68w	Cinema Volta (1994).zip						CinVolta\VOYAGER\CINEVOLT\
+BOT.EXE	1523200	AA8B8000	692w	Fast Action Paq (1993).zip			run.bat	607	0904F2B5	FastActi\
+FOB.EXE	863232	DFCDF92A	694w	Fields of Battle (1995).zip						Fieldsof\cd\
+WTOWN31.EXE	1472175	C140B436	697w	Fisher-Price Great Adventures - Wild Western Town (1997).zip						FPGAWWT\WESTERN\
+START16.EXE	918067	028A09DD	698w	Fisher-Price - Learning in Toyland (1996).zip						FPLiT\TOYLAND\
+SHADOW.EXE	369243	DE681847	69w	Book of Shadowboxes, The (1995).zip						bkshadbx\cd\
+THEWILL.EXE	155802	946DC453	6w	Will, The (1999).zip						ambWill\WINDOWS\THEWILL\
+FC.EXE	1150976	3B3BDDC7	700w	Flight Commander 2 (1994).zip						FComm2\FLTCOM\
+PROJECT.EXE	60929	C84D1FD9	702w	Flight Sim Toolkit (1993).zip			run.bat	399	BDB2E2D6	FlightSi\
+PROGRAM.EXE	179712	B15EDEA7	704w	Forever Growing Garden (1993).zip						ForeverG\GARDEN\
+FoulPlay.ISO	228999168	CA0574C1	705w	Foul Play - Mystery at Awkward Manor (1998).zip		image				FoulPlay\cd\
+FOXHUNT.EXE	341008	31FDE5D5	706w	Fox Hunt (1996).zip						FoxHunt\FOXHUNT\ENGINE\
+FRANKIE.EXE	2229509	BF7FDCA8	707w	Frankenstein - Through the Eyes of the Monster (1995).zip						Frankens\INTRPLAY\FRANKIE\
+FREDDI2.EXE	21616	92F85F11	708w	Freddi Fish 2 - The Case of the Haunted School House (1996).zip						FF2CoHSH\HEGAMES\
+WATER.EXE	21616	A495395F	709w	Freddi Fish and Luther's Water Worries (1996).zip						FFaLWW\HEGAMES\
+SYSTEM.BAG	7604412	A0F07EC9	70w	Dinonauts (1995).zip						dinonaut\DINONAUT\
+FREDDI.EXE	21696	8318D44B	710w	Freddi Fish and the Case of the Missing Kelp Seeds (1995).zip						FFCMKS\HEGAMES\
+MAZE.EXE	21648	57B089F1	711w	Freddi Fish and Luther's Maze Madness (1996).zip						FFaLMM\HEGAMES\
+SIERRAW.EXE	187392	38BFE902	712w	Freddy Pharkas Frontier Pharmacist (Win)(1993).zip						FrdPhr3x\SIERRA\FPFPCDW\
+FREEPLUS.EXE	74792	DE1E3EE6	713w	FreeCell Plus (1996).zip						FreeCell\cd\
+BASEBALL.EXE	667136	E05E3EA8	714w	Front Page Sports - Baseball Pro '96 Season (1996).zip						FPSBP96\SIERRA\BBPRO_96\
+TBASS2.EXE	569344	0.00E+00	715w	Front Page Sports - Trophy Bass 2 (1996).zip						FPSTBas2\SIERRA\TBASS2\
+TBASS2.EXE	577536	4D126F97	716w	Front Page Sports - Trophy Bass 2 - Northern Lakes (1997).zip						FPSTBasN\SIERRA\TBASS2\
+TRIVERS.EXE	671744	517298D8	717w	Front Page Sports - Trophy Rivers (1997).zip						FPSTRiv\SIERRA\TRIVERS\
+FRUCTUS.EXE	49920	78315400	718w	Fructus (1995).zip						Fructus\cd\
+PINBALL2.EXE	343568	1FCEF6AF	719w	Full Tilt! 2 Pinball (1996).zip						FTilt2\MAXIS\FTILT2\
+EXPLORERS.iso	496007168	F1ED09E7	71w	Explorers of the New World (1995).zip		image				ExpNewW\cd\
+FULLTILT.EXE	332288	CF9532F0	720w	Full Tilt! Pinball (1996).zip						FTiltP\MAXIS\FULLTILT\
+BLITZER.EXE	237312	24FBB354	722w	FunPack (1993).zip			run.bat	1087	44DB5EA0	FunPckWF\
+FURY3.EXE	645120	EFC9AD8C	724w	Fury3 (1995).zip						Fury3\FURY3\
+RESOURCE.WIN	295	85A7D47C	726w	Gabriel Knight Sins of the Fathers (Win)(1993).zip						GK13x\SIERRA\GK1WIN\
+GADGET.EXE	369009	8A39F9B9	727w	Gadget - Invention, Travel and Adventure (1995).zip						Gadget-I\GADGET\
+HHOUSE.EXE	3181345	2EA597AD	728w	Gahan Wilson's The Ultimate Haunted House (1994).zip						GahanWil\cd\HHOUSE\
+myth.iso	330371072	ABF431A9	72w	Mythology (1995).zip		image				myth3x\cd\
+GAZ.EXE	1075305	DC0E5B11	733w	Gazillionaire (1994).zip						Gaz\cd\
+GAZ2.EXE	1067371	6550BB93	734w	Gazillionaire Deluxe (1997).zip						GazDLX\GAZ2\
+GEAR_EN.EXE	272896	4946B9AC	735w	Gearheads (1996).zip						Gearhead\GEARHEAD\
+Gecko.exe	78336	A091CBAB	736w	Gecko Shuffle (1994).zip						GeckoShu\cd\
+GEOANMLS.EXE	933769	E41A8805	737w	GeoSafari - Animals (1996).zip						GeoSafar\G_SAFARI\
+GTG.EXE	538434	3EDA52F7	738w	Get the Girl! (1993).zip						GettheGi\cd\
+cd.BIN	459303264	35AA2657	739w	Gettysburg - Multimedia Battle Simulation (1994).zip		image				Gettysbu\cd\
+JIXXA.EXE	166848	0D13D89D	73w	Jixxa (1995).zip						jixxa\JIXXA\
+GHOSTS.EXE	165264	BA857674	740w	Ghosts (1995).zip						Ghosts\GHOSTS\
+GLIDERCD.EXE	285440	A5F37D65	742w	Glider 4.0 for Windows (1994).zip						Glider40\cd\
+G-Netix.iso	104996864	33FECDC8	743w	G-Netix (1995).zip		image				G-Netix\cd\
+Gtc16.exe	2221796	25FCA65F	745w	Green Thumb Cards (1996).zip						GreenThu\cd\
+UCGINIT.EXE	432679	2CB88B3F	746w	Greg Norman Ultimate Challenge Golf (1996).zip						GNCGolf\UCG4\
+GROSS.EXE	1209256	3AFE6773	748w	Grossology (1997).zip						Grossolo\SEGASOFT\GROSS\
+CYBEROPOLIS.iso	331481088	2B91D0BE	749w	Gus Goes to Cyberopolis (1994).zip		image				GusGoesC\cd\
+MS_OCEANS.iso	596455424	EC189619	74w	Microsoft Oceans (1995).zip		image				msoceans\cd\
+HRDEVDNC.EXE	751981	68C18F25	751w	Hard Evidence - The Marilyn Monroe Files (1995).zip						HardEvid\MONROE\
+WINHARP.EXE	591632	097028A2	752w	Harpoon Classic (1995).zip						HarpC95\WINHARP\
+WINHARP.EXE	677520	23713819	752w	Harpoon Classic (1995).zip						HarpC97\WINHARP\
+Living Books Harry And The Haunted House.iso	160976896	2E4D1B21	754w	Harry and the Haunted House (1994).zip		image				Harryand\cd\
+HEARTS.EXE	189968	C1BE8180	755w	Hearts for Windows (1991).zip						Heartsfo\cd\
+HELLCAB	7472	B79B6D5E	756w	Hell Cab (1993).zip						HellCab\cd\
+HERODEF.EXE	736992	F3BB9F84	758w	Hero Defiant (1998).zip						HeroDefi\MESH_HD\
+TAP.EXE	61504	7AD65761	75w	This is Spinal Tap (1994).zip						SpinTap\VOYAGER\TAP\
+HC.EXE	156160	118A4BC3	761w	High Command (1992).zip			run.bat	388	1D328F31	HighComm\
+HOTW.EXE	2931456	7A1CC22A	762w	History of the World (1997).zip						Historyo\GAMES\HISTORY\
+HODJPODJ.EXE	169936	FF95D042	763w	Hodj 'n' Podj (1995).zip						HodjnPod\HODJPODJ\META\
+HOLIUVBE.EXE	18750	18953BC7	764w	Holiday Island (1996).zip						HolidayI\HOLIDAY\
+WINMOGUL.EXE	590725	C177DA21	765w	Hollywood Mogul (1997).zip			run.bat	417	DFA6FA3A	Hollywoo\
+HOOVES.EXE	532480	39167281	766w	Hooves of Thunder! (1996).zip						Hoovesof\HOOVES\
+SIERRAWH.EXE	649084	63837346	767w	Hoyle Bridge (1996).zip						HoyleBri\SIERRA\HOYLEB\
+SCIWV.EXE	169472	2CF7BCAA	768w	Hoyle Classic Card Games (Win)(1993).zip						HCC3x93\SIERRA\CLASSIC\
+POKER.EXE	798720	3055FCB1	769w	Hoyle Poker (1997).zip						HoylePok\SIERRA\POKER\
+SIERRAWH.EXE	649084	63837346	770w	Hoyle Solitaire (1996).zip						HoyleSol\cd\
+NEW.EXE	1605440	8A8E11B0	773w	Huygen's Disclosure (1996).zip						HuygensD\HUYGEN\
+HYPEROID.EXE	50752	CB7A5EB3	774w	Hyperoid (1991).zip						Hyperoid\cd\
+cd.BIN	680741712	6B1AF28C	776w	I can be a Dinosaur Finder (1997).zip		image				IcanbeaD\cd\
+IF_W.EXE	741376	24729FD0	777w	Ice and Fire (1995).zip						IceFire\IF\
+kiyeko.ISO	677019648	258B318F	77w	Kiyeko and the Lost Night (1995).zip		image				kiyeko\cd\
+IMPROV.EXE	730079	BC074230	781w	The Improv Presents - Don't Quit Your Day Job (1996).zip						TheImpro\IMPROV\
+TIMWIN.EXE	454656	8E9DFB55	782w	The Incredible Machine Version 3.0 (1995).zip						TiM23x\SIERRA\TIMWIN\
+MPC_TOON.EXE	1171456	F95B0C82	783w	The Incredible Toon Machine (1994).zip						TITM3x\SIERRA\TOONS\
+DESKADV.EXE	264208	95284BC7	784w	Indiana Jones and his Desktop Adventures (1996).zip						IndyDesk\INDYDESK\
+PATIENCE.EXE	1055284	B8FFD858	786w	Infinite Patience (1997).zip						Infinite\cd\
+cd.BIN	432052992	8F383F79	787w	In Grandma's Attic (1996).zip		image				InGrandm\cd\
+EARTH.EXE	299008	9288FDC5	78w	Beyond Planet Earth (1994).zip						DSBeyPE\DISCOVER\EARTH\
+BLAKE16.EXE	932417	E990900D	790w	The Interactive Adventures of Blake and Mortimer - The Time Trap (1997).zip						TheInter\INDEX\BLAKE\
+MNEMONIC.EXE	304608	A6DAEC05	795w	Johnny Mnemonic (1995).zip						JohnnyMn\MNEMONIC\ENGINE\
+scijones.exe	136192	C9C2BBFD	796w	Jones in the Fast Lane - CD-ROM (Win)(1992).zip						Jones3x\CD\
+Moraff.exe	456192	C5558460	797w	The 'Jongg CD! (1997).zip						TheJongg\MORAFF\
+QUEST.EXE	929869	A5B81D70	798w	Jonny Quest - The Real Adventures - Cover-Up at Roswell (1996).zip						JonnyQue\VSVAPPS\QUEST\
+BITMPC.EXE	52464	4B117A4F	799w	The Journeyman Project 2 - Buried in Time (1995).zip						JourP2\BITMPC\
+cd.BIN	540374352	4DEC74EE	79w	Resident's, The - Gingerbread Man (1994).zip		image				ResiGBM\cd\
+AIV2.EXE	156698	8DD7DC0E	7w	AI v2 (1998).zip						ambAI\WINDOWS\AIV2\
+JMAN2.img	475070464	0E0C369B	800w	The Journeyman Project (1993).zip		image				JourP\cd\
+JMAN.EXE	480256	9900287E	801w	The Journeyman Project - Turbo! (1994).zip						JourPT\JMAN\
+cd.BIN	747583200	1BB383D3	802w	Journey to the Centre of the Earth (1995).zip		image				JttCEart\CD\
+JMA.EXE	572339	4D9FF683	803w	Juilliard Music Adventure (1995).zip						Juilliar\JMA\
+JUMANJI.EXE	498176	832DA293	804w	Jumanji (1997).zip						Jumanji\JUMANJI\
+jraven.img	614996256	38352BF2	805w	Jump Raven (1994).zip		image				JumpRave\cd\
+FG.EXE	388448	22FA6C1A	806w	Jump Start 1st Grade (1995).zip						JS1st\KA\FG\
+2G.EXE	539104	8CA07515	807w	Jump Start 2nd Grade (1996).zip						JS2nd\KA\2G\
+3G.EXE	776304	7415C906	808w	Jump Start Adventures 3rd Grade - Mystery Mountain (1996).zip						JS3rd\KA\3G\
+4G.EXE	262144	C2E532D5	809w	Jump Start Adventures 4th Grade - Haunted Island (1996).zip						JS4th\KA\4G\
+KIDRIFFS.EXE	8686	530AF760	80w	Kid Riffs (1995).zip						kidriffs\KIDRIFFS\
+5G.EXE	566752	35CFF31E	810w	Jump Start Adventures 5th Grade - Jo Hammet, Kid Detective (1997).zip						JS5th\KA\5G\
+PRSCHOOL.EXE	33576	796F89AE	812w	Jump Start Pre-K (1996).zip						JSPreK\KA\PRSCHOOL\
+JUNGLE.EXE	2298496	2DA6E829	813w	Jungle Book (1996).zip						JungleBo\JUNGLE\
+GandMe.iso	139149312	0899EC64	814w	Just Grandma and Me (1993).zip		image				JustGran\cd\
+KARMA.EXE	697047	8475286C	815w	Karma - Curse of the 12 Caves (1995).zip						Karma-Cu\KARMA\
+SCIKQ5.EXE	140288	1233BE6B	818w	King's Quest V - Absence Makes the Heart Go Yonder! (1992).zip		image				kq5win\cd\
+SCIWV.EXE	190464	7916D720	819w	King's Quest VI - Heir Today Gone Tomorrow CD (1992).zip						KQ6CD3x\SIERRA\KQ6CD\
+UAVPOC.img	592024272	D4170AA1	81w	Young Pocahontas Interactive Storybook (1995).zip		image				YPocaIS\cd\
+KNP.EXE	421504	53D3077F	820w	Klik and Play (1994).zip			run.bat	396	3552548C	KlikPlay\
+KOALA.EXE	698880	6C4C8E4D	821w	Koala Lumpur - Journey to the Edge (1997).zip						KoalaLum\KOALA\
+KYE.EXE	90112	542D6EDE	822w	Kye (1992).zip						Kye\cd\
+kyodai.exe	217344	7426525A	823w	Kyodai (1997).zip						Kyodai\cd\
+LABYRNTH.bin	270585840	7E894C27	824w	Labyrinth of Crete (1995).zip		image				LabCret\cd\
+MORLOV.EXE	624656	0EE499E1	825w	L'affaire Morlov (Win)(1996).zip						LAfMor3x\MORLOV\
+WLOADER.EXE	671248	3BA62879	827w	The Last Dynasty (1995).zip						TheLastD\SIERRA\DYNASTY\
+GAMEX.EXE	8291840	BAADEAAF	829w	Legions (1994).zip						Legions\MINDSCPE\LEGIONSW\
+YACHT.EXE	47616	EDB165C6	82w	Yacht (1993).zip						yacht\cd\
+LENNY.EXE	138240	D2D0DF9B	832w	Lenny's Music Toons (1993).zip						LennysMu\LENNY\
+CPPD16.EXE	987176	9074EB60	834w	Les Guignols de l'Info - Le Cauchemar de PPD (1996).zip						LGdePPD\CPPD\
+LE_JEU.EXE	37904	2.93E+07	835w	Les Guignols De L'Info...Le Jeu ! (1995).zip						LGLeJeu\LE_JEU\
+JUNGLE.EXE	35328	3C49CA03	837w	Let's Explore the Jungle (1995).zip						LetsExpl\HEGAMES\
+ABOUTME.EXE	3187463	15A796BA	838w	Let's Talk About Me (1996).zip						LetsTalk\ABOUTME\
+ST_OMNI2.EXE	809781	47DC1916	83w	Star Trek Omnipedia (1995).zip						STOmni\OMNI_UDT\
+Kuwait.EXE	130512	0C952479	840w	The Liberation of Kuwait (1991).zip						TheLiber\cd\
+LITLITE.EXE	451376	163D0AB0	843w	Literati (1994).zip						Literati\cd\
+cd.iso	162256896	CFCBA40F	844w	Little Monster at School (1994).zip		image				LittleMo\cd\
+LAF.EXE	232464	C1F916BC	845w	Live Action Football (1994).zip						LiveActi\LAF\
+TRIAZZLE.EXE	4189184	4A8E9DBE	846w	Living Puzzles - Triazzle (1995).zip						LivingPu\TRIAZZLE\
+LODERUNN.EXE	438272	4EF0F0C0	848w	Lode Runner - The Legend Returns (Win)(1994).zip						LRLR3x\SIERRA\LODERUNN\
+ZOOMBINI.EXE	951824	5DE19D14	849w	Logical Journey of the Zoombinis (1996).zip						LogicalJ\ZOOMBINI\
+OTTER.img	282947952	DF127CCA	84w	Otter's Adventure, The (1995).zip		image				OtAdv\cd\
+DRBRAIN3IBM.img	285194112	D439672C	852w	The Lost Mind of Dr. Brain (1995).zip		image				TheLostM\cd\
+SCIWV.EXE	179200	21D58A0C	853w	EcoQuest 2 - Lost Secret of the Rainforest (Win)(1993).zip						eco23x\SIERRA\RAIN\
+LUCAS.EXE	39936	90B990B7	855w	Lucas's Problem (1990).zip						LucassPr\cd\
+lunicus.img	650753712	668A31B2	856w	Lunicus (1994).zip		image				Lunicus\cd\
+L_ZONE.EXE	370009	47E6CF38	857w	L-Zone (1993).zip						L-Zone\L_ZONE\
+MAABUS.EXE	257800	B891741E	858w	Maabus (1995).zip						Maabus\MAABUS\
+MACBLAST.EXE	51712	DF0AAB66	859w	MacBlaster (1992).zip						MacBlast\cd\
+UAVSNOW.img	589822800	9EB1F6AF	85w	Snow White and the Magic Mirror Interactive Storybook (1995).zip		image				SWMM\cd\
+RAINYDAY.EXE	856457	7F7E98A0	860w	Madeline's Rainy Day Activities (1996).zip						Madeline\CWONDERS\MRDA\
+MAGIC.EXE	375298	9B4E8556	861w	The Magic Death - Virtual Murder 2 (1993).zip						TheMagic\cd\MAGICMPC\
+MAGNARUN.EXE	1652512	6D90BF4B	862w	MagnaFlux Runner (1993).zip						MagnaFlu\MAGNARUN\
+majesticae.img	325326288	399FCFBF	863w	Majestic Part 1 - Alien Encounter (1995).zip		image				Majestic\cd\
+ManholeME.img	300413904	A79010AC	864w	The Manhole - CD-ROM Masterpiece Edition (1994).zip		image				TheManho\cd\
+MANHOLE.bin	312580800	B9493D2E	865w	The Manhole - New and Enhanced (1992).zip		image				ManE3x\CD\
+cd.BIN	680040816	E6EB7B7E	866w	Maniac Sports (1994).zip		image				ManiacSp\cd\
+MARBLE.EXE	718864	E2356BC7	867w	Marble Drop (1997).zip						MarbleDr\MAXIS\MARBLE\
+cd.iso	666015744	D1D9C479	868w	Mario Teaches Typing 2 (1997).zip		image				MTType2\CD\
+SCRUTINY.EXE	724885	CF63DE37	86w	Scrutiny In The Great Round (1995).zip						ScrutGR\SCRUTINY\
+BJWIN.EXE	364256	E748B799	870w	Masque Blackjack (1994).zip						MasqueBl\MASQUE\BJWIN\
+CSTUDPRO.EXE	372224	5C9E1450	871w	Masque Caribbean Stud Poker (1995).zip						MasqueCa\cd\
+CHESSNET.EXE	429104	842995CE	872w	Masque ChessNet 3 (1994).zip						MasqueCh\MASQUE\CHESSNET\
+i100_203.img	104767488	90885CB2	873w	Masque Solitaire Antics (1994).zip	boot	image				MasqueSo\
+VPWIN.EXE	220928	E1EFA58A	874w	Masque Video Poker (1995).zip						MasqueVi\MASQUE\VPWIN\
+MSTRMND.EXE	193536	0555FAA6	875w	BBC Mastermind (1996).zip						BBCMast\BBCSOFT\MM1\
+E2CD16.EXE	465264	B52BEC7A	877w	Math Blaster - Episode 2 - Secret of the Lost City (1994).zip						MBlast2\LOSTCITY\
+MUNCH16.EXE	431648	F26498A8	878w	Math Munchers Deluxe (1995).zip						MathMunc\TLC\MMUNCHER\
+i50_101.img	52125696	8BD3C446	879w	Math Rabbit Deluxe (1993).zip	Boot					MathRabD\
+SOFTKEY.img	364726992	1A7D9E21	87w	Safety Scavenger Hunt (1994).zip		image				SafeScav\cd\
+CLASSIC22.img	561500016	DEA5BDBC	880w	Maui Mallard in Cold Shadow (1996).zip		image				MauiMall\cd\
+MAVEN.EXE	1056768	387B5080	881w	Maven (1995).zip						Maven\MAVEN\
+cd.BIN	88531632	682AE6D4	882w	Mavis Beacon Teaches Typing! for Kids (1994).zip		image				Mavis3x\CD\
+MQUEST16.EXE	637600	E3B8B76E	885w	MayaQuest Trail (1995).zip						MayaQues\MECC\MQUEST\
+MAZEMAKR.EXE	82336	E05C7C5C	886w	Mazemaker (1992).zip						Mazemake\cd\
+MCKFRAME.EXE	3217950	BF29F786	887w	McKenzie and Co. (1995).zip						McKenzie\MCKENZIE\
+Sonknpcl.exe	63648	47559CE9	88w	Sonic KNP Collection (1999).zip						SonicKNP\cd\
+MERLINS1_12NON1.bin	177500736	63453055	898w	Merlin's Apprentice (1995).zip		image				MerlinsA\cd\
+METAL.EXE	4768000	F6696204	899w	Metal Marines (1994).zip						MMarine\METAL\
+SURVIVE.EXE	703155	6B59F7B6	89w	How Would You Survive (1995).zip						HWUS\SURVIVE\
+MMASH.EXE	168458	8C250293	8w	Meteor Mash (1997).zip						ambMash\WINDOWS\MMASH\
+cd.iso	132734976	FEBB64B6	900w	Metal Marines Master Edition (1995).zip		image				MMarineM\cd\
+Latex_1.img	634096848	A2B3D631	902w	Michael Ninn's Latex - The Game (1996).zip		image	run.bat	591	27E4CD08	MichaelN\
+SNARK.EXE	571746	B8E52B66	903w	MicroProse Entertainment Pack Vol #1 - Dr Floyd's Desktop Toys (1993).zip						DrFloyd\FLOYD1\
+ASTEROID.EXE	165120	61DE4F3B	904w	Microsoft Arcade (1993).zip						MSArc\ARCADE\
+MSBob10a.iso	43016192	275A73B2	905w	Microsoft Bob (1995).zip		image				MSBob\cd\
+JIGSAWED.EXE	66904	EAD5FAA4	906w	Microsoft Entertainment Pack 2 (1991).zip						MSEnt2\WEP\
+FUJIGOLF.EXE	253952	9D44CB65	907w	Microsoft Entertainment Pack 3 (1991).zip						MSEnt3\WEP\
+JEZZBALL.EXE	49664	3B6D59FC	908w	Microsoft Entertainment Pack 4 (1992).zip						MSEnt4\WEP\
+TETRIS.EXE	61936	340BB7B5	909w	Microsoft Entertainment Pack for Windows (1990).zip						MSEnt1\cd\1\
+LEOP100A_01.img	490349664	53C729C4	90w	How the Leopard Got His Spots (1995).zip		image				HtLGHS\cd\
+MSGOLF.EXE	43680	500B07C5	911w	Microsoft Golf 2.0 (1995).zip						MSGolf2\MSGOLF2\
+SOL.EXE	180688	FAED1991	912w	Microsoft Solitaire (1990).zip						MSSoli\WINDOWS\
+MULLIGAN.EXE	918481	C26515C4	914w	Mike Mulligan and His Steam Shovel (1996).zip						MikeMull\MULLIGAN\
+AUCTION.EXE	416848	F1A5289D	915w	Millennium Auction (1994).zip						Mauction\AUCTION\
+MILLIE.EXE	728064	B821C329	916w	Millie's Math House (1992).zip						MilliesM\EDMARK\MILLIE\
+MILO.EXE	704645	35363F7E	917w	Milo (1996).zip						Milo\MILO\
+PYTHON.EXE	65248	B2181BD0	918w	Monty Python's Complete Waste of Time (1994).zip						MPWaste\7THLEVEL\PYTHON\
+HOLLYWD.EXE	545593	ED3DAFF5	91w	Hollywood (1995).zip						hollyw3x\HOLLYWD\
+GRAIL.EXE	96656	D1AB49DD	920w	Monty Python & the Quest for the Holy Grail (1996).zip						MPHolyG\GRAIL\
+MORDOR.EXE	1199633	5671DD67	921w	Mordor - The Depths of Dejenol (1995).zip						Mordor-T\MORDOR\
+MORT10.EXE	62192	B74DB07C	922w	Mortuum (1995).zip						Mortuum\MORTUUM\
+MOSAIC.EXE	195584	8FCD9FD5	923w	Mosaic (1993).zip						Mosaic\SBPRO\WINAPPL\
+PUZZLE.EXE	738584	4B610A17	924w	Moving Puzzle - Cats (1998).zip						MPCats\PUZZLE\CATS\
+PUZZLE.EXE	738584	4B610A17	925w	Moving Puzzle - Jungle World (1998).zip						MPJungle\PUZZLE\JUNGLE\
+DRUMSTIX.EXE	580608	608AE7CB	926w	Mr. Drumstix' Music Studio (1993).zip						MrDrumst\cd\
+cd.iso	361164800	D6662C8F	927w	Mr. Potato Head Saves Veggie Valley (1996).zip		image				MrPotato\cd\
+MSCHOMP.EXE	146832	680A87FA	928w	Ms. Chomp (1992).zip						MsChomp\
+PEANUTS.iso	398909440	648F8E96	92w	Get Ready for School, Charlie Brown! (1995).zip		image				GRFSCB\cd\
+MM.EXE	189072	46A69632	930w	Ms. Metaverse (1995).zip						MsMetave\VVEGAS\MM\
+POKER.EXE	132304	EC11F2DD	931w	Multimedia Celebrity Poker (1995).zip						MCelePkr\cd\CPOKER\
+cd.BIN	66288768	60600A66	932w	Multimedia Dinosaurs (1999).zip		image				MulDinos\cd\
+MUMMY.EXE	2939630	BA7E25DE	933w	Mummy - Tomb of the Pharaoh (1996).zip						MummyToP\INTRPLAY\MUMMY\
+TREASURE.EXE	327152	517E3F3E	935w	Muppet Treasure Island (1996).zip						MuppetTr\ACTIVISN\MTI\DATA_MTI\
+MYST.EXE	446480	AFEB2E71	937w	Myst (1993).zip						Myst\MYST\
+GREVE16.EXE	1041257	F7BB756A	938w	The Mystery at Greveholm (1997).zip						TheMyste\GENIUS\GREVE\
+cd.BIN	390831840	504FF789	93w	Eek!Stravaganza - The EeX Files (1996).zip		image				Eek\cd\
+NANOTANK.EXE	287232	481259AE	940w	Nanotank (1993).zip						Nanotank\cd\
+NILE.EXE	2820199	B11EA7B8	941w	Nile - Passage to Egypt (1995).zip						Nile-Pas\DISCOVER\NILE\
+MISSILE.EXE	93351	F8853494	942w	Nisus Missile Master (1994).zip						NisusMis\cd\
+NITE3W.EXE	230128	6BEA3BDD	943w	Nitemare-3D (Win)(1994).zip						Nite3d3x\N3W\
+NOIR.EXE	1020879	07F7B0C8	944w	Noir - A Shadowy Thriller (1996).zip						Noir-ASh\NOIR\
+NOISY.EXE	118127	A6937B20	945w	Noisy Video Poker and Blackjack (1995).zip						NoisyVid\NOISY\
+0X.EXE	44096	4BF565ED	946w	Noughts and Crosses (1993).zip						Noughtsa\cd\
+ODELL.EXE	641552	35ABE2C2	947w	Odell Down Under (1994).zip						OdellDow\ODELL\
+DART.EXE	462336	44E91D03	949w	Office Darts 301 (1994).zip						OfficeDa\cd\
+ATOZAP.EXE	484368	D4227175	94w	A to Zap! (1995).zip						A2Zap\ATOZAP\
+BANDIT.EXE	72704	F4487A14	952w	One Armed Bandit (1991).zip						OneArmed\cd\
+OOG.EXE	422912	07DE20FE	953w	OOG - The Object Orientation Game (1995).zip						OOG-TheO\OOG\
+ON16.EXE	591312	7D276704	954w	Opening Night (1995).zip						OpeningN\MECC\OPENNITE\
+OPERA.iso	670617600	1F6FFBD1	955w	Opera Fatal (1996).zip		image				OperaFat\cd\
+TX2.EXE	2585471	DFE1F293	956w	Operation - Eco-Nightmare (1997).zip						OpEcoNi\DISCOVER\TEAMX2\
+INSPACE.EXE	310112	58D2482D	957w	Operation - Inner Space (1994).zip						OpInner\SPACE\
+ONWINCD.EXE	300544	6F465D46	958w	Operation Neptune (1995).zip						OpNep3x\TLCWIN\ONWINCD\
+OSLOTG.EXE	995939	22321CCF	95w	Adventure With Oslo - Tools and Gadgets (1994).zip						AdvOslo\OSLO\
+OTII16.EXE	942096	BEFE8FB2	960w	Oregon Trail II (1995).zip						OTrail2\MECC\OTII\
+OREGON.EXE	278480	A8610592	961w	Oregon Trail II - 25th Anniversary Limited Edition (1996).zip			run.bat	1067	C83173A2	OTrail25\
+OSWALD31.EXE	1078137	94F733F5	962w	Oscar the Balloonist and the Secrets of the Forest (2000).zip						OtBSotF\TIVOLA\OSCAR1\
+OSSEE16.EXE	1198794	53BFBADD	963w	Oscar the Balloonist Dives into the Lake (2000).zip						OtBDitL\TIVOLA\OSCAR3\
+OUTPOST.EXE	640640	3FECC44B	964w	Outpost (1994).zip						Outpost\SIERRA\OUTPOST\
+OTR31.EXE	1691648	AC3CCCE3	965w	Over the Reich (1996).zip						OvertheR\OVRREICH\
+PAGEMSTR.EXE	1796096	DAE4282D	967w	The Pagemaster (1994).zip						ThePagem\PAGEMSTR\
+PAJAMA2.EXE	22352	95B4E9D7	968w	Pajama Sam 2 - Thunder and Lightning aren't so Frightening (1998).zip						PSTaL\HEGAMES\
+LOST.EXE	21616	1EB7D00F	969w	Pajama Sam - Lost and Found (1998).zip						PSLaF\HEGAMES\
+cd.BIN	37349760	DD060249	96w	Barry the Bear (1994).zip		image				BaryBear\CD\
+PAJAMA.EXE	21616	13BEFD98	971w	Pajama Sam - No Need to Hide When It's Dark Outside (1996).zip						PSNNH\HEGAMES\
+SOCKS.EXE	21616	8F94CC65	972w	Pajama Sam's SockWorks (1997).zip						PSSW\HEGAMES\
+PALACE21.EXE	3788702	BFF10C3B	973w	The Palace of Deceit - The Dragon's Plight (1992).zip						ThePalac\cd\
+PANIC.EXE	577426	B7360A84	974w	Panic in the Park (1995).zip						Panicint\PANIC\
+PPRAZZI.EXE	5331351	90FD36FA	975w	Paparazzi! - Tales of Tinseltown (1995).zip						Paparazz\MUSE_PC\
+cd.BIN	562019808	C0C6E6E9	976w	Paperopolis (1995).zip		image				Paperopo\cd\
+PYTHON.EXE	196096	33B66334	977w	Paulie Python (1993).zip						PauliePy\cd\
+STARTDOG.EXE	818961	8B79F1E2	978w	P.A.W.S. - Personal Automated Wagging System (1995).zip						PAWS-Per\PAWS\
+GPBA.EXE	278528	A2C6199E	979w	PBA Bowling (1995).zip						PBABowli\GAMES\PBA\
+RODSTART.EXE	697661	3D8D5B1C	97w	Between Earth And The End Of Time (1996).zip						BEatEoT\BETWEEN\
+SCIWV.EXE	179712	8307077D	981w	Pepper's Adventures in Time (Win)(1993).zip						PepTim3x\SIERRA\PEPPER\
+PPB.EXE	457773	1A0A837D	983w	Perfect Partner Bridge (1995).zip						PerfectP\PPB\
+PETER.EXE	88832	3B589E91	985w	Peter and the Wolf (1995).zip						Peterand\IBM\PETER\
+ADW30.EXE	286192	96637687	98w	After Dark 3.2 (1995).zip						adark3\AFTERDRK\
+PILGRIM.EXE	831488	853F276E	990w	Pilgrim - Faith as a Weapon (1998).zip						Pilgrim-\PILGRIM\
+CKPC.EXE	161776	C0F13F97	992w	Pinball Builder - A Construction Kit for Windows (1996).zip						PinballB\CKPC\
+WP.EXE	639414	D3EF2A07	993w	Pirates! Gold (1994).zip						pgold3x\CD\
+PUZZLES.EXE	1916720	368FCCD6	995w	Playskool Puzzles (1996).zip						Playskoo\cd\
+POOL.EXE	455576	4C84EAC0	998w	Pool Champion (1995).zip						PoolCham\POOL\
+POWHS.EXE	957328	C96EDD9D	999w	Powerhouse (1995).zip						Powerhou\POWER\
+MMULTRA.EXE	440320	F26A4BA9	99w	AweSome Animated Monster Maker (1997).zip			run.bat	466	7E396F03	AweMM\
+NIGHTB4.EXE	143120	7D6B1FBC	9w	Night Before Christmas (1999).zip						ambNBC\WINDOWS\NIGHTB4\

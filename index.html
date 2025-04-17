@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>DOS Game Installer Analyzer</title>
+	<style>
+		body {
+			background-color: #333;
+			color: #fff;
+			font-family: monospace;
+			font-size: 1.4em;
+		}
+		button,
+		input {
+			font: inherit;
+		}
+		pre {
+			white-space: pre-wrap;
+		}
+		#itemsList > div:hover {
+			cursor: pointer;
+			background-color: #555;
+		}
+		#itemsList .active {
+			background-color: #fff;
+			color: #000;
+			pointer-events: none;
+		}
+	</style>
+</head>
+<body>
+
+<div id="controls" style="background-color: #333;position: sticky;top:0">
+	<form id="search" style="display: inline;">
+	<input type="search" id="searchInput" autofocus placeholder="substring of name"><button>search</button>
+	</form>
+
+	<input type="file" id="searchFile">
+
+	<button id="rand">random game</button>
+</div>
+
+<div id="progress" style="width: 0%;height: 1em;background-color: #fff;color:#000;line-height:1em;font-size:1em;white-space: nowrap; margin: 1em 0;"></div>
+
+<div id="out">
+	<div id="itemsList"></div>
+	<pre id="output"></pre>
+</div>
+<script src="jszip.min.js"></script>
+<script>
+
+
+var data = {
+	meta: 'data/Meta Index.txt',
+	canon: 'data/Canon Index.txt',
+	settings: 'data/Configuration Index Settings.txt',
+	setup: 'data/Configuration Index Setup.txt',
+	configuration: 'data/Configuration Index.txt',
+	controller: 'data/Controller Index.txt',
+	identification: 'data/Identification Index.txt',
+}
+
+Promise.all(Object.values(data).map(url=>getData(url))).then(dataIndex => {
+	Object.keys(data).forEach((key, index)=>{
+		data[key] = dataIndex[index];
+	});
+
+	console.log(data);
+})
+
+rand.onclick = function () {
+	var randMeta = getRand(data.meta);
+	var id = randMeta['EXOID'];
+
+	output.innerHTML = '';
+	itemsList.innerHTML = '';
+
+	getInfoByID(id);
+}
+
+function getInfoByID (id) {
+	output.innerHTML = '';
+
+	for (let i = 0; i < Object.keys(data).length; i++) {
+		const key = Object.keys(data)[i];
+		const Index = data[key];
+		const Data = getGameById(id, Index);
+		output.innerHTML += key+'\n';
+		output.innerHTML += JSON.stringify(Data, null, '\t') +'\n\n';
+	}
+}
+
+function getGameById (id, arr) {
+	for (let index = 0; index < arr.length; index++) {
+		if (arr[index]['EXOID'] === id) {
+			return arr[index];
+		}
+	}
+
+	return 'NULL';
+}
+
+function getRand (arr) {
+	return arr[Math.floor(Math.random() * arr.length)]
+}
+
+
+function getData (url) {
+	return fetch(url).then(r=>r.text()).then(data=>{
+		return parseCSVContent(data);
+	})
+}
+
+function parseCSVContent(content, completeCallback) {
+	content = content.split('\n');
+
+	var result = [];
+	var header = content[0].split('\t').map(item=>item.toUpperCase());
+
+	for (let i = 0; i < content.length; i++) {
+		const row = content[i].split('\t');
+		var item = {};
+		row.forEach((rowItem, k) => {
+			item[header[k]] = rowItem
+		});
+		result.push(item);
+	}
+
+	result.shift();
+
+	return result;
+}
+
+searchFile.onchange = async function(e) {
+	const file = e.target.files[0];
+
+	if (file) {
+		if (
+			file.name.endsWith('.zip')
+			|| file.name.endsWith('.jsdos')
+		) {
+			const zip = new JSZip();
+			const zipContent = await zip.loadAsync(file);
+
+			console.log(zipContent.files);
+
+			var items = [];
+			output.innerHTML = '';
+			itemsList.innerHTML = '';
+
+			await getGamesByIdentifications(zipContent, items);
+			drawGameList(items);
+		} else {
+			alert('only jsdos and zip archives are supported!')
+		}
+	}
+};
+
+async function getGamesByIdentifications (zipContent, items) {
+	for (let i = 0; i < data.identification.length; i++) {
+		const item = data.identification[i];
+		const filename = item['IDENTIFICATION FILENAME'].toLowerCase();
+		const size = item['SIZE'];
+
+		if (i % 50 === 0) {
+			await new Promise(resolve => {
+				setTimeout(() => {
+					resolve()
+				}, 0);
+			});
+		}
+
+		progress.style.width = i / data.identification.length * 100 +'%';
+		progress.innerHTML = i +' / '+ data.identification.length;
+
+		for (let k = 0; k < Object.keys(zipContent.files).length; k++) {
+			const zipFileName = Object.keys(zipContent.files)[k].toLowerCase().split(/\//g).pop();
+			const zipFileSize = zipContent.files[Object.keys(zipContent.files)[k]]._data.uncompressedSize +'';
+
+			if (
+				zipFileName === filename
+				&& zipFileSize === size
+			) {
+				items.push(item);
+				break;
+			}
+		}
+	}
+
+	progress.style.width = '0%';
+	progress.innerHTML = '';
+}
+
+search.onsubmit = function (e) {
+	e.preventDefault();
+
+	var items = getMetaByNameSubstring(searchInput.value);
+
+	output.innerHTML = '';
+
+	drawGameList(items.sort((a,b)=>{return a['GAME']-b['GAME']}), 'GAME');
+}
+
+function getMetaByNameSubstring (substr) {
+	return data.meta.filter(item=>{
+		if (
+			item['GAME']
+			&& item['GAME'].match(new RegExp(substr,'i'))
+		) {
+			return item;
+		}
+	})
+}
+
+function drawGameList (items, name = 'ZIP') {
+	itemsList.innerHTML = '';
+	
+	if (items.length === 0) {
+		itemsList.innerHTML = 'NO GAME FOUND'
+	}
+	else if (items.length === 1) {
+		getInfoByID(items[0]['EXOID'])
+	}
+	else {
+		items.forEach(item => {
+			var itemTrigger = document.createElement('div');
+			itemTrigger.innerHTML = item[name];
+			itemTrigger.dataset.id = item['EXOID'];
+			itemTrigger.onclick = function () {
+				itemsList.querySelectorAll('div').forEach(div=>div.classList.remove('active'))
+				this.classList.add('active');
+				getInfoByID(itemTrigger.dataset.id);
+			}
+			itemsList.append(itemTrigger);
+		});
+	}
+}
+
+
+</script>
+</body>
+</html>

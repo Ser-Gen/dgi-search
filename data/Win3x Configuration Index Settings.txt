@@ -1,0 +1,1139 @@
+eXoID	Game	Folder	sdl__fulldouble	sdl__fullfixed	sdl__output	sdl__autolock	sdl__sensitivity	sdl__mapperfile	sdl__usescancodes	sdl__overscan	sdl__titlebar	sdl__showmenu	dosbox__machine	dosbox__vmemsize	dosbox__memsize	render__char9	render__doublescan	render__autofit	vsync__vsyncmode	cpu__core	cpu__cputype	cpu__cycles	cpu__cycleup	cpu__cycledown	keyboard__aux	pci__voodoo	pci__voodoomem	mixer__rate	mixer__blocksize	mixer__prebuffer	midi__mpu401	midi__mididevice	midi__fluid_dot_soundfont	midi__fluid_dot_gain	midi__mt32_dot_romdir	midi__mt32_dot_output_dot_gain	sblaster__sbtype	sblaster__sbbase	sblaster__goldplay	sblaster__irq	sblaster__dma	sblaster__hdma	sblaster__sbmixer	sblaster__oplmode	sblaster__oplemu	sblaster__oplrate	gus__gus	gus__gusrate	gus__gusdma	gus__ultradir	innova__innova	speaker__ps1audio	speaker__ps1audiorate	speaker__pcspeaker	speaker__pcrate	speaker__wizpopfix	speaker__tandy	speaker__tandyrate	speaker__disney	joystick__joysticktype	joystick__timed	joystick__buttonwrap	dos__xms	dos__ems	dos__umb	dos__keyboardlayout	ipx__ipx	ne2000__ne2000	ne2000__macaddr	log__logfile
+355w	101 Dalmatians: Escape From DeVil Manor	101Dalma			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+359w	1942: The Pacific Air War Gold	1942-The			openglnb			mapper.map	false				svga_s3		32							15000								20		mt32	.\mt32\SoundCanvas.sf2		.\mt32												true												false	none			false							
+59w	20,000 Leagues Under The Sea	20k3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+373w	Activision's Atari 2600 Action Pack	2600p1			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+374w	Activision's Atari 2600 Action Pack 2	2600p2			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1877w	Second Conflict	2ndConf			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1762w	3D Atlas '98	3DAtlas			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+248w	3-D Dinosaur Adventure: Anniversary Edition	3DDino3x			openglnb			mapper-0.74.map					svga_s3		63							45000								20																																								
+249w	3D Maze	3DMaze			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1350w	3DPC	3DPC			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+250w	3D Thinking Lab	3DThinki			openglnb			mapper-0.74.map					svga_s3		32						486_slow	max								20																																								
+252w	3-D Ultra Pinball	3DUP			openglnb			mapper-0.74.map					svga_s3		63					dynamic	pentium_slow	max								20																																								
+253w	3-D Ultra Pinball: Creep Night	3DUPCN			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	max								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+255w	3-D Ultra Pinball: The Lost Continent	3DUPLC			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	45000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+251w	3-D Ultra Minigolf	3DUPMG			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	max								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1390w	Four Footed Friends	4FootFnd			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+1393w	4 Play	4play			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+365w	9: The Last Resort	9-TheLas			openglnb			mapper-0.74.map					svga_s3		31							max								20																																		false						
+1874w	Nine Worlds	9Worlds			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+94w	A to Zap!	A2Zap			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+1924w	Amazing Animals Activity Pack	AAAC			direct3d			mapper-0.74.map					svga_s3		63							55000								20																																								
+1923w	Alice's Adventures in Wonderland	AAiW			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+437w	The Awesome Adventures of Victor Vector & Yondo: The Cyberplasm Formula	AAVVCybe			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+439w	The Awesome Adventures of Victor Vector & Yondo: The Last Dinosaur Egg	AAVVDino			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+438w	The Awesome Adventures of Victor Vector & Yondo: The Hypnotic Harp	AAVVHypn			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+440w	The Awesome Adventures of Victor Vector & Yondo: The Vampire's Coffin	AAVVVamp			openglnb			mapper-0.74.map					svga_s3		64							8000								20																																								
+366w	Abalone	Abalone			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+331w	The Adventures of Batman & Robin Cartoon Maker	abrCM			openglnb			mapper-0.74.map					svga_s3									10000								20																																								
+370w	Ace Ventura	AceVentu			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+371w	Achtung Spitfire	AchtungS			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+98w	After Dark 3.2	adark3			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1927w	The Adventures of Batman and Robin: Activity Center	AdvBRAC			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+95w	Adventures With Oslo: Tools and Gadgets	AdvOslo			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+379w	The Adventures of Pinocchio	AdvPinoc			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+380w	The Adventures of Valdo & Marie	AdvVald			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20													false																											
+215w	Aesop's Fables	AesopF			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+381w	AFL Finals Fever	AFLFinal			openglnb			mapper-0.74.map					svga_s3		64							20000								20																																								
+382w	Africa Trail	AfricaTr			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+384w	Age of Sail	AgeofSai			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+386w	Air Havoc Controller	AirHavoc			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+387w	Alge-Blaster 3	Alge-Bla			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+352w	Alien Arcade	aliarca			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+388w	Alice: An Interactive Museum	Alice-In			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+389w	Alien Force	AlienFor			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+390w	Aliens	Aliens3x			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+391w	AlienTic	AlienTic			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+65w	Alien Tales	AliTales			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+392w	Allied General	AlliedGe			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+237w	The Gigglebone Gang: AlphaBonk Farm	alphbonk			openglnb			mapper-0.74.map					svga_s3									max								20																																								
+393w	Al Unser, Jr. Arcade Racing	AlUnserJ			openglnb			mapper-0.74.map					svga_s3		32						486_slow	15000								20																																								
+41w	Amanda Stories	AmandaSt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+394w	Amazing Mazez to Amaze	AmazingM			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+395w	Amazon Skulls	AmazonSk			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1330w	3D Pumpkin Puzzles	Amb3DPP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+7w	AI v2	ambAI			openglnb			mapper-0.74.map					svga_s3		32							12000								20																																								
+1w	Hero's Adventure	ambHA			openglnb			mapper-0.74.map					svga_s3		32							9000								20																																								
+1329w	Kid's Pumpkin Puzzles	AmbKPP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+8w	Meteor Mash	ambMash			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+2w	Mission: Caduceus	ambMC			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+1331w	Mystery Egg	AmbME			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1332w	Monster in the Park	AmbMitP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+9w	Night Before Christmas	ambNBC			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1333w	Off the Tracks	AmbOtT			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+10w	Pharoah's Curse	ambPC			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1334w	Reindeer Mazes	AmbRein			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+3w	Robinhood & Marian	ambRM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+4w	Space Doubt	ambSD			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+5w	The Secret of Easter Island	ambSEI			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+11w	Shark!	ambShrk			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+12w	Vampire	ambVamp			openglnb			mapper-0.74.map					svga_s3									45000								20																																								
+1335w	Valentine Puzzles '98	AmbVP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+6w	The Will	ambWill			openglnb			mapper-0.74.map					svga_s3		32							9000								20																																								
+397w	American Civil War: From Sumter to Appomattox	Ameri3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	40000								20																																								
+222w	The American Girls Premiere	AmGirl			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+398w	Anastasia: Adventures with Pooka and Bartok!	Anastasi			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+102w	Animation Hangman	AniHang			openglnb			mapper-0.74.map					svga_s3		32						486_slow	50000								20																																								
+399w	AnnaTommy	AnnaTomm			openglnb			mapper-0.74.map					svga_s3		64						486_slow	65000								20																																								
+400w	Anyone for Cards?	Anyonefo			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1396w	APBA presents Baseball for Windows	APBABBall			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+401w	Aquaman: War of the Water Worlds	Aquaman-			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+402w	Arcade America	ArcadeAm			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+403w	Arcade Mania	ArcadeMa			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+404w	Arc of Doom	ArcofDoo			openglnb			mapper-0.74.map					svga_s3		32							40000								20																																								
+405w	Area D	AreaD			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+223w	Arthur's Birthday	arthbday			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+407w	Arthur's Reading Race	ArthursR			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+408w	ArtRageous!	ArtRageo			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+2466w	AssTroids	Asstroid			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+409w	Astronomica: The Quest for the Edge of the Universe	Astronom			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+396w	The Amazon Trail	AT3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20													false																											
+410w	Atmoids	Atmoids			openglnb			mapper-0.74.map					svga_s3		64							3000								20																																								
+411w	Atmosfear: The Third Dimension	Atmosfea			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1389w	Atomic Chill	AtomChll			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+412w	Atomic	Atomic			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+413w	Avalon Casinos	AvalonCa			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1925w	Aviation Adventure	AviAdv			openglnb			mapper-0.74.map					svga_s3		32							55000								20													false																											
+99w	AweSome Animated Monster Maker: Ultra Edition	AweMM			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+2219w	Baba Yaga and The Magic Geese	BabaYaga			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+443w	Babes in Toyland	BabesinT			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+444w	Babylon 5: Shadow Wars	Babylon5			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	50000								20																																								
+104w	Backyard Baseball	BackBase			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+449w	Backstreet Boys: Puzzles in Motion	Backstre			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+450w	Backyard Soccer	Backyard			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	max								20																																								
+1054w	The Residents' Bad Day on the Midway	BadDayM			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+451w	Bad Mojo	BadMojo			openglnb			mapper-0.74.map					svga_s3		64					normal		max								20																																								
+452w	Bad Toys	BadToys			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+453w	Bailey's Book House	BaileysB			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+213w	Bally	bally3x			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+287w	Bow & Arrow	banda			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+455w	Bang! Bang!	Bang!Ban			openglnb			mapper-0.74.map					svga_s3		64							15000								20																																								
+456w	Barbie Fashion Designer	BarbieFa			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+265w	Barbie and Her Magical House	BarbieHo			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+101w	Barbie Storymaker	BarbStor			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+457w	Barkanoid	Barkanoi			openglnb			mapper-ECE.map					svga_s3		63					normal		max								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+96w	Barry the Bear	BaryBear			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+264w	Baseball's Greatest Hits	basebGH			openglnb			mapper-0.74.map					svga_s3		64							30000								20																																								
+458w	Batman: Partners in Peril	Batman-P			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	max								20																																								
+476w	BattleStar	BatStar			openglnb			mapper-0.74.map					svga_s3		64							12000								20																																								
+243w	Battle Hamster	battham			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+459w	Battle Beast	BattleBe			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+473w	Battle Isle 2220: Shadow of the Emperor	BattleIs			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow	70000								20																																								
+474w	Battle Sat	BattleSa			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+875w	Mastermind	BBCMast			openglnb			mapper-0.74.map					svga_s3		64							30000								20																																								
+1405w	The Berenstain Bears: Get in a Fight	BBearFig			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+106w	Blinky Bill's Ghost Cave	BBGhCave			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1320w	The Berenstain Bears: In The Dark	BBitD			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+461w	Battle Chess: Enhanced CD-ROM	bchscd3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+460w	Battle Chess	BCw			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+205w	Beauty and the Beast: Memorex Children's Series	Beast96			direct3d			mapper-0.74.map					svga_s3		63						486_slow									20																																								
+97w	Between Earth and the End of Time	BEatEoT			openglnb			mapper-0.74.map					svga_s3		32						486_slow	40000								20																																								
+415w	Beetle Run	BeetleRu			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+416w	Bermuda Syndrome	BermudaS			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+478w	Betrayal in Antara	BetAntar			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	100000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+479w	Beyond the Wall of Stars	Beyondth			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	15000								20																																								
+480w	Beyond Time	BeyondTi			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+462w	Battleground 2: Gettysburg	bg2Get			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+464w	Battleground 3: Waterloo	bg3wat			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+465w	Battleground 4: Shiloh	bg4Shi			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+466w	Battleground 5: Antietam	bg5Ant			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+467w	Battleground 6: Napoleon in Russia	bg6NiR			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+468w	Battleground 7: Bull Run	bg7Bull			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+469w	Battleground 8: Prelude to Waterloo	bg8PW			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+470w	Battleground: Ardennes	bgArd			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1930w	Cool Crafts	BHGCC			openglnb			mapper-0.74.map					svga_s3		63						486_slow	max								20																																								
+1929w	Complete Guide To Gardening	BHGCCG			openglnb			mapper-0.74.map					svga_s3		63						486_slow	max								20																																								
+414w	Beat the House	BHous3x			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+555w	Blue Ice	BIce3x			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow									20																																								
+1878w	Bicycle Poker	BicPK			openglnb			mapper-0.74.map					svga_s3		31						486_slow	65000								20																																								
+482w	Bicycle Pinochle	BicycleP			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+483w	Bicycle Solitaire	BicycleS			openglnb			mapper-0.74.map					svga_s3		32							6000								20																																								
+105w	Big Job	BigJob			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+256w	Bicycle Casino: Blackjack, Poker, Baccarat, Roulette	bikecasi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+224w	Backgammon	bkgam3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+69w	The Book of Shadowboxes	bkshadbx			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+489w	Blades of Exile	BlaExil			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+490w	Blinky Bill And The Magician	BlinkyBi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+491w	Blitzer	Blitzer			openglnb			mapper-0.74.map					svga_s3		64							12000								20																																								
+492w	Blob Factory	BlobFact			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+493w	Block Breaker	BlockBre			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+494w	Blown Away	BlownAwa			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+554w	Blue Heat: The Case of the Cover Girl Murders	BlueHeat			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1881w	Welcome to Bodyland	bodyland			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+556w	BogOut	BogOut			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+448w	Backpacker: The Lost Florence Gold Mine	bpackLGM			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+559w	Brain Games For Windows	BrainGam			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+560w	Brainiacs: 3-D Baffle and Hex	Brainiac			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+563w	Breakout 3000	Breakout			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+564w	BreakThru!	BreakThr			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+565w	Brer Rabbit and the Wonderful Tar Baby	BrerRabb			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+566w	Brick Breaker II Turbo	BrickBre			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+567w	Brickbuster	Brickbus			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+475w	Battleship	Bship3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+569w	Bug!	Bug!			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	70000								20																																								
+1388w	Bug Explorers	BugExplr			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+570w	Buichi Terasawa's Takeru: Letter of the Law	BuichiTe			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+572w	Burn:Cycle	Burn-Cyc			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+1387w	The Adventures of Busy Billy	BusyBily			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+347w	Let's Explore The Airport	BuzzAir			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+348w	Let's Explore The Farm	BuzzFarm			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+2468w	Bobby's World: One Clump or Two?	BW1co2			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+561w	BrainWave	BWave1			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+562w	BrainWave 2	BWave2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+107w	Candy Land Adventure	CandyLAD			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+574w	Capitol Hill	CapitolH			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+108w	Capitalist Pig	CapPig			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+350w	Caribbean Treasure	CariTrea			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1931w	Cartopedia: The Ultimate World Reference Atlas	Cartoped			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+109w	Casino Deluxe 2	CasDLX2			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+1379w	A Case for Cap & Co.	Case4Cap			direct3d			mapper-0.74.map					svga_s3		32							65000								20																																								
+110w	Casino Master	CasiMast			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+578w	Casino De Luxe	CasinoDe			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+111w	Casper Brainy Book	CaspBB			openglnb			mapper-0.74.map					svga_s3		32						486_slow	70000								20																																								
+580w	Castle Explorer	CastleEx			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+1412w	Castle of the Winds: A Question of Vengeance	CasWind			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+582w	CatFight: The Ultimate Female Fighting Game	CatFight			openglnb			mapper-0.74.map					svga_s3		32						486_slow	80000								20																																								
+583w	Catz: Your Computer Petz	Catz-You			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+589w	Chaos: A Fantasy Adventure Game	Chaos-AF			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+496w	Chip's Challenge	ChCh3x			openglnb			mapper-0.74.map					svga_s3		63							40000								20																																								
+591w	Checkers	Checkers			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+595w	Chess Mates	ChessMat			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+495w	Chess Net	ChessNet			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1932w	Chinese Cooking for the Family	ChiCook			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+258w	Chinese Solitaire	ChinSoli			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+497w	Chomp	Chomp			openglnb			mapper-0.74.map					svga_s3		32							3000								20																																								
+498w	Chop Suey	ChopSuey			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+68w	Cinema Volta	CinVolta			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+259w	Circus!	circus!			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1094w	Sid Meier's Civilization II	Civ2			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+539w	Sid Meier's Civilization II: The Collector's Edition	Civ2Gold			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1093w	Sid Meier's Civilization	Civ3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+540w	Sid Meier's CivNet	Civnet			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																					true			
+1933w	Chuck Jones: Peter and the Wolf	CJPandW			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1921w	Captain Kangaroo: Life's First Lessons Adventure #1	CKLFL1			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+242w	ClockWerx	clckwerx			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+501w	Clue	Clue			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+502w	Clueless: CD-ROM	Clueless			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+593w	The Chessmaster 3000	CM3000			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+275w	Country Vid Grid	cntryvid			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+503w	Cogito	Cogito			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+597w	Combat Tanks	CombatTa			openglnb			mapper-0.74.map					svga_s3		32															20																														none										
+598w	Comet Busters!	CometBus			openglnb			mapper-0.74.map					svga_s3		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+66w	Comic Book Confidential	comiconf			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+599w	Comix Zone	ComixZon			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+272w	The Complete MAUS	compMAUS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+603w	Congo: The Movie - Descent into Zinj	Congo-Th			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+604w	Connections	Connecti			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+605w	Corporate Pursuit	CorpPur			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+606w	Cosmology of Kyoto	Cosmolog			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																								
+1935w	Countdown	Countdow			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+608w	Cow V: The Great Egg Quest	CowV-The			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+27w	Crayola Magic Princess: Paper Doll Maker	CrayMP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+609w	Creatures	Creaturs			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1345w	Cribbage	Crib3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	15000								20																																								
+610w	Cribbage Master	Cribbage			openglnb			mapper-0.74.map					svga_s3		32						486_slow	20000								20																																								
+611w	Critical Path	Critical			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+612w	Crosswords & More for Windows	CrossM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+613w	Crosswords & Word Games	CrossW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+285w	The Crow: The Complete Interactive Collection	Crow3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+614w	Crusader: Adventure Out of Time	Crusader			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1447w	Stardate 2140.2: Crusade in Space	CrusSpac			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+615w	Crystal Caliburn	CrysCali			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+575w	Where in the World Is Carmen Sandiego?: Junior Detective Edition	CSJDE			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+14w	Where in Time is Carmen Sandiego?	CSTime			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+619w	Cyberstrip Blackjack	CStripBJ			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+620w	Cyberstrip Poker	CStripPk			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+13w	Where in the USA is Carmen Sandiego?	CSUSA			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+576w	Carmen Sandiego Word Detective	CSWordD			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+617w	Curious George Learns Phonics	CuriousG			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+618w	CyberSpace Crossword	CyberSpa			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+628w	Dare to Dream Part One: In a Darkened Room	D2D1			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+626w	Dare to Dream Part Two: In Search of the Beast	D2D2			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+627w	Dare to Dream Part Three: Christian's Lair	D2D3			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+622w	The Dagger of Amon Ra	Dagger3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+623w	Dagger's Rage	DaggersR			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+60w	Disney's Aladdin Activity Center	DAlAct			openglnb			mapper-ECE.map					svga_s3		63							25000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+624w	Daleks	daleks3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+2086w	Dandy Dinosaurs	DandDino			openglnb			mapper-0.74.map					svga_et4000		32							max								20																																								
+1391w	A Day At The Races	DayRaces			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+236w	Dazzeloids	dazzoids			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1938w	Dally Doo You Can Too! Animals	DDYCTA			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+631w	Deadlock: Planetary Conquest	Deadlock			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+634w	Deflektor PC	Deflekto			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+636w	Déjà Vu I & II: The Casebooks of Ace Harding	DejaVuII			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+637w	Deluxe Scrabble for Windows	DeluxeSc			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+640w	Devo Presents: Adventures of the Smart Patrol	DevoPres			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+641w	D/Generation	dgen3x			openglnb			mapper-0.74.map					svga_s3		63							45000								20																																								
+1846w	Disney's Animated Storybook: The Hunchback of Notre Dame	DHBASB			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+642w	Diamonds 3D	Diamonds			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+643w	Die phantastische Reise nach Terra-Gon	Diephant			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+644w	Dilbert: Not Just A Calendar	Dilbert-			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1349w	Dilbert Screen Saver Collection	DilbertS			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+70w	Dinonauts: Adventures in Space	dinonaut			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+351w	Dinosaur Safari	DinoSaf			openglnb			mapper-0.74.map					svga_s3		32					normal										20																																								
+646w	Smithsonian Institution: Dinosaur Museum	Dinosaur			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+647w	Dino Slot	DinoSlot			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1945w	Disney's Animated Storybook: Toy Story	DisASToy			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1946w	Disney's Animated Storybook: Winnie the Pooh and the Honey Tree	DisASWP			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1943w	Discover History	DiscHist			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+651w	Disney's The Jungle Book	DisJB3x			openglnb			mapper-0.74.map					svga_s3		31							50000								20																																								
+238w	Disney's Animated Storybook: Hercules	DisnHerc			openglnb			mapper-0.74.map					svga_s3		32						486_slow	70000								20																																								
+1947w	Disney Presents Ariel's Story Studio	DisPASS			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1948w	Disney's Toy Story Activity Center	DisTSAC			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+652w	Diva X: Ariana	DivaX-Ar			openglnb			mapper-0.74.map					svga_s3		63							19000								20																																								
+654w	Diversions Slots	Diversio			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+54w	The Way Things Work	DKTWTW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1829w	Disney's Animated Storybook: The Lion King	DLKAS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+263w	Dodger	dodger94			openglnb			mapper-0.74.map					svga_s3		32							9000								20																																								
+655w	Dogz: Your Computer Pet	Dogz-You			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+291w	Dole: 5 A Day Adventures	Dole5			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1949w	Don Quixote: A Multimedia Storybook	DonQuixo			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+657w	Dopefish Forever!	DopeFshF			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+658w	Dopefish Lives!	DopeFshL			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+659w	Double Feature Solitaire	DoubleFe			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+1840w	Disney's Animated Storybook: Pocahontas	DPASB			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+660w	Dracula in London	Draculai			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+661w	Dracula's Secret	Draculas			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+116w	Dragon In A Wagon	DragWag			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+15w	Drain Storm	dranstrm			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+115w	Dr. Ditto	DrDitto			openglnb			mapper-0.74.map					svga_s3		32						486_slow	40000								20																																								
+663w	Dr. Drago's Madcap Chase	DrDragos			openglnb			mapper-ECE.map					svga_s3		32															20			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+903w	MicroProse Entertainment Pack Vol #1: Dr Floyd's Desktop Toys	DrFloyd			direct3d			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1950w	Dr. Seuss Preschool	DrSeusPr			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1951w	Dr. T's Sing-A-Long Kid's Classics	DrTSing			openglnb			mapper-0.74.map					svga_et4000		32							max								20																																								
+78w	Beyond Planet Earth	DSBeyPE			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+630w	Dark Seed II	DSeed2			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+650w	Disney's The Hunchback of Notre Dame: 5 Topsy Turvy Games	DTHBND5			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1952w	Dream Team: Kid's Typing	DTKidTyp			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+113w	The Day The World Broke	DTWB			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+16w	Duck City	DuckCity			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+665w	Dust: A Tale of the Wired West	Dust-ATa			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1953w	Eyewitness Virtual Reality: Earth Quest	EarthQue			direct3d			mapper-0.74.map					svga_s3		32							max								20																																								
+666w	EarthSiege 2	EarthSie			openglnb			mapper-0.74.map					svga_s3		63						486_slow									20																																								
+667w	Eastern Mind: The Lost Souls of Tong Nou	EasternM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+267w	Ecco the Dolphin	eccodol			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+853w	EcoQuest 2: Lost Secret of the Rainforest	eco23x			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+668w	Econ's Arena	EconsAre			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+93w	Eek!Stravaganza: The EeX Files	Eek			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1382w	Elroy's Costume Closet	ElroyCC			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+669w	Elroy Goes Bugzerk	ElroyGoe			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+670w	Elroy Hits the Pavement	ElroyHit			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+671w	Emlith	Emlith			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+29w	EmPipe	EmPipe			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+676w	Endorfun	Endorfun			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+677w	Enemy Nations	EnemyNat			desktop			mapper-ECE.map					svga_s3		63															25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+679w	Entombed	Entomb94			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+117w	Earth Invasion	ERTHINV			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1373w	Escher Interactive: Exploring the Art of the Infinite	Escher			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+30w	Evocation 2: The Dream	Evocati2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+682w	Evocation: Beyond the Dream	Evocatio			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1954w	Eyewitness Virtual Reality: Bird	EWVRBird			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1955w	Eyewitness Virtual Reality: Dinosaur Hunter	EWVRDino			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+683w	Exile: Escape from the Pit	Exile-Es			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+684w	Exile II: Crystal Souls	ExileII-			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+685w	Exile III: Ruined World	ExileIII			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1879w	Exotic Japan	ExotJap			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+686w	Expect No Mercy	ExpectNo			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+687w	Expert Chess	ExpertCh			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+2093w	Exploring Ancient Cities	ExplAC			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+71w	Explorers of the New World	ExpNewW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+688w	Fleet Defender Gold	F-14Flee			direct3d			mapper-0.74.map					svga_s3									40000								20																																								
+689w	F-18: No Fly Zone	F-18-NoF			openglnb			mapper-0.74.map					svga_s3		32							5000								20																																								
+247w	The Fall of the House of Usher	FallUshr			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1347w	FarSide Screen Saver Collection	FarSide			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+349w	The Animals Of Farthing Wood	farthing			openglnb			mapper-0.74.map					svga_s3		63					normal										20																																								
+692w	Fast Action Paq	FastActi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+339w	Fate of the Starlords	fatestar			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1372w	Who's Fat Lou	FatLou			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+700w	Flight Commander 2	FComm2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+345w	Felix The Cat's Cartoon Toolbox	felixcat			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+708w	Freddi Fish 2: The Case of the Haunted Schoolhouse	FF2CoHSH			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+31w	Freddi Fish 3: The Case of the Stolen Conch Shell	FF3CSCS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+711w	Freddi Fish and Luther's Maze Madness	FFaLMM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+709w	Freddi Fish and Luther's Water Worries	FFaLWW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+710w	Freddi Fish and the Case of the Missing Kelp Seeds	FFCMKS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+694w	Fields of Battle	Fieldsof			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+176w	Fisherman's Delight	FishDel			openglnb			mapper-0.74.map					svga_s3		32						486_slow	45000								20																																								
+702w	Flight Sim Toolkit	FlightSi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1956w	Focus Essential Senior Word Games	FocusEWG			direct3d			mapper-0.74.map					svga_s3		32							max								20																																								
+704w	Forever Growing Garden	ForeverG			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+705w	Foul Play: Mystery at Awkward Manor	FoulPlay			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1381w	Four-Sight	FourSite			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+706w	Fox Hunt	FoxHunt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+118w	Fisher-Price Dream Doll House	FPDDoll			openglnb			mapper-0.74.map					svga_s3		32						486_slow	25000								20																																								
+33w	Fisher-Price Great Adventures: Castle	FPGACAS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+32w	Fisher-Price Great Adventures: Pirate Ship	FPGAPIR			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+697w	Fisher-Price Great Adventures: Wild Western Town	FPGAWWT			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+698w	Fisher-Price: Learning in Toyland	FPLiT			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+714w	Front Page Sports: Baseball Pro '96 Season	FPSBP96			openglnb			mapper-ECE.map					svga_s3		63						486_slow	70000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+715w	Front Page Sports: Trophy Bass 2	FPSTBas2			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+716w	Front Page Sports: Trophy Bass 2: Northern Lakes	FPSTBasN			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+717w	Front Page Sports: Trophy Rivers	FPSTRiv			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+707w	Frankenstein: Through the Eyes of the Monster	Frankens			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+712w	Freddy Pharkas: Frontier Pharmacist	FrdPhr3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+713w	FreeCell Plus	FreeCell			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+532w	The Residents: Freak Show	FrekShow			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+718w	Fructus	Fructus			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+293w	Fruit-Picker	FrutPick			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+719w	Full Tilt! 2 Pinball	FTilt2			openglnb			mapper-0.74.map					svga_s3		32						486_slow	max								20			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+720w	Full Tilt! Pinball	FTiltP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+120w	Follow That Sleigh!	FTSleigh			openglnb			mapper-0.74.map					svga_s3		32						486_slow	45000								20																																								
+208w	Fun Pack 3	funpack3			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+722w	FunPack	FunPckWF			openglnb			mapper-0.74.map					svga_s3		32							10000								20																																								
+724w	Fury³	Fury3			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1957w	Free Willy Activity Center	FWAC			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+2534w	F!Zone for Fury3	FZone			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+743w	G-Netix	G-Netix			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+727w	Gadget: Invention, Travel & Adventure	Gadget-I			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+728w	Gahan Wilson's The Ultimate Haunted House	GahanWil			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1824w	GayBlade	GayBlade			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+733w	Gazillionaire	Gaz			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+734w	Gazillionaire Deluxe	GazDLX			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1325w	Bricks: the Ultimate Construction Toy!	GBricks			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1875w	The Gigglebone Gang: World Tour	GBWTour			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+735w	Gearheads	Gearhead			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+736w	Gecko Shuffle	GeckoShu			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+121w	GemStorm	GemStorm			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+20w	GeoSafari: Geography, History, & Science	GeoGeo			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+737w	GeoSafari: Animals	GeoSafar			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+738w	Get the Girl!	GettheGi			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+739w	Gettysburg: Multimedia Battle Simulation	Gettysbu			openglnb			mapper-ECE.map					svga_s3		32						486_slow	55000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+273w	Ghostly Desires	ghosdes			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+740w	Ghosts	Ghosts			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+726w	Gabriel Knight: Sins of the Fathers	GK13x			openglnb			mapper-ECE.map					svga_s3		63							65000								25		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+477w	The Beast Within: A Gabriel Knight Mystery	GK23x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+742w	Glider 4.0	Glider40			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+2011w	Great Math Adventure	GMA			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+330w	Great Myths & Legends Volume 1: Monsters & Mythical Creatures	gmlmmc			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+746w	Greg Norman Ultimate Challenge Golf	GNCGolf			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+504w	Golf Pro 2000 Downunder	GolfPro2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+506w	Gord@k	Gordak			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+508w	Grand Prix Manager	GPMan			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+509w	Grand Prix Manager 2	GPMan2			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+507w	Grackon's Curse	Grackons			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+510w	Grant - Lee - Sherman: Civil War 2: Generals	Grant-Le			direct3d			mapper-0.74.map					svga_s3		32							50000							2048	80																																								
+46w	The Great War: 1914-1918	greatwar			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+745w	Green Thumb Cards	GreenThu			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+92w	Get Ready for School, Charlie Brown!	GRFSCB			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+748w	Grossology	Grossolo			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+206w	Gulliver's Voyage To Lilliput	Gulliver			direct3d			mapper-0.74.map					svga_s3		63						486_slow									20																																								
+123w	Gus And The Cyberbuds: Sing, Play, and Paint A Long	GUSBuds			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+749w	Gus Goes to Cyberopolis	GusGoesC			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+34w	Gus Goes to Cybertown	GusGoest			openglnb			mapper-0.74.map					svga_et4000		32							35000								20																																								
+35w	Gus Goes to Cyberstone Park	GusGoesY			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+346w	Gus Goes to the Kooky Carnival: In Search of Rant	GusGttKC			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1344w	Gus and the Cyberbuds: Stellar Game Cellar!	GUSSGC			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1340w	Gus and the Cyberbuds: Write On!	GUSWrite			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+63w	Great Word Adventure	GWA			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1922w	A Hard Day's Night	HardDayA			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+751w	Hard Evidence: The Marilyn Monroe Files	HardEvid			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+752w	Harpoon Classic	HarpC95			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+754w	Harry and the Haunted House	Harryand			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+231w	Magic Theatre: Haunted House	hauhou			openglnb			mapper-0.74.map					svga_et4000		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+28w	Hanna-Barbera Cartoon Carnival	hbcc			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+305w	The Hunchback of Notre Dame (Isabelle Bristow)	HBoND			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1339w	Hoyle Classic Card Games (1997)	Hcc3x			openglnb			mapper-0.74.map					svga_s3		63						486_slow	65000								20																																								
+768w	Hoyle Classic Card Games	Hcc3x93			openglnb			mapper-0.74.map					svga_s3		63						486_slow	65000								20																																								
+1336w	Hoyle Classic Games	HCG3x			openglnb			mapper-0.74.map					svga_s3		63						486_slow	65000								20																																								
+755w	Hearts for Windows	Heartsfo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+756w	Hell Cab	HellCab			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+235w	Hello Kitty: Big Fun Deluxe	HelloKBF			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+758w	Hero Defiant	HeroDefi			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+335w	Hawaii High: The Mystery of the Tiki	HHMysTik			openglnb			mapper-0.74.map					svga_s3		32							35000								20																																								
+761w	High Command	HighComm			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+762w	History of the World	Historyo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+763w	Hodj 'n' Podj	HodjnPod			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+764w	Holiday Island	HolidayI			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+91w	Hollywood	hollyw3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+765w	Hollywood Mogul	Hollywoo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+766w	Hooves of Thunder!	Hoovesof			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+126w	How To Be Perfect	How2bPrf			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+767w	Hoyle Bridge	HoyleBri			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+125w	Hoyle Battling Ships And War	HoyleBSW			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+124w	Hoyle Children's Collection	HoyleCC			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+769w	Hoyle Poker	HoylePok			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+770w	Hoyle Solitaire	HoyleSol			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+90w	How the Leopard Got His Spots	HtLGHS			direct3d			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+773w	Huygen's Disclosure	HuygensD			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+89w	How Would You Survive	HWUS			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+321w	The Adventures of Hyperman	Hyperman			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+774w	Hyperoid	Hyperoid			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+776w	I Can Be a Dinosaur Finder	IcanbeaD			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+165w	I Can Be an Animal Doctor	ICBAAD			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+128w	Icebreaker	IceBreak			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+777w	Ice & Fire	IceFire			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+166w	ID4 Mission Disks	ID4			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+175w	Interactive History of Frankenstein	IHOFrank			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1319w	Imo & the King	ImoKing			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+784w	Indiana Jones and his Desktop Adventures	IndyDesk			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+1873w	The Gigglebone Gang: Infinity City	InfiCity			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+786w	Infinite Patience	Infinite			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+787w	In Grandma's Attic	InGrandm			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+513w	In the 1st Degree	Inthe1st			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+306w	Invention Studio	InvenStu			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+50w	Professor Iris' Fun Field Trip: Animal Safari	irisAS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+51w	Professor Iris' Fun Field Trip: Seaside Adventure	irisSA			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+514w	Iron Helix	IronHeli			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+515w	Isis	Isis			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+130w	Island Casino	IslCasi			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+516w	It's a Funny Old Game	ItsaFunn			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+131w	Jack's Attic	JackAtic			direct3d			mapper-0.74.map					svga_s3		8						pentium_slow	60000								20																																		false						
+1352w	Johnny Castaway	JCastawy			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+132w	Jeopardy: TV & Movie Pack	JeopTV			openglnb			mapper-0.74.map					svga_s3		32						486_slow	45000								20																																								
+518w	Jewel Master	JewelMas			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+519w	Jewels II: The Ultimate Challenge	JewelsII			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+520w	Jewels of the Oracle	Jewelsof			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+521w	Jewel Thief	JewelThi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+522w	JezzBall	JezzBall			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+73w	Jixxa	jixxa			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+795w	Johnny Mnemonic	JohnnyMn			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+796w	Jones in the Fast Lane: CD-ROM	Jones3x			openglnb			mapper-0.74.map					svga_s3		63							40000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+798w	Jonny Quest: The Real Adventures - Cover-Up at Roswell	JonnyQue			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+800w	The Journeyman Project	JourP			openglnb			mapper-ECE.map					svga_s3		32							60000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+799w	The Journeyman Project 2: Buried in Time	JourP2			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+801w	The Journeyman Project: Turbo!	JourPT			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+64w	Jan Pienkowski: Haunted House	JPHH			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1351w	Jurassic Park Screen Saver	JPSS			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+806w	JumpStart 1st Grade	JS1st			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+807w	JumpStart 2nd Grade	JS2nd			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+808w	JumpStart Adventures 3rd Grade: Mystery Mountain	JS3rd			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+809w	JumpStart Adventures 4th Grade: Haunted Island	JS4th			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+810w	JumpStart Adventures 5th Grade: Jo Hammet, Kid Detective	JS5th			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+177w	JumpStart Baby	JSBaby			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+178w	JumpStart Kindergarten Reading	JSKRead			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+812w	JumpStart Pre-K	JSPreK			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																								
+179w	JumpStart Preschool Year 2: Trucks N Things	JSPreK2			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+180w	JumpStart Toddlers	JSTod			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+802w	Journey to the Centre of the Earth	JttCEart			openglnb			mapper-ECE.map					svga_s3		32					normal		25000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+803w	Juilliard Music Adventure	Juilliar			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+804w	Jumanji	Jumanji			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+340w	Jump: The David Bowie Interactive CD-ROM	JumpDB			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+805w	Jump Raven	JumpRave			direct3d			mapper-0.74.map					svga_s3		32															20																																								
+813w	Jungle Book	JungleBo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+44w	Jurassic Art	JurArt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+814w	Just Grandma and Me	JustGran			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+815w	Karma: Curse of the 12 Caves	Karma-Cu			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+234w	Keroppi Day Hopper	keroppi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1872w	Kewala's Typing Adventure	kewala			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+80w	Kidd Riffs	kidriffs			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+334w	KidWorks 2	kidwork2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+77w	Kiyeko and the Lost Night	kiyeko			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+820w	Klik & Play	KlikPlay			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+821w	Koala Lumpur: Journey to the Edge	KoalaLum			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+818w	King's Quest V: Absence Makes the Heart Go Yonder!	kq5win			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+819w	King's Quest VI: Heir Today, Gone Tomorrow	KQ6CD3x			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+537w	King's Quest VII: The Princeless Bride	KQ73x			openglnb			mapper-0.74.map					svga_s3		32							16000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1324w	Kid Vid Grid	KVidGrid			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+822w	Kye	Kye			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+823w	Kyodai Mahjongg	Kyodai			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+857w	L-Zone	L-Zone			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+824w	Labyrinth of Crete	LabCret			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+825w	L'affaire Morlov	LAfMor3x			direct3d			mapper-0.74.map					svga_s3		63															20																																								
+182w	Lassie	Lassie			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+268w	Last Chance to See	LastChSe			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+289w	Louis Cat Orze: The Mystery of the Queen's Necklace	LCOMotQN			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+829w	Legions	Legions			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+214w	The Legends of Oz: One Hundred Years of Oz	LegOz			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+2342w	Lemmings for Windows	Lemm3x			direct3d			mapper-0.74.map					svga_s3		63							55000								20																																								
+832w	Lenny's Music Toons	LennysMu			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+837w	Let's Explore the Jungle	LetsExpl			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+838w	Let's Talk About Me	LetsTalk			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+834w	Les Guignols de l'Info: Le Cauchemar de PPD	LGdePPD			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+835w	Les Guignols De L'Info...Le Jeu !	LGLeJeu			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1318w	Liam Finds a Story	LiamStor			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+58w	Disney's The Lion King Activity Center	LionKAC			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+843w	Literati	Literati			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1313w	Lighthouse: The Dark Being	LitHou3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1383w	Lights Out 3D	LitOut3D			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+181w	The Little Samurai	LitSam			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+844w	Little Monster At School	LittleMo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+845w	Live Action Football	LiveActi			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+846w	Living Puzzles: Triazzle	LivingPu			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+849w	Logical Journey of the Zoombinis	LogicalJ			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+17w	Loony Labyrinth	LoonLaby			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+848w	Lode Runner: the Legend Returns	LRLR3x			openglnb			mapper-0.74.map					svga_s3		63							45000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.15	.\mt32								false																											
+1309w	Leisure Suit Larry 6: Shape Up or Slip Out!	lsl6win			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+1310w	Leisure Suit Larry: Love for Sail!	LSL73x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+302w	Laserstrike	LsrStrik			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+855w	Lucas's Problem	LucassPr			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+307w	Lunacy for Windows	Lunacy95			openglnb			mapper-0.74.map					svga_s3		32							35000								20																																								
+856w	Lunicus	Lunicus			direct3d			mapper-0.74.map					svga_s3		32															20																																								
+133w	Las Vegas Super Casino	LVSupCas			openglnb			mapper-0.74.map					svga_s3		32						486_slow	50000								20																																								
+2469w	Life with Louie: Lake Winnibigoshish	LwLLW			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+858w	Maabus	Maabus			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+279w	Macbeth	macbeth			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+859w	MacBlaster	MacBlast			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+860w	Madeline's Rainy Day Activities	Madeline			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+134w	Madeline and the Magnificent Puppet Show	MadPupSh			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+290w	The Madness of Roland	madrolan			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+862w	MagnaFlux Runner	MagnaFlu			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+232w	Magic Theatre	magtheat			openglnb			mapper-0.74.map					svga_et4000		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+863w	Majestic Part 1: Alien Encounter	Majestic			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+865w	The Manhole: New and Enhanced	ManE3x			openglnb			mapper-0.74.map					svga_s3		32							35000								20																																								
+866w	Maniac Sports	ManiacSp			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																								
+867w	Marble Drop	MarbleDr			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+135w	Marty and the Trouble with Cheese	MartChes			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+870w	Masque Blackjack	MasqueBl			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+871w	Caribbean Stud Poker	MasqueCa			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+872w	Masque ChessNet 3	MasqueCh			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+873w	Masque Solitaire Antics	MasqueSo			direct3d			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+874w	Masque Video Poker	MasqueVi			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+288w	Masterpiece Mansion	MastMans			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+230w	Math Blaster Episode 1: In Search of Spot	MathBla1			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+229w	Math Blaster Mystery: The Great Brain Robbery	MathBlaM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+149w	Math Heads	MathHead			openglnb			mapper-0.74.map					svga_s3		32						486_slow	40000								20																																								
+2533w	Math Master	MathMast			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+878w	Math Munchers Deluxe	MathMunc			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+879w	Math Rabbit Deluxe	MathRabD			direct3d			mapper-0.74.map					svga_s3		64							max								20																																								
+915w	Millennium Auction	Mauction			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+880w	Maui Mallard in Cold Shadow	MauiMall			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+881w	Maven	Maven			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+882w	Mavis Beacon Teaches Typing! for Kids	Mavis3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	30000								20																																								
+885w	MayaQuest Trail	MayaQues			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+886w	Mazemaker	Mazemake			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+877w	Math Blaster 2: Secret of the Lost City	MBlast2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+931w	Multimedia Celebrity Poker	MCelePkr			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+887w	McKenzie & Co.	McKenzie			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+898w	Merlin's Apprentice	MerlinsA			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+100w	Magic Fairy Tales: Barbie As Rapunzel	MFTBarb			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+902w	Michael Ninn's Latex: The Game	MichaelN			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+378w	The Adventures of MicroMan	MicMan93			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+271w	Midnight Stranger	MidStran			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+914w	Mike Mulligan and His Steam Shovel	MikeMull			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1346w	Mile Bones	MileBone			openglnb			mapper-0.74.map					svga_s3		32						486_slow	15000								20																																								
+916w	Millie's Math House	MilliesM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+204w	Millie Meter's Nutrition Adventure	MilMete1			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+917w	Milo	Milo			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+523w	Mind Games Entertainment Pack for Windows	MindGame			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+332w	Mind Grind	mindgrin			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+524w	Mines	Mines			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+525w	Minesweeper	Mineswee			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+526w	Mirage	Mirage			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+527w	Missile Attack!	MissileA			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+528w	Mission 9	Mission9			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+529w	Mixed-Up Mother Goose Deluxe	Mixed-Up			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+899w	Metal Marines	MMarine			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+900w	Metal Marines Master Edition	MMarineM			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+284w	Museum of Anything Goes	moagoes			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+283w	Mind of a Killer	mofkill			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+531w	Monopoly Deluxe	Mono3Dlx			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+530w	Monopoly	Mono3x			openglnb			mapper-0.74.map			eXoDOS		svga_s3		32															20																																								
+921w	Mordor: The Depths of Dejenol	Mordor-T			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+269w	MorphMan	MorphMan			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+922w	Mortuum	Mortuum			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+923w	Mosaic	Mosaic			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+184w	Moving Puzzle: Action Flights	MPAction			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+924w	Moving Puzzle: Cats	MPCats			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+187w	Moving Puzzle: Fun Sports	MPFun			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+920w	Monty Python & the Quest for the Holy Grail	MPHolyG			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+925w	Moving Puzzle: Jungle World	MPJungle			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+185w	Moving Puzzle: Motor Sports	MPMotor			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+188w	Moving Puzzle: Nature Events	MPNat			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+186w	Moving Puzzle: Sea World	MPSeaW			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+918w	Monty Python's Complete Waste of Time	MPWaste			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+189w	Moving Puzzle: Wild Life	MPWild			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+926w	Mr. Drumstix' Music Studio	MrDrumst			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+927w	Mr. Potato Head Saves Veggie Valley	MrPotato			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+137w	Mr. Potato Head Activity Pack	MrPotHAP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+138w	Mr. Wonder's Greatest Toyshop On Earth	MrWonGTE			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+1354w	Microsoft 500 Nations	MS500N			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+246w	Microsoft Ancient Lands	msanclan			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+904w	Microsoft Arcade	MSArc			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1355w	Microsoft Art Gallery	MSArtG			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1374w	Isaac Asimov's: The Ultimate Robot	MSAsimov			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1069w	Scholastic's The Magic School Bus Explores Inside the Earth	MSBEarth			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1071w	Scholastic's The Magic School Bus Explores the Human Body	MSBHuman			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+905w	Microsoft BOB	MSBob			direct3d			mapper-0.74.map					svga_s3		32					normal		45000						22050	2048	80																																								
+1072w	Scholastic's The Magic School Bus Explores the Ocean	MSBOcean			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1376w	Microsoft Bookshelf '95	MSBook95			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1363w	Microsoft Complete NBA Basketball Guide '94-'95	MSBskt95			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+233w	Scholastic's The Magic School Bus Explores the Solar System	MSBSS			direct3d			mapper-0.74.map					svga_s3		32							60000								20																																								
+1364w	Microsoft Complete Baseball: 1994 Edition	MSCBB94			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1365w	Microsoft Complete Baseball: 1995 Edition	MSCBB95			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+928w	Ms. Chomp	MsChomp			openglnb			mapper-0.74.map					svga_s3		32							8000								20																																								
+1359w	Microsoft Cinemania '95	MSCine			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1375w	Microsoft Cinemania '94	MSCine94			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+245w	Microsoft Dangerous Creatures	msdancre			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1357w	Microsoft Dinosaurs	MSDino			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1356w	Microsoft Dogs	MSDogs			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1360w	Microsoft Encarta '95	MSEncart			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1371w	Microsoft Encarta '94	MSEncr94			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+909w	Microsoft Entertainment Pack for Windows	MSEnt1			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+906w	Microsoft Entertainment Pack 2	MSEnt2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+907w	Microsoft Entertainment Pack 3	MSEnt3			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+908w	Microsoft Entertainment Pack 4	MSEnt4			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1377w	The Ultimate Frank Lloyd Wright: America's Architect	MSFLW			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1866w	Microsoft Golf: Multimedia Edition	MSGolf			openglnb			mapper-0.74.map					svga_s3		32							60000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+911w	Microsoft Golf 2.0	MSGolf2			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow									20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+47w	Microsoft Musical Instruments	MSInst			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+930w	Ms. Metaverse	MsMetave			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																								
+1366w	Microsoft Multimedia Mozart	MSMozart			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+74w	Microsoft Oceans	msoceans			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1367w	Microsoft Multimedia Schubert	MSSchbrt			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+912w	Microsoft Solitaire	MSSoli			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+240w	Murder, She Wrote: Mystery Jigsaw Puzzles	MSWJSaw			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1358w	Microsoft World of Flight	MSWoF			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1361w	Microsoft Explorapedia: The World of Nature	MSWoN			direct3d			mapper-0.74.map					svga_s3		32															20																																								
+1362w	Microsoft Explorapedia: The World of People	MSWoP			direct3d			mapper-0.74.map					svga_s3		32															20																																								
+868w	Mario Teaches Typing 2	MTType2			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+932w	Multimedia Dinosaurs	MulDinos			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+57w	Multimedia IQ Test	MultiIQ			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+538w	Roberta Williams' Mixed-Up Mother Goose	MUMG3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+933w	Mummy: Tomb of the Pharaoh	MummyToP			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1880w	MUNGO: The Only Pirate Left	Mungo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+935w	Muppet Treasure Island	MuppetTr			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+329w	Music Chase 1: The Music In Me	muschas1			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+192w	Mysterious Island: A Race Against Time and Hot Lava	MysIsl3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+937w	Myst	Myst			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+72w	Mythology	Myth3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+940w	Nanotank	Nanotank			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+424w	Nautical Number Hunt	Nautical			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow	60000								20																																								
+1392w	NCC-1701	NCC1701			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+425w	Neko	Neko			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+426w	Nelda Nockbladder's Anatomy Lesson	NeldaNoc			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+427w	NeuroDancer	NeuroDan			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+286w	Head Coach: NFL Math	NFLMath			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1338w	Head Coach: NFL Reading	NFLRead			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+941w	Nile: Passage to Egypt	Nile-Pas			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+1322w	The Adventures of Ninja Nanny & Sherrloch Sheltie: No. 11 Downing Street	NinjaNan			direct3d			mapper-0.74.map					svga_s3																	20																																								
+942w	Nisus Missile Master	NisusMis			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+943w	Nitemare 3D	Nite3d3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+341w	The New Kid On the Block	nkotb			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+423w	National Lampoon's Blind Date	NLBlind			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+944w	Noir: A Shadowy Thriller	Noir-ASh			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+945w	Noisy Video Poker and Blackjack	NoisyVid			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+946w	Noughts and Crosses	Noughtsa			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+2532w	NumberMaze Challenge	NumMazC			openglnb			mapper-0.74.map					svga_s3		63							25000								20																																								
+25w	Oddballz: Your Wacky Computer Petz	oddballz			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+947w	Odell Down Under	OdellDow			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+949w	Office Darts 301	OfficeDa			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+952w	One Armed Bandit	OneArmed			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+953w	OOG: The Object Orientation Game	OOG-TheO			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1315w	Out of This World	OOTW3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+956w	Operation: Eco-Nightmare	OpEcoNi			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+954w	Opening Night	OpeningN			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+955w	Opera Fatal	OperaFat			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1386w	Operation Odin	OperOdin			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+957w	Operation: Inner Space	OpInner			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+958w	Operation Neptune	OpNep3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1348w	Opus 'n Bill Brain Saver	OpusBill			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1353w	Origin FX	OriginFX			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+2333w	Adventures With Oslo: World of Water	OsloWW			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+196w	One Small Square	OSQ			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+84w	The Otter's Adventure	OtAdv			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+22w	Oscar the Balloonist Drops into the Countryside	OtBDitC			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+963w	Oscar the Balloonist Dives into the Lake	OtBDitL			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+23w	Oscar the Balloonist Discovers the Farm	OtBDtF			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+38w	Oscar the Balloonist Flies into the Mountains	OtBFlitM			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+962w	Oscar the Balloonist and the Secrets of the Forest	OtBSotF			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+960w	Oregon Trail II	OTrail2			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+961w	Oregon Trail II: 25th Anniversary Limited Edition	OTrail25			openglnb			mapper-0.74.map					svga_s3		32							60000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+191w	The Oregon Trail	Otrail3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+964w	Outpost	Outpost			openglnb			mapper-0.74.map					svga_s3		31							60000								20																																								
+190w	Outpost 69: Lust in Space	Outpst69			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+965w	Over the Reich	OvertheR			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+141w	Play To Win Casino	p2wincas			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+974w	Panic in the Park	Panicint			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+67w	The Gigglebone Gang: Pantsylvania	pantsyl			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+975w	Paparazzi!: Tales of Tinseltown	Paparazz			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+976w	Paperopolis	Paperopo			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+977w	Paulie Python	PauliePy			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+978w	P.A.W.S.: Personal Automated Wagging System	PAWS-Per			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+979w	PBA Bowling	PBABowli			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1003w	Prairie Dog Hunt Pro	PDHunt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+193w	Prairie Dog Hunt for Windows	PDHunt1			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+194w	Prairie Dog Hunt 2: Judgement Day	PDHunt2			openglnb			mapper-0.74.map					svga_s3		32							35000								20																																								
+1004w	Prairie Dog Hunt Pro '97	PDHunt97			openglnb			mapper-0.74.map					svga_s3		32							35000								20																																								
+142w	Play-Doh Creations	PDohCre			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+981w	Pepper's Adventures in Time	PepTim3x			openglnb			mapper-0.74.map					svga_s3		63							20000								20																																								
+983w	Perfect Partner Bridge	PerfectP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+53w	Peter's Alphabet Adventure	PetAlpha			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+52w	Peter's Colors Adventure	PetColor			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+338w	Peter's Magic Adventure	petemagi			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+985w	Peter and the Wolf	Peterand			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+993w	Pirates! Gold	pgold3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1055w	Phantasmagoria	Phan3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+990w	Pilgrim: Faith as a Weapon	Pilgrim-			openglnb			mapper-0.74.map					svga_s3		32							70000								20																																								
+992w	Pinball Builder: A Construction Kit for Windows	PinballB			openglnb			mapper-0.74.map					svga_s3		32							40000								20																																								
+195w	Pipe Dream (1990)	PipDr3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+433w	Pipe Dream (1991)	PipeDr3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+435w	Pippi	Pippi			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+436w	Pirates: Captain's Quest	Pirates-			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+146w	Pixie Dust	PixiDust			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+1876w	Planetary Taxi	PlanTaxi			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+995w	Playskool Puzzles	Playskoo			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+228w	Playtoons: Vol 1-4	playtoon			openglnb			mapper-0.74.map					svga_s3		63							60000								20																																								
+143w	Plot of the Cyberheads	PlototCH			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+140w	Private Eye	PMPriEye			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+998w	Pool Champion	PoolCham			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+999w	Powerhouse	Powerhou			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+144w	Power: The Game	PowerIBM			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1000w	Power Politics	PowerPol			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1001w	Saban's Power Rangers Zeo Versus The Machine Empire	PowerRan			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1011w	Putt-Putt & Fatty Bear's Activity Pack	PPFB3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+431w	The Pink Panther: Hokus Pokus Pink	PPHokus			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	60000								20																																								
+432w	The Pink Panther: Passport to Peril	PPPassp			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+1307w	Police Quest IV: Open Season	PQ43x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1308w	Police Quest: SWAT	PQSWAT3x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1005w	Prehistoric Animals	PreHAni			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1006w	Prince Interactive	PrinceIn			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1321w	The Princess and the Crab	PrinCrab			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1007w	Profitania Deluxe	Profitan			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1008w	Proliferation	Prolifer			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+969w	Pajama Sam's Lost & Found	PSLaF			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+971w	Pajama Sam: No Need to Hide When It's Dark Outside	PSNNH			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+972w	Pajama Sam's Sock Works	PSSW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+968w	Pajama Sam 2: Thunder and Lightning Aren't so Frightening	PSTaL			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1010w	P.T.O.: Pacific Theater of Operations II	PTO-Paci			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1012w	Putt-Putt and Pep's Balloon-o-Rama	PuttBall			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1013w	Putt-Putt and Pep's Dog on a Stick	PuttDoS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1015w	Putt-Putt Goes to the Moon	PuttMN3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1016w	Putt-Putt Joins the Parade	PuttPR3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1014w	Putt-Putt Enters the Race	PuttRace			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1019w	Putt Putt Travels Through Time	PuttTime			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1017w	Putt-Putt Saves the Zoo	PuttZoo			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1883w	Puzzle Power: Crosswords and More	PuzzPow			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1020w	Pyramid: Challenge of the Pharaoh's Dream	Pyramid-			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1021w	Pyst	Pyst			openglnb			mapper-0.74.map					svga_s3		32							80000								20																																								
+1029w	Quest For Glory IV: Shadows of Darkness	qfg43x			openglnb			mapper-0.74.map					svga_s3		63							25000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1023w	Qin: Tomb of the Middle Kingdom	Qin-Tomb			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1024w	Quantum Gate	QuantumG			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+311w	Quatra Command	QuatrCom			openglnb			mapper-0.74.map					svga_s3		32							6000								20																																								
+1025w	Queensrÿche's Promised Land	Queensry			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1031w	Qwirks	Qwirks			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1032w	Radio Active	RadioAct			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1039w	Rats!	Rats!			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1040w	Rattler Race	RattlerR			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1041w	Rave Shuttle: The Cosmic Challenge	RaveShut			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1042w	Ray Bradbury's The Martian Chronicles Adventure Game	RayBradb			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+227w	Reading Blaster: Invasion of the Word Snatchers	ReadBlas			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1050w	Real Video Poker	RealVP			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+1051w	Reelect JFK	ReelectJ			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+310w	Reflux: Issue.02 - 'The Threshold'	Reflux-2			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1052w	Reflux: Issue.01 - 'The Becoming'	Reflux-I			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1053w	Renju	Renju			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+79w	The Residents: Gingerbread Man	ResiGBM			openglnb			mapper-0.74.map					svga_s3		32					dynamic	pentium_slow	15000								20																																								
+535w	The Computer Edition of Risk: The World Conquest Game	Risk3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1380w	Rock'N Roll Your Own	RNRYO			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1056w	Robert E. Lee: Civil War General	RobertEL			direct3d			mapper-0.74.map					svga_s3		63						486_slow									20																																								
+1057w	RoboSport	RoboSpor			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1058w	Robot City	RobotCit			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1059w	Rodney's Funscreen	Rod3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+45w	Rodney's Wonder Window	RodWW			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1060w	Rolling Stones Voodoo Lounge CD-ROM	RollingS			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+1061w	RollOver	RollOver			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1062w	Romance of the Three Kingdoms IV: Wall of Fire	Romanceo			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1385w	Drivin' Route 66	Route66			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1046w	Reader Rabbit's Reading 1	Rrabb1			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1043w	Reader Rabbit 2	RRabb2			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1044w	Reader Rabbit 3	RRabb3			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+1045w	Reader Rabbit's Kindergarten	RRabbK			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+198w	Reader Rabbit and Friends: Let's Start Learning!	RRabbP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1047w	Reader Rabbit's Toddler	RRabbT			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+201w	Reader Rabbit's Reading Journey 1	RRRJ1			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+197w	Ruff's Bone	ruffbone			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1049w	Real Video Blackjack	RVidBJ			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+87w	Safety Scavenger Hunt	SafeScav			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1066w	Safety Monkey	SafetyMo			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1067w	Sammy's Science House	SammysSc			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1068w	Savage: The Ultimate Quest for Survival	Savage-T			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																														none										
+1085w	Shadows of Cairn	SCairn3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1073w	Schoolyard Slaughter	Schoolya			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1074w	Scrabble	Scrab3x			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow									20																																								
+86w	Scrutiny In The Great Round	ScrutGR			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+202w	The Secret of the Hunchback	SecHunch			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1076w	Secrets of the Luxor	SecLuxor			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1077w	Secrets of the Pyramids	SecPyra			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+48w	The Interactive Adventures Of Seymore Butts	SeyButt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+49w	Seymore Butts Interactive 2: In Pursuit of Pleasure	SeyButt2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1082w	SFCave	SFCave			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1148w	Spy Fox in Cheese Chase	SFChes			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1149w	Spy Fox in 'Dry Cereal'	SFDry			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1083w	SFPD Homicide / Case File: The Body in the Bay	SFPDHomi			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1121w	Smart Games Challenge #1	SGC1			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1122w	Smart Games Puzzle Challenge 2	SGC2			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+203w	Smart Games Puzzle Challenge 3	SGC3			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1078w	Sensible Golf	SGolf3x			openglnb			mapper-0.74.map			eXoDOS		svga_s3		32						486_slow	max								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1123w	Smart Games Stratajams	SGStrat			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1124w	Smart Games Word Puzzles #1	SGWordP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1084w	Shadowgate	Shadowga			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1088w	Shanghai II: Dragon's Eye	Shang2DE			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1087w	Shanghai: Great Moments	ShangGM			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1089w	Sheila Rae, the Brave	SheilaRa			openglnb			mapper-0.74.map					svga_s3																	20																				e:\ULTRASND																				
+1090w	Shine	Shine			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1091w	Shivers	Shivers			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1092w	Shivers Two: Harvest of Souls	ShiversT			openglnb			mapper-0.74.map					svga_s3		63						486_slow	75000								20																																								
+541w	Silent Steel	SilentSt			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+542w	Silent Thunder: A-10 Tank Killer II	SilentTh			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow	max								20																																								
+543w	SimAnt: The Electronic Ant Colony	SimAnt-T			openglnb			mapper-0.74.map					svga_s3		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																									none										
+1096w	SimCity 2000: CD Collection	SimC23x			openglnb			mapper-0.74.map					svga_s3		32							70000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+544w	SimCity	SimCi3x			openglnb			mapper-0.74.map					svga_s3		32							15000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1104w	SimEarth: The Living Planet	SimEa3x			openglnb			mapper-0.74.map					svga_s3		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1105w	SimFarm	SimFa3x			openglnb			mapper-0.74.map					svga_s3		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1106w	SimLife	SimLi3x			openglnb			mapper-0.74.map					svga_s3		32															20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1107w	Simon	Simon			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1108w	SimPark	SimPark			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1110w	SimTower: The Vertical Empire	SimTower			openglnb			mapper-0.74.map					svga_s3		32							25000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1111w	SimTown	SimTown			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+24w	SimTunes	simtune			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+337w	Sinkha: The 3D Multimedia Novel	sinkha			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+212w	Sink Sub Pro	SinkSubP			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1112w	Six Feet Under	SixFeetU			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1113w	Skat 2010	Skat2010			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1114w	Skat 2095	Skat2095			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1115w	Skat 3000	Skat3000			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1116w	SkiFree	SkiFree			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1658w	Skipper & Skeeto: Paradise Park	SkipSket			openglnb			mapper-0.74.map					svga_s3		63							40000								20																																								
+1117w	Skull Cracker	SkullCra			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+327w	SkyBorg: Into the Vortex	skyborg			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1118w	Slam!	Slam!			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1119w	Slay	Slay			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1342w	Sleeping Cubs Test of Courage	SleepCub			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+313w	Slots of Trivia	SlotTriv			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+326w	Spider-Man Cartoon Maker	smCM			openglnb			mapper-0.74.map					svga_s3		32							30000								20																																								
+1490w	Sid Meier's Colonization	SMCol3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+325w	Spider-Man: Interactive CD-ROM Comic Book!	smIC			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1126w	Snoopy's Campfire Stories	SnoopysC			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+270w	Soft Kill	Softkill			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1129w	Solitaire Deluxe	SoliDlx			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+211w	Solitaire's Journey	SoliJ3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1130w	Solitaire Twin Pack	SoliTwin			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1131w	Solitaire XXL	SoliXl3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1132w	Solitaire XXX	SoliXXX			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+88w	Sonic KNP Collection	SonicKNP			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1384w	Sonic's Schoolhouse	SonicSH			openglnb			mapper-0.74.map					svga_s3		32							90000								20																																								
+1133w	Sophie's World	SophiesW			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1134w	Space Bastards	SpaceBas			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1135w	Space Bucks	SpaceBuc			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1140w	Spaceship Warlock	Spaceshi			openglnb			mapper-0.74.map					svga_et4000		32					normal		45000								20																																								
+266w	Space Sirens: The Ultimate Cyber Sex Simulator	SpaceSi1			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1141w	Space Sirens 2: Megababes from Ajia	SpaceSir			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1142w	Spaceward Ho!	SpcHo3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1143w	Spectre VR	SpecVR3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1145w	Spelling Jungle	SpellJu			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+75w	This is Spinal Tap	SpinTap			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+147w	Sportsman's Paradise	SpPara3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	7000								20																																								
+1147w	SPQR: The Empire's Darkest Hour	SPQR-The			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+207w	Space Station Alpha: The Encounter	spstalph			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1144w	Speedway	SpWay3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1139w	Space Quest IV: Roger Wilco and the Time Rippers	SQ4CD3x			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+1136w	Space Quest 6: Roger Wilco in the Spinal Frontier	sq63x			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+1150w	Squash!	Squash!			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1151w	Squirmer The Game	Squirmer			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+210w	Sesame Street: Art Workshop	SSArtW			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1079w	Sesame Street Elmo's Preschool	SSElmoP			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1171w	Super Solvers: Gizmos & Gadgets!	SSGG3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1080w	Sesame Street: Get Set To Learn	SSGStL			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+312w	Sesame Street: Letters	SSLett			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1081w	Sesame Street: Let's Make a Word!	SSLMaW			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1172w	Super Solvers: Midnight Rescue!	SSMR3x			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+209w	Sesame Street: Numbers	SSNumb			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1174w	Super Solvers: OutNumbered!	SSON3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1175w	Super Solvers: Spellbound!	SSSB3x			openglnb			mapper-0.74.map					svga_s3		32							40000								20																																								
+1220w	Treasure Cove!	SSTC3x			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+319w	Treasure Galaxy!	SSTGalxW			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1173w	Super Solvers Mission: T.H.I.N.K.	SSThink			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1176w	Treasure Mountain!	SSTM3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1222w	Treasure MathStorm!	SSTMS3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1153w	Stanley's Sticker Stories	Stanleys			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1154w	Star Merc	StarMerc			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+1155w	Stars!	Stars!			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1159w	Star Warped	StarWarp			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1161w	Stay Tooned!	StayToon			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+1162w	Steven Spielberg's Director's Chair	StevenSp			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1158w	Star Trek: The Game Show	STGameS			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1157w	Star Trek: Klingon	STKling			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+83w	Star Trek Omnipedia	STOmni			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1316w	S.T.O.R.M.	STORM3x			openglnb			mapper-0.74.map					svga_s3	4	63			true		dynamic	pentium_slow	35000								120																																								
+1163w	Storybook Weaver Deluxe	Storyboo			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow	65000								20																																								
+342w	Stowaway! Stephen Biesty's Incredible Cross-Sections	stowaway			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+148w	Strategy Heads	StratHed			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+1168w	Strip Poker! International	Strip3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+1170w	Superman: The Mysterious Mr. Mist	Sup3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1169w	Superboy: Spies from Outer Space	Superboy			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1177w	Super Spy	SuperSpy			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+150w	Superman Activity Center	SupManAc			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+1178w	Super Tetris	SupTet3x			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+1160w	Star Wars Chess	SWChss3x			openglnb			mapper-0.74.map					svga_s3		63						486_slow	55000								20																																								
+85w	Snow White and the Magic Mirror Interactive Storybook	SWMM			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
+1180w	Symantec Game Pack	Symantec			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1183w	Take a Break! Crosswords	TaBCros			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1184w	Take a Break! Pinball	TaBPin			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1182w	Taipei	Taipei			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1185w	Take Your Best Shot	TakeYour			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+226w	Tales Of The Wild Zeep	TaleZeep			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1186w	TC Choplifter	TCChopli			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1196w	They Call Me... The Skul	TCMSkul			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1187w	TDK Pinball Machine	TDKPinba			openglnb			mapper-0.74.map					svga_s3		32							40000								20																																								
+1189w	Team Xtreme: Operation Weather Disaster	TeamXtre			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+681w	The Even More! Incredible Machine	TemIM3x			openglnb			mapper-0.74.map					svga_s3		32						486_SLOW	30000								20																																								
+1190w	Terrace	Terrace			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1191w	Terror T.R.A.X.: Track of the Vampire	TerrorTR			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1192w	Tesserae	Tess3x			openglnb			mapper-0.74.map					svga_s3		32							50000								20																																								
+1194w	Tetris Classic	TetC3x			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+1195w	Tetris Gold	TetG3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	60000								20																																								
+1193w	TetraVex	TetraVex			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+486w	The Big One	TheBigOn			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+487w	The Bizarre Adventures of Woodruff and the Schnibble	TheBizar			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+579w	The Cassandra Galleries	TheCassa			direct3d			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+590w	The C.H.A.O.S. Continuum	TheCHAOS			openglnb			mapper-0.82.12.map	false		eXoDOS	false	svga_et4000	2		true	false	true							true					20									true												false	off	22050						false									false		
+594w	The Chessmaster 4000 Turbo	TheChess			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+616w	The Crystal Skull	TheCryst			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+621w	The Daedalus Encounter	TheDaeda			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+629w	The Dark Eye	TheDarkE			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+656w	The Doonesbury Election Game Campaign '96	TheDoone			direct3d			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+512w	The Greens	TheGreen			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+781w	The Improv Presents: Don't Quit Your Day Job	TheImpro			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+790w	The Interactive Adventures of Blake and Mortimer: The Time Trap	TheInter			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1751w	The Jolly Postman's Party	TheJoll			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+797w	The 'Jongg CD!	TheJongg			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+827w	The Last Dynasty	TheLastD			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+840w	The Liberation of Kuwait	TheLiber			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+852w	The Lost Mind of Dr. Brain	TheLostM			openglnb			mapper-0.74.map					svga_s3		32							75000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+861w	The Magic Death: Virtual Murder 2	TheMagic			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+864w	The Manhole: CD-ROM Masterpiece Edition	TheManho			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+336w	The Mask: The Origin	TheMask			openglnb			mapper-0.74.map					svga_s3		32							60000								20																																								
+938w	The Mystery at Greveholm	TheMyste			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+967w	The Pagemaster	ThePagem			openglnb			mapper-0.74.map					svga_s3		32					dynamic	486_slow	15000								20																																								
+973w	The Palace of Deceit: The Dragon's Plight	ThePalac			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1009w	The Psychotron	ThePsych			openglnb			mapper-ECE.map					svga_s3		63							50000								25			.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+534w	The Rise & Rule of Ancient Empires	TheRiseR			openglnb			mapper-0.74.map					svga_s3		63							20000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1065w	The Sacred Mirror of Kofun	TheSacre			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1109w	The Simpsons Cartoon Studio	TheSimps			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+2265w	The Suit	TheSuit			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+2470w	The Tick: The Tick vs. The Uncommon Cold	TheTick			openglnb			mapper-0.74.map					svga_s3		63							55000								20																																								
+1207w	The Time Warp Of Dr. Brain	TheTimeW			openglnb			mapper-0.74.map					svga_s3		32						486_slow	75000								20																																								
+1215w	The Tortoise and the Hare	TheTorto			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1255w	The Vortex: Quantum Gate II	TheVorte			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1287w	The X-Fools: The Spoof is out There	TheX-Foo			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+546w	The Yukon Trail	TheYukon			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1201w	THiNK-X	THiNK-X			openglnb			mapper-0.74.map					svga_s3		63						pentium_slow	max								80																																								
+1202w	This Means War!	ThisMean			openglnb			mapper-0.74.map					svga_s3		63							65000								20																																								
+56w	Treasure Island Interactive	TII			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+151w	Tiles And Tribulations	TileTrib			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+782w	The Incredible Machine 3.0	TiM23x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1205w	Timelapse	Timelaps			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+217w	Time Out Sports: Baseball	TimeOutB			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1206w	Time Out Sports: Basketball	TimeOutS			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1209w	Timmy and the Magic Pictures	Timmyand			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1323w	Timmy the Dream Hunter	TimmyDH			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+282w	Disney's Timon & Pumbaa's Jungle Games	TimPumb			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1210w	Titanic: Adventure Out of Time	TitAdvOT			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+783w	The Incredible Toon Machine	TITM3x			openglnb			mapper-0.74.map					svga_s3		32							15000								20																																								
+1211w	Titanic: A Mysterious Undersea Adventure	TitMyst			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+55w	The Jungle Book: The Legend Of Mowgli	TJBLOM			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+152w	Tommy	Tommy3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1213w	Tonka Construction	TonkaCon			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1214w	Tonka Search & Rescue	TonkaSea			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+333w	Trophy Bass	tophbass			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1317w	Torin's Passage	Torin3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+1216w	Total Distortion	TotalDis			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1217w	Total Mayhem	TotalMay			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1218w	Tower	Tower			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+153w	Disney's Toy Story	ToySto3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1226w	Trivial Pursuit Interactive Multimedia Game	TPIMG			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1219w	Tracon for Windows	Trac2Win			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+318w	Trap Shooting	TrapShot			openglnb			mapper-0.74.map					svga_s3		32							10000								20																																								
+39w	Travel the World with Timmy	TravTim			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+154w	The Treasure Hunt	TrHunt3x			direct3d			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+155w	Triple Threat: An Arcade Adventure	TripThrt			openglnb			mapper-0.74.map					svga_s3		32						486_slow	35000								20																																								
+156w	Trivia Worx	TrivWorx			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1227w	Troggle Trouble Math	TroggleT			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+1228w	Trophy Bass 2 Deluxe	TrophyBa			openglnb			mapper-0.74.map					svga_s3		32						486_slow	50000								20																																								
+1223w	Treasure Quest	TrQuest			direct3d			mapper-0.74.map					svga_s3		63						pentium_slow	65000								20																																								
+1229w	Trudy's Time and Place House	TrudysTi			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1197w	Thinkin' Things Collection 1	TTC1			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1198w	Thinkin' Things Collection 2	TTC2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1199w	Thinkin' Things Collection 3	TTC3			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1200w	Thinkin' Things: Sky Island Mysteries	TTSiM			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+225w	Tuneland	tuneland			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1231w	Twisted Mini Golf	TwistedM			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1232w	TZ-Breakout	TZ-Break			openglnb			mapper-0.74.map					svga_s3		32							40000								20																																								
+1233w	TZ-Minigolf	TZ-Minig			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+43w	The Ultimate Human Body 2.0	UltHB2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1237w	Ultimate Yahtzee	Ultimate			openglnb			mapper-0.74.map					svga_s3		32						486_slow	50000								20																																								
+1235w	The Ultimate Solitaire Collection	UltSoli			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+278w	The Umbra Conspiracy	umbraco			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1241w	Uninvited	Uninvi3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1245w	Urban Runner	UrbanRun			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1238w	UltraVixen	Uvixen			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+244w	Vampire's Kiss	VampKiss			openglnb			mapper-0.74.map					svga_s3		32							45000								20																																								
+1341w	Virtual Chess	vchess			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+158w	Victory Or Defeat	VicODef			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+160w	Video Cube: Space	ViCubSpc			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1249w	Video Casino Games	VideoCas			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+159w	Vid Grid	VidGrid			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1250w	Vikings: The Strategy of Ultimate Conquest	Vikings-			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+2531w	The Universe According to Virgil Reality	Virgil			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+1253w	Virtual Vegas: Turbo Blackjack	VirtualV			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+161w	Virtual K'Nex	Vknex			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1254w	VooDoo Kid	VooDooKi			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1378w	Virtual Nightclub: A Game About Time	VRNClub			openglnb			mapper-0.74.map					svga_s3		63							max								20																																								
+1252w	Virtual Surgeon: Open Heart	VSOH3x			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1257w	Wallace & Gromit Fun Pack	WallaceG			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+324w	Wallobee Jack: The Bingi Burra Stone	walljack			openglnb			mapper-0.74.map					svga_s3		32						486_slow	40000								20																																								
+323w	WanderLust	wandlust			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1259w	Warhammer: Shadow of the Horned Rat	Warhamme			openglnb			mapper-0.74.map					svga_s3		32						pentium_slow	70000								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32								false																											
+1260w	Warhead	Warhead			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1261w	Warpath	Warpath			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1262w	We are Angels	WeareAng			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1263w	Weird: Truth is Stranger than Fiction	Weird-Tr			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1264w	Welcome to the Future	Welcomet			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1265w	Wheel of Fortune	WF3x			openglnb			mapper-0.74.map					svga_s3		63															20																																								
+163w	Wheel Of Fortune Featuring Vanna White	WFVW3x			openglnb			mapper-0.74.map					svga_s3		32						486_slow	50000								20																																								
+162w	Whac-A-Mole	WhacMole			direct3d			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+1266w	Where in the World is Carmen Sandiego?	Whereint			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1267w	Who is Oscar Lake?	WhoisOsc			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1272w	Widget Workshop: The Mad Scientist's Laboratory	WidgetWo			openglnb			mapper-0.74.map					svga_s3		32						486_slow									20																																								
+200w	Wiggins in Storyland	Wiggin3x			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1273w	WinAdv	WinAdv			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1274w	Winblocker	Winblock			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1275w	WinFight	WinFight			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1276w	WinGenius	WinGeniu			openglnb			mapper-0.74.map					svga_s3								486_slow	65000								20																																								
+1277w	Wings: Saigon to Persian Gulf	Wings-Sa			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1278w	WinRisk	WinRisk			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1279w	WinRoids	WinRoids			openglnb			mapper-0.74.map					svga_s3		32							20000								20																																								
+1280w	WinTrek	WinTrek			direct3d			mapper-0.74.map					svga_s3		32							65000								20																																								
+1871w	WinTrek 2.0	WinTrek2			openglnb			mapper-0.74.map					svga_s3		32							25000								20																																								
+1281w	Wishbone and the Amazing Odyssey	Wishbone			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+164w	Wizardry Gold	WizGold			direct3d			mapper-0.74.map					svga_s3		32						486_slow	max								20		fluidsynth	.\mt32\SoundCanvas.sf2	.2	.\mt32																																			
+1268w	Who Killed Brett Penance?: The Environmental Surfer	WKBrett			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1269w	Who Killed Sam Rupert: Virtual Murder 1	WKSam			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1270w	Who Killed Taylor French?: The Case of the Undressed Reporter	WKTaylor			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+216w	The Wolf and the Seven Little Goats	WolfGoat			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+1328w	Word Heads	WordHeds			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+26w	World Empire II	WorEmp2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+218w	World Empire IV	WorEmp4			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1283w	World Empire III	WorldEmp			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1284w	World of Aden: Entomorph - Plague of the Darkfall	WorldofA			openglnb			mapper-0.74.map					svga_s3									65000								20																																								
+1285w	Wrath of the Gods	WraGods			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+183w	World Series of Poker Deluxe Casino Pak	WSPDlxCs			openglnb			mapper-0.74.map					svga_s3		32							55000								20																																								
+322w	The Wild World of Madison Jaxx	WWoMJ			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+1286w	Wyatt Earp's Old West	WyattEar			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+280w	X-Men: Interactive CD-ROM Comic Book!	xmenIC			openglnb			mapper-0.74.map					svga_s3		32							75000								20																																								
+1288w	Xplora 1: Peter Gabriel's Secret World	Xplora1			openglnb			mapper-0.74.map					svga_s3		31							55000								20																																								
+1290w	Yearn2Learn: Peanuts	Y2LPean			openglnb			mapper-0.74.map					svga_et4000		32					normal										20																																								
+2340w	Yearn2Learn: Snoopy	Y2LSnoo			openglnb			mapper-0.74.map					svga_et4000		32					normal										20																																								
+1289w	Yearn2Learn: Master Snoopy's World Geography	Y2LSnoop			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+82w	Yacht	yacht			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1292w	You Don't Know Jack	YDKJ			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1298w	You Don't Know Jack: Volume 2	YDKJ2			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1299w	You Don't Know Jack: Volume 3	YDKJ3			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1294w	You Don't Know Jack: Movies	YDKJMov			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1296w	You Don't Know Jack: Sports	YDKJSprt			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1297w	You Don't Know Jack: Television	YDKJTV			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1300w	You Don't Know Jack XL: X-Tra Large	YDKJXL			openglnb			mapper-0.74.map					svga_s3		64							max								20																																								
+1291w	Yellow Brick Road	YellowBr			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+1301w	Young Dilbert Hi-Tech Hijinks	YoungDil			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+81w	Young Pocahontas Interactive Storybook	YPocaIS			openglnb			mapper-0.74.map					svga_s3		32						486_slow	55000								20																																								
+239w	ZAARK and the Night Team: The Quest for Patterns	Zaark			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+547w	Zap!	Zap!			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+548w	Zapitalism! Deluxe	Zapitali			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+549w	Zeddas: Servant of Sheol	Zeddas-S			openglnb			mapper-0.74.map					svga_s3		32						486_slow	65000								20																																								
+551w	Zig-Zag	Zig-Zag			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+552w	Zombie Castle	ZombieCa			openglnb			mapper-0.74.map					svga_s3		32															20																																								
+553w	Zombie Wars	ZombieWa			openglnb			mapper-0.74.map					svga_s3		64						pentium_slow	max								20																																								
+36w	Zurk's Alaskan Trek	ZurkAlas			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+37w	Zurk's Rainforest Lab	ZurkLab			openglnb			mapper-0.74.map					svga_s3		32							65000								20																																								
+320w	Zurk's Learning Safari	ZurkSaf			openglnb			mapper-0.74.map					svga_s3		32							max								20																																								
